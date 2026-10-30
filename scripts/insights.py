@@ -10,7 +10,7 @@ Metrics that Instagram rejects are recorded under "_errors" instead of failing t
 """
 import csv, json, os
 from datetime import timedelta
-from common import ROOT, ACCOUNTS, IGError, token_for, ig_get, iter_posts, save_json, now_utc, parse_time, open_issue
+from common import CURRENT, ROOT, ACCOUNTS, IGError, token_for, ig_get, iter_posts, save_json, now_utc, parse_time, open_issue
 
 FEED_METRICS = ["reach", "views", "likes", "comments", "saved", "shares", "total_interactions", "profile_visits", "follows"]
 REEL_METRICS = ["reach", "views", "likes", "comments", "saved", "shares", "total_interactions"]
@@ -135,6 +135,7 @@ def run(acct, token):
 def main():
     for acct in ACCOUNTS:
         token = token_for(acct)
+        CURRENT["account"] = acct
         if not token:
             print(f"{acct}: no token, skipping")
             continue

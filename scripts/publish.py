@@ -7,7 +7,7 @@ Set DRY_RUN=1 to print what would happen without calling Instagram.
 """
 import os, subprocess, time, urllib.request
 from datetime import timedelta
-from common import (ROOT, ACCOUNTS, IGError, token_for, ig_get, ig_post, iter_posts, save_json,
+from common import (CURRENT, ROOT, ACCOUNTS, IGError, token_for, ig_get, ig_post, iter_posts, save_json,
                     now_utc, parse_time, open_issue)
 
 DRY = os.environ.get("DRY_RUN") == "1"
@@ -90,6 +90,7 @@ def main():
             open_issue(f"Skipped post {post['id']}", f"{label} was due {post['publish_at']} but the publisher didn't run in time. Claude will reschedule it at the next weekly review.")
             continue
         token = token_for(acct)
+        CURRENT["account"] = acct
         if not token:
             open_issue(f"Missing Instagram token for {acct}",
                        f"Add the repository secret `{ACCOUNTS[acct]['secret']}` (Settings → Secrets and variables → Actions). {label} is waiting.")

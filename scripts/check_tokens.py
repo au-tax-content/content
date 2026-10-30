@@ -1,9 +1,10 @@
 """Setup check: confirm each Instagram token works and can publish. Posts nothing."""
-from common import ACCOUNTS, IGError, token_for, ig_get
+from common import CURRENT, ACCOUNTS, IGError, token_for, ig_get
 
 ok = True
 for acct, cfg in ACCOUNTS.items():
     t = token_for(acct)
+    CURRENT["account"] = acct
     if not t:
         print(f"{cfg['handle']}: MISSING secret {cfg['secret']}"); ok = False; continue
     try:

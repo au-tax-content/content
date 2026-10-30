@@ -41,12 +41,15 @@ def _request(method, url, params=None, data=None, retries=3):
 
 
 FB_API = "https://graph.facebook.com/v25.0"
+CURRENT = {"account": None}  # set by callers so one shared system-user token can serve both accounts
 
 
 def _route(path, token):
     """Instagram-login tokens (IG...) use graph.instagram.com and 'me'.
     Facebook/system-user tokens (EAA...) use graph.facebook.com with the account's numeric IG id."""
     if token.startswith("EAA"):
+        if CURRENT["account"] and path.split("/")[0] == "me":
+            return f"{FB_API}/{ACCOUNTS[CURRENT['account']]['ig_id']}" + path[2:]
         for cfg in ACCOUNTS.values():
             if os.environ.get(cfg["secret"], "").strip() == token and path.split("/")[0] == "me":
                 return f"{FB_API}/{cfg['ig_id']}" + path[2:]
