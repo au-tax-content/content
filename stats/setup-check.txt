@@ -1,0 +1,4 @@
+retained.au: OK (Facebook/system-user token) as @retained.au (0 followers); publishing quota {'data': [{'quota_usage': 0, 'config': {'quota_total': 100, 'quota_duration': 86400}}]}
+returnpolicy.au: OK (Facebook/system-user token) as @returnpolicy.au (0 followers); publishing quota {'data': [{'quota_usage': 0, 'config': {'quota_total': 100, 'quota_duration': 86400}}]}
+Upload test (not published): FINISHED
+Fri Oct 30 23:38:56 UTC 2026
