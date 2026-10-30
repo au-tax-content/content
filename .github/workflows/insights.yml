@@ -3,6 +3,8 @@ on:
   schedule:
     - cron: "17 */4 * * *"
   workflow_dispatch:
+  push:
+    paths: [".github/stats-trigger"]
 permissions:
   contents: write
   issues: write
