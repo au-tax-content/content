@@ -1,0 +1,31 @@
+name: Collect stats
+on:
+  schedule:
+    - cron: "17 */4 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+  issues: write
+concurrency:
+  group: repo-writes
+  cancel-in-progress: false
+jobs:
+  insights:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - name: Collect
+        env:
+          IG_TOKEN_RETAINED: ${{ secrets.IG_TOKEN_RETAINED }}
+          IG_TOKEN_RETURNPOLICY: ${{ secrets.IG_TOKEN_RETURNPOLICY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/insights.py
+      - name: Save stats
+        run: |
+          git config user.name "content-bot"
+          git config user.email "content-bot@users.noreply.github.com"
+          git add -A stats
+          git diff --cached --quiet && exit 0
+          git commit -m "Stats update"
+          for i in 1 2 3; do git pull --rebase -q && git push -q && break; sleep 5; done

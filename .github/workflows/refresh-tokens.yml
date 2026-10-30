@@ -1,0 +1,20 @@
+name: Refresh Instagram tokens
+on:
+  schedule:
+    - cron: "23 3 * * 1"
+  workflow_dispatch:
+permissions:
+  contents: read
+  issues: write
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Refresh
+        env:
+          IG_TOKEN_RETAINED: ${{ secrets.IG_TOKEN_RETAINED }}
+          IG_TOKEN_RETURNPOLICY: ${{ secrets.IG_TOKEN_RETURNPOLICY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_PAT }}
+        run: python3 scripts/refresh_tokens.py

@@ -1,0 +1,13 @@
+name: Check setup
+on:
+  workflow_dispatch:
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check Instagram tokens
+        env:
+          IG_TOKEN_RETAINED: ${{ secrets.IG_TOKEN_RETAINED }}
+          IG_TOKEN_RETURNPOLICY: ${{ secrets.IG_TOKEN_RETURNPOLICY }}
+        run: python3 scripts/check_tokens.py

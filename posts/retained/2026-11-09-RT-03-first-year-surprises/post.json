@@ -1,0 +1,24 @@
+{
+  "id": "RT-03",
+  "account": "retained",
+  "type": "carousel",
+  "series": "First-year ABN",
+  "pillar": "First-year ABN",
+  "publish_at": "2026-11-09T19:30:00+11:00",
+  "caption": "Nobody warns you about these until it's too late.\n\nNo tax comes out of ABN payments, so year one's tax arrives in one hit. Then the ATO may put you on quarterly instalments for the next year, on top. Hit $75K turnover and you must register for GST. And nobody pays your super but you.\n\nSend this to the mate who just went out on their own.\n\nComment ABN and you'll be first to get the Starter Kit when it lands in December.\n\nGeneral info only, not personal advice.\n\n#soletrader #newbusiness #abn #smallbusinessaustralia #sidehustle",
+  "images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg",
+    "4.jpg",
+    "5.jpg",
+    "6.jpg",
+    "7.jpg"
+  ],
+  "figures_checked": [
+    "PAYG instalments entry: instalment income $4,000+, tax payable $1,000+, notional tax $500+ (ATO)",
+    "GST registration at $75,000 turnover, within 21 days (ATO)",
+    "SG rate 12%"
+  ],
+  "status": "queued"
+}

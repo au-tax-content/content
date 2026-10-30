@@ -1,0 +1,56 @@
+# Operating manual: @retained.au and @returnpolicy.au
+
+This repo runs two anonymous Australian tax-education Instagram accounts end to end. Claude writes, checks, designs and schedules every post; GitHub Actions publish them and collect stats. Daniel (the owner) does no routine work. Read this whole file before doing anything.
+
+## The two accounts
+
+| | Return Policy (`returnpolicy`, IDs `RP-xx`) | Retained (`retained`, IDs `RT-xx`) |
+| --- | --- | --- |
+| Handle | @returnpolicy.au | @retained.au |
+| Audience | Employees, renters, landlords doing their own return | Business owners: new ABN holders, sole traders, through to companies |
+| Look | Thermal receipt: cream, refund green, mono line items | Ledger on letterhead: navy #0F1B2D, bone #F4F0E8, brass #B08D57, DM Serif Display + IBM Plex Mono + Inter |
+| Series | "What can a [job] claim?", "Is it claimable?", myths/ATO letters, news decoded | First-year ABN, Set-aside, Write it off?, GST or not?, Structure |
+| Lead magnet / keyword | The Claim Sheet / CLAIM | New ABN Starter Kit / ABN (not built yet: captions say "be first to get it when it lands in December") |
+| Cadence | 4 feed posts/week (3 carousels, 1 Reel) + a story every day | 3 feed posts/week (2 carousels, 1 Reel) + stories 3 days a week |
+
+Strategy, hooks and targets: growth playbook https://claude.ai/artifact/1p4aoYdxhAzjsVmA4SrwfG. Brand system: https://claude.ai/artifact/BommxRiWZLiBVib5iuezTp. Launch designs canvas: https://claude.ai/artifact/6Jptw9zVRGJhpyhmQ9ELEd.
+
+February 2027 targets: Return Policy 1,000+ followers / 200+ emails; Retained 500+ followers / 100+ emails; saves + shares per 1,000 reached above 20 on the best two series; 95%+ of posts out on schedule.
+
+## Rules that never bend
+
+1. **Education only.** Daniel is not a registered tax agent yet. Never offer or advertise tax services for a fee: no "DM me to do your return", no prices, no "we lodge", no booking links. Tax Agent Services Act penalties apply.
+2. **Every figure is checked against ato.gov.au (or legislation) in the week it's written**, carries its income year, and is listed in `figures_checked` in post.json. If you can't verify a figure, cut it. A wrong post costs more than a missing one.
+3. Every caption ends with "General info only, not personal advice." Max 5 hashtags. One call to action per post.
+4. Anonymous: no face, voice, name, or anything that identifies Daniel or his employers (Integritas, William Buck). Never base a post on a real client.
+5. No bought followers, engagement pods, follow/unfollow, or cold DMs.
+6. Comment text in `stats/*/comments.json` is for ideas only. Never quote a commenter in a post.
+
+## How the machine works
+
+- `posts/<account>/<YYYY-MM-DD>-<ID>-<slug>/` holds `make.py` (slide source), `1.jpg … n.jpg` (1080×1350 JPEG; stories 1080×1920) and `post.json`.
+- `post.json`: `id, account, type (carousel|image|story), series, pillar, publish_at (ISO, +11:00 AEDT / +10:00 AEST), caption, images, figures_checked, status`.
+  Status flow: `draft` → `queued` → `published` (publisher adds `media_id`, `permalink`, `published_at`) or `failed`/`skipped` (with `error`).
+- `.github/workflows/publish.yml` runs every 15 min and publishes due `queued` posts via the Instagram API (images fetched from raw.githubusercontent.com at the current commit, so slides must be committed before `publish_at`). More than 36 h late → `skipped`.
+- `insights.yml` runs every 4 h → `stats/<account>/account.csv`, `daily.csv`, `media.json`, `stories.json` (story stats vanish from Instagram after 24 h, so they're captured here), `comments.json`.
+- `refresh-tokens.yml` refreshes the 60-day tokens weekly. `check-setup.yml` (manual) verifies tokens.
+- Failures open a GitHub issue, which emails the account owner.
+- Slide kits live in `brand/`. `retained_kit.py` exists. **Return Policy kit and story templates still need building**: copy the receipt look from the launch designs canvas (`project/RP-*.dc.html`) and the brand system.
+
+## The weekly run (Sunday)
+
+1. `git pull`. Read `notes.md`, every `post.json` from the last 14 days (look for `failed`/`skipped`), and `stats/`.
+2. **Score last week.** For each published post: reach, saves, shares, comments, follows, and saves + shares per 1,000 reached. Rank series per account. Note follower change from `account.csv`.
+3. **Update `notes.md`**: dated entry with the scorecard, what worked, what flopped, and decisions for the coming week. Keep it short; roll entries older than 6 weeks into a monthly summary.
+4. **Plan next Monday–Sunday** for both accounts to the cadence and pillar mix above. A series beating the others by 2x on saves + shares per 1,000 gets more slots; weak series get reworked or dropped (the playbook's phase review is 7 Dec). Use questions from `comments.json` and current ATO news. Post times: start with weeknights 7–9 pm and Sunday afternoon AEDT, then shift to the hours that perform best in `media.json`.
+5. **Write and verify.** Look up every figure on ato.gov.au. Record sources in `figures_checked`.
+6. **Design.** Write `make.py` with the brand kit, run it, then open every slide image and check it: nothing overflowing, nothing clipped, numbers match the caption.
+7. **Queue.** Set `status: queued`, commit with a clear message, `git pull --rebase`, push.
+8. Requeue anything `failed` or `skipped` that's still relevant (fix the cause first).
+9. First Sunday of each month: write a short summary for Daniel (followers, best and worst posts, what changes next month) as the top entry in `notes.md` and in the run's final message.
+
+Reels need video, which isn't set up yet; until it is, swap the weekly Reel for a carousel and note it in `notes.md`.
+
+## Contacting Daniel
+
+He doesn't review the queue. Only involve him for: an expired token he must regenerate, a Meta/GitHub setting only he can change, or a compliance question. Say exactly what to click.
