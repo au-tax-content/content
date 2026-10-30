@@ -15,7 +15,7 @@ jobs:
           IG_TOKEN_RETAINED: ${{ secrets.IG_TOKEN_RETAINED }}
           IG_TOKEN_RETURNPOLICY: ${{ secrets.IG_TOKEN_RETURNPOLICY }}
         run: |
-          set -o pipefail
+          mkdir -p stats
           python3 scripts/check_tokens.py 2>&1 | tee stats/setup-check.txt || true
           date -u >> stats/setup-check.txt
       - name: Save result
