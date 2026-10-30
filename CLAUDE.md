@@ -37,11 +37,47 @@ February 2027 targets: Return Policy 1,000+ followers / 200+ emails; Retained 50
 - Failures open a GitHub issue, which emails the account owner.
 - Slide kits live in `brand/`. `retained_kit.py` exists. **Return Policy kit and story templates still need building**: copy the receipt look from the launch designs canvas (`project/RP-*.dc.html`) and the brand system.
 
+
+## Growth system: how to optimise (read every run)
+
+Goal by mid-February 2027: the biggest engaged audience and email list possible, plus a clear picture of who the audience is and what they need, so the practice launches into demand. In order of importance:
+1. **Email subscribers** (once the list exists): the asset Daniel owns.
+2. **Follows per 1,000 reached** and **saves + shares per 1,000 reached**: what Instagram rewards and what makes people come back.
+3. **Comments**, especially keyword comments (ABN / CLAIM): demand signal plus reach.
+
+**One experiment per account per week.** Change one variable only (hook type, cover style, slide count, posting hour, CTA type, topic angle), state the hypothesis before posting, and judge it on the metrics above after 7 days. Log every test in `experiments.md` (date, account, hypothesis, variant vs control, result, decision). Winners become the default; keep a running "what we know works" list at the top of that file.
+
+**Hooks:** rotate the six from the playbook (guess-then-reveal, tag-a-colleague, save-for-later reference, myth-bust, money on the table, fresh news decoded). Track the winning hook type per account and lean into it.
+
+**Posting times:** after 4 weeks of data, rank day × hour by follows and saves + shares per 1,000 reached from `media.json`, and move slots to the best three windows.
+
+**Doubling down:** a post that beats the account's median by 2x gets a follow-up within 2 weeks (part 2, the same angle for another job or trade, or a deeper dive). Re-cut proven posts into a new format after 4–6 weeks.
+
+**Seasonal calendar:** Nov: ATO letters, amending a return, the $1,000 standard deduction, the 31 Oct deadline just passed. Dec: Christmas parties and gifts, summer side hustles, "start a receipts folder". Jan: new-year money reset, "just quit to go out on your own?", Oct–Dec BAS due 28 Feb. Feb: what an accountant actually does. Check ato.gov.au news weekly and do a "news decoded" post within 48 hours of anything big.
+
+**Stories via the API are images only:** no poll, quiz or link stickers. Use stories to push the week's posts ("new post: …") and for one-slide tips. Interactive stickers would need Daniel to post by hand, so don't plan on them.
+
+**Comments:** `scripts/reply_comments.py` replies publicly to ABN / CLAIM comments within about 15 minutes (text in `accounts.json` → `keyword_replies`). Update that text the moment a lead magnet goes live. Never auto-reply to questions, because an answer can become personal advice. Questions go into `audience.md` and become posts.
+
+## Audience intelligence (positioning for launch)
+
+Keep `audience.md` current every week. No usernames or personal details, ever.
+- Situations and occupations that show up (from comments, which posts pull follows, and demographics once a profile passes 100 followers: `me/insights?metric=follower_demographics`).
+- Top questions, confusions and pain points, in the audience's words (paraphrased).
+- What they'd want help with: the services, timing and price sensitivity they hint at.
+- Monthly "launch readiness" section: list size per brand, top 3 segments, top 5 problems, and suggested first offers to test once TPB registration allows (ideas for Daniel, never advertised).
+
+## Lead capture (phase 2)
+
+- Lead magnets must exist before the December promise in captions: build the **New ABN Starter Kit** (first-year checklist + set-aside calculator) and **The Claim Sheet** (what 20 common jobs can claim) during November, store them in `leadmagnets/`, every figure verified.
+- Email signup needs a free MailerLite account that only Daniel can create. Once it exists: a signup page per brand on GitHub Pages from this repo (link in bio), a double-opt-in form, then update `keyword_replies` to "link in bio". Ask Daniel for this in the summary of the run where the magnets are ready, with exact steps.
+- Spam Act: opt-in only, sender identified, unsubscribe honoured. Collect first name, email and one segment question only, never TFNs or income figures.
+
 ## The weekly run (Sunday)
 
 1. `git pull`. Read `notes.md`, every `post.json` from the last 14 days (look for `failed`/`skipped`), and `stats/`.
 2. **Score last week.** For each published post: reach, saves, shares, comments, follows, and saves + shares per 1,000 reached. Rank series per account. Note follower change from `account.csv`.
-3. **Update `notes.md`**: dated entry with the scorecard, what worked, what flopped, and decisions for the coming week. Keep it short; roll entries older than 6 weeks into a monthly summary.
+3. **Update `notes.md`**: dated entry with the scorecard, what worked, what flopped, and decisions for the coming week. Keep it short; roll entries older than 6 weeks into a monthly summary. Judge last week's experiments in `experiments.md`, set this week's, and update `audience.md`.
 4. **Plan next Monday–Sunday** for both accounts to the cadence and pillar mix above. A series beating the others by 2x on saves + shares per 1,000 gets more slots; weak series get reworked or dropped (the playbook's phase review is 7 Dec). Use questions from `comments.json` and current ATO news. Post times: start with weeknights 7–9 pm and Sunday afternoon AEDT, then shift to the hours that perform best in `media.json`.
 5. **Write and verify.** Look up every figure on ato.gov.au. Record sources in `figures_checked`.
 6. **Design.** Write `make.py` with the brand kit, run it, then open every slide image and check it: nothing overflowing, nothing clipped, numbers match the caption.

@@ -3,12 +3,24 @@
     "handle": "retained.au",
     "secret": "IG_TOKEN_RETAINED",
     "prefix": "RT",
-    "ig_id": "17841445885672146"
+    "ig_id": "17841445885672146",
+    "keyword": "ABN",
+    "keyword_replies": [
+      "You're on the list. The New ABN Starter Kit lands in December. Follow so you see it first.",
+      "Noted! The Starter Kit drops in December. Turn on post notifications so you don't miss it.",
+      "Got you. The kit's coming in December: first-year checklist plus a set-aside calculator. Follow to catch it."
+    ]
   },
   "returnpolicy": {
     "handle": "returnpolicy.au",
     "secret": "IG_TOKEN_RETURNPOLICY",
     "prefix": "RP",
-    "ig_id": "17841435288709284"
+    "ig_id": "17841435288709284",
+    "keyword": "CLAIM",
+    "keyword_replies": [
+      "You're on the list. The Claim Sheet lands in December. Follow so you see it first.",
+      "Noted! The Claim Sheet drops in December. Turn on post notifications so you don't miss it.",
+      "Got you. The Claim Sheet (what 20 common jobs can claim) is coming in December. Follow to catch it."
+    ]
   }
 }
