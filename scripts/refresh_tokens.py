@@ -12,6 +12,9 @@ for acct, cfg in ACCOUNTS.items():
     if not old:
         print(f"{acct}: no token")
         continue
+    if old.startswith("EAA"):
+        print(f"{acct}: system-user token, never expires; nothing to refresh")
+        continue
     try:
         with urllib.request.urlopen(
                 f"https://graph.instagram.com/refresh_access_token?grant_type=ig_refresh_token&access_token={old}",

@@ -16,4 +16,23 @@ for acct, cfg in ACCOUNTS.items():
             print(f"  WARNING: token belongs to @{me.get('username')}, expected @{cfg['handle']}"); ok = False
     except IGError as e:
         print(f"{cfg['handle']}: FAILED {e}"); ok = False
+# Upload test: ask Instagram to fetch a real slide into an unpublished container (expires unused after 24h).
+import subprocess, time, os
+sha = subprocess.run(["git","rev-parse","HEAD"],capture_output=True,text=True).stdout.strip()
+repo = os.environ.get("GITHUB_REPOSITORY","au-tax-content/content")
+url = f"https://raw.githubusercontent.com/{repo}/{sha}/posts/retained/2026-11-04-RT-01-start-here/1.jpg"
+CURRENT["account"] = "retained"
+t = token_for("retained")
+if t:
+    try:
+        from common import ig_post
+        c = ig_post("me/media", t, image_url=url, is_carousel_item="true")
+        for _ in range(15):
+            st = ig_get(c["id"], t, fields="status_code"); 
+            if st.get("status_code") in ("FINISHED","ERROR"): break
+            time.sleep(4)
+        print(f"Upload test (not published): {st.get('status_code')}")
+        ok = ok and st.get("status_code") == "FINISHED"
+    except IGError as e:
+        print(f"Upload test FAILED: {e}"); ok = False
 raise SystemExit(0 if ok else 1)
