@@ -40,14 +40,28 @@ def _request(method, url, params=None, data=None, retries=3):
     raise last
 
 
+FB_API = "https://graph.facebook.com/v25.0"
+
+
+def _route(path, token):
+    """Instagram-login tokens (IG...) use graph.instagram.com and 'me'.
+    Facebook/system-user tokens (EAA...) use graph.facebook.com with the account's numeric IG id."""
+    if token.startswith("EAA"):
+        for cfg in ACCOUNTS.values():
+            if os.environ.get(cfg["secret"], "").strip() == token and path.split("/")[0] == "me":
+                return f"{FB_API}/{cfg['ig_id']}" + path[2:]
+        return f"{FB_API}/{path}"
+    return f"{API}/{path}"
+
+
 def ig_get(path, token, **params):
     params["access_token"] = token
-    return _request("GET", f"{API}/{path}", params=params)
+    return _request("GET", _route(path, token), params=params)
 
 
 def ig_post(path, token, **data):
     data["access_token"] = token
-    return _request("POST", f"{API}/{path}", data=data)
+    return _request("POST", _route(path, token), data=data)
 
 
 def now_utc():

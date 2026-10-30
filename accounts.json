@@ -1,4 +1,14 @@
 {
-  "retained": {"handle": "retained.au", "secret": "IG_TOKEN_RETAINED", "prefix": "RT"},
-  "returnpolicy": {"handle": "returnpolicy.au", "secret": "IG_TOKEN_RETURNPOLICY", "prefix": "RP"}
+  "retained": {
+    "handle": "retained.au",
+    "secret": "IG_TOKEN_RETAINED",
+    "prefix": "RT",
+    "ig_id": "17841445885672146"
+  },
+  "returnpolicy": {
+    "handle": "returnpolicy.au",
+    "secret": "IG_TOKEN_RETURNPOLICY",
+    "prefix": "RP",
+    "ig_id": "17841435288709284"
+  }
 }

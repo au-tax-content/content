@@ -66,7 +66,7 @@ def run(acct, token):
     now = now_utc()
     ids = post_ids_by_media()
 
-    me = ig_get("me", token, fields="user_id,username,followers_count,follows_count,media_count")
+    me = ig_get("me", token, fields="username,followers_count,follows_count,media_count")
     append_csv(os.path.join(d, "account.csv"), {
         "fetched_at": now.isoformat(timespec="minutes"), "followers": me.get("followers_count"),
         "follows": me.get("follows_count"), "media_count": me.get("media_count")})
