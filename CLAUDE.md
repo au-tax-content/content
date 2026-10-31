@@ -35,7 +35,7 @@ February 2027 targets: Return Policy 1,000+ followers / 200+ emails; Retained 50
 - `insights.yml` runs every 4 h → `stats/<account>/account.csv`, `daily.csv`, `media.json`, `stories.json` (story stats vanish from Instagram after 24 h, so they're captured here), `comments.json`.
 - `refresh-tokens.yml` refreshes the 60-day tokens weekly. `check-setup.yml` (manual) verifies tokens.
 - Failures open a GitHub issue, which emails the account owner.
-- Slide kits live in `brand/`. `retained_kit.py` exists. **Return Policy kit and story templates still need building**: copy the receipt look from the launch designs canvas (`project/RP-*.dc.html`) and the brand system.
+- Slide kits live in `brand/`. **Use `bold.py` for Retained carousels** (big type, green numbers, Penny with speech bubbles; RT-02 and RT-03 are the reference). `retained_kit.py` is the old plain style, so don't use it for new posts. **Return Policy kit and story templates still need building**: copy the receipt look from the launch designs canvas (`project/RP-*.dc.html`) and the brand system.
 
 
 ## Content direction (Daniel's call, 1 Nov 2026)

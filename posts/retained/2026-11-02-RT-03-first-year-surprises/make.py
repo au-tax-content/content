@@ -1,48 +1,36 @@
-"""RT-03 slides. Run: python3 make.py"""
+"""RT-03 bold carousel: 5 tax surprises in your first year on an ABN. Run: python3 make.py"""
 import os, sys
 sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "..", "..", "brand"))
-from retained_kit import *
+from bold import slide, hl, bubble, penny, render_slides, SERIF, MONO, GREEN, BRASS, RED, BONE, NAVY
 
-cover_rows = "".join(
-    f'<div style="display:flex;gap:28px;padding:18px 0;border-bottom:2px solid #2B3A52"><span style="font-family:{MONO};color:{BRASS};font-weight:600">{i:02d}</span><span>{t}</span></div>'
-    for i, t in enumerate(["Nobody takes tax out for you", "Year one's bill arrives in one hit",
-                           "Then the ATO asks for it in advance", "$75K turnover means GST", "Nobody pays your super"], 1))
-
-def shock(n, head, body, note):
-    bg = BONE if n % 2 else STONE
-    return page(header(f"FIRST-YEAR ABN · {n:02d} OF 05", False)
-                + f'<span style="font-family:{MONO};font-weight:600;font-size:180px;line-height:0.9;color:{BRASS}">{n:02d}</span>'
-                + title(head, 104)
-                + para(body, 40)
-                + (f'<div style="border-left:6px solid {BRASS};padding:8px 0 8px 28px;font-family:{SANS};font-size:32px;line-height:1.4;font-weight:500;color:#2B3A52">{note}</div>' if note else "")
-                + footer("General info only · Not personal advice", "→", False), bg, NAVY)
+N = 7
+def shock(n, head, big, big_color, body, say=None):
+    b = bubble(say, 80, 1010, 520) if say else ""
+    return slide(f"""<div style="position:absolute;left:80px;top:170px;right:80px">
+ <div style="{MONO};font-size:44px;color:{BRASS}">SURPRISE {n} OF 5</div>
+ <div style="{SERIF};font-size:112px;line-height:1.04;margin-top:20px">{head}</div>
+ <div style="{MONO};font-size:150px;line-height:1.05;color:{big_color};margin-top:40px">{big}</div>
+ <div style="font-size:42px;line-height:1.38;margin-top:30px;max-width:700px">{body}</div></div>
+ {b}{penny(200, 820, 960)}""", n + 1, N, swipe=True)
 
 slides = [
-    page(header("FIRST-YEAR ABN · No. 003", True)
-         + title("Five tax surprises in your first year on an ABN.", 116, 32)
-         + f'<div style="display:flex;flex-direction:column;font-family:{SANS};font-weight:500;font-size:36px">{cover_rows}</div>'
-         + footer("General info only · Not personal advice", "SWIPE →", True), NAVY, BONE, 44),
-    shock(1, "Nobody takes tax out for you.",
-          "An employer withholds tax from every pay. Clients paying your invoices don't. Every dollar lands in your account <b>gross</b>.",
-          "Feels like a pay rise. It isn't."),
-    shock(2, "Year one's bill arrives in one hit.",
-          "You lodge after 30 June and the <b>whole year's tax</b> is due at once. Nothing's been paid along the way, so it's one big number.",
-          "This is where a set-aside account earns its keep."),
-    shock(3, "Then the ATO asks for it in advance.",
-          "Once your return shows <b>$4,000+</b> of business income and <b>$1,000+</b> of tax payable (plus one more test), the ATO can put you on quarterly <b>PAYG instalments</b>.",
-          "Year two: last year's bill and this year's instalments, together."),
-    shock(4, "$75K turnover means GST.",
-          "Turnover, not profit. Once you reach, or expect to reach, <b>$75,000</b>, you must register for GST within <b>21 days</b>.",
-          "Rideshare and taxi drivers register from the first fare."),
-    shock(5, "Nobody pays your super.",
-          "There's no 12% super guarantee for yourself. Contributions are up to you, and you may be able to claim them as a <b>deduction</b>.",
-          "Retirement doesn't fund itself."),
-    page(header("FREE", True)
-         + title("Just got your ABN?", 124)
-         + kit_box()
-         + f"""<div style="margin-top:auto;display:flex;flex-direction:column;gap:16px"><span style="font-family:{SERIF};font-size:52px">Send this to the mate who just went out on their own.</span>
-<span style="font-family:{MONO};font-size:22px;color:#C9C2B4">General info only · Not personal advice</span></div>""", NAVY, BONE),
+ slide(f"""<div style="position:absolute;left:80px;top:190px;right:80px;{SERIF};font-size:124px;line-height:1.04">
+ {hl('5 tax surprises')} in your first year on an ABN.</div>
+ {bubble("Number 3 catches almost everyone.", 80, 900, 500)}
+ {penny(300, 680, 860, wave=True)}""", 1, N, swipe=True),
+ shock(1, "Nobody takes tax out for you.", "$0", RED, "withheld from ABN payments. Every dollar lands <b>gross</b>. Feels like a pay rise. It isn't."),
+ shock(2, "Year one's bill lands in one hit.", "1 BILL", RED, "The whole year's tax is due after you lodge. Nothing was paid along the way."),
+ shock(3, "Then the ATO wants next year's, early.", "$4K / $1K", BRASS, "Business income of $4,000+ and tax payable of $1,000+ (plus one more test) and you can be put on <b>quarterly PAYG instalments</b>. Two bills in one year."),
+ shock(4, "$75K turnover means GST.", "$75,000", GREEN, "Turnover, not profit. Reach it (or expect to) and you have <b>21 days</b> to register. Rideshare: from the first fare."),
+ shock(5, "Nobody pays your super.", "12% → 0%", RED, "No super guarantee for yourself. It's up to you, and contributions may be <b>tax-deductible</b>."),
+ slide(f"""<div style="position:absolute;left:80px;top:190px;right:80px">
+ <div style="{SERIF};font-size:130px;line-height:1.02">Just got your ABN?</div>
+ <div style="margin-top:50px;background:{BONE};color:{NAVY};border-radius:24px;padding:44px 50px">
+ <div style="{MONO};font-size:30px;color:#4A5568">COMMENT THE WORD</div>
+ <div style="{MONO};font-size:150px;line-height:1;margin:10px 0">ABN</div>
+ <div style="font-size:40px;line-height:1.35">and you'll be first to get the <b>New ABN Starter Kit</b> when it lands in December.</div></div></div>
+ {bubble("Send this to the mate who just went out on their own.", 80, 1010, 560)}
+ {penny(240, 760, 1000, wave=True)}""", 7, N),
 ]
-
 if __name__ == "__main__":
-    render(slides, __file__)
+    render_slides(slides, __file__)
