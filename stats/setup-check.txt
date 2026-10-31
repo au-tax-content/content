@@ -1,0 +1,5 @@
+retained.au: OK (Facebook/system-user token) as @retained.au (0 followers); publishing quota {'data': [{'quota_usage': 1, 'config': {'quota_total': 100, 'quota_duration': 86400}}]}
+returnpolicy.au: OK (Facebook/system-user token) as @returnpolicy.au (0 followers); publishing quota {'data': [{'quota_usage': 0, 'config': {'quota_total': 100, 'quota_duration': 86400}}]}
+Upload test FAILED: HTTP 400: Only photo or video can be accepted as media type. (code 9004, subcode 2207052)
+Reel test (not published): FINISHED Finished: Media has been uploaded and it is ready to be published.
+Sat Oct 31 23:03:19 UTC 2026
