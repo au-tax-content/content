@@ -35,4 +35,17 @@ if t:
         ok = ok and st.get("status_code") == "FINISHED"
     except IGError as e:
         print(f"Upload test FAILED: {e}"); ok = False
+# Reel test: same idea for video (container only, never published).
+reel = "posts/retained/2026-11-04-RT-04-reel-pay-less-tax/reel.mp4"
+if t and os.path.exists(reel):
+    try:
+        c = ig_post("me/media", t, media_type="REELS", video_url=f"https://raw.githubusercontent.com/{repo}/{sha}/{reel}")
+        for _ in range(60):
+            st = ig_get(c["id"], t, fields="status_code,status")
+            if st.get("status_code") in ("FINISHED", "ERROR"): break
+            time.sleep(5)
+        print(f"Reel test (not published): {st.get('status_code')} {st.get('status','')}")
+        ok = ok and st.get("status_code") == "FINISHED"
+    except IGError as e:
+        print(f"Reel test FAILED: {e}"); ok = False
 raise SystemExit(0 if ok else 1)

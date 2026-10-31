@@ -1,5 +1,10 @@
 # Notes: what's working (newest first)
 
+## 1 Nov 2026: direction change
+
+- Daniel wants the content to lead with "how to legally pay less tax / keep more" (Karlton Dennis-style framing). See "Content direction" in CLAUDE.md.
+- Reels are now possible (brand/reel.py). RT-04 Reel "3 legal ways business owners pay less tax" queued for Wed 4 Nov 7:30 pm. Count it as Retained's Reel for the week of 2 Nov.
+
 ## 31 Oct 2026: setup
 
 - Accounts live since 30 Oct 2026, 0 posts. Automation built: publisher, stats, token refresh.

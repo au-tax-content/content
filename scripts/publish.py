@@ -27,12 +27,12 @@ def check_url(url):
     req = urllib.request.Request(url, method="HEAD")
     with urllib.request.urlopen(req, timeout=30) as r:
         ctype = r.headers.get("Content-Type", "")
-        if r.status != 200 or "image" not in ctype:
+        if r.status != 200 or not ("image" in ctype or "video" in ctype or "octet-stream" in ctype):
             raise IGError(f"Image not reachable as an image: {url} ({r.status} {ctype})")
 
 
-def wait_ready(cid, token, label):
-    for _ in range(30):
+def wait_ready(cid, token, label, tries=30):
+    for _ in range(tries):
         st = ig_get(cid, token, fields="status_code,status")
         code = st.get("status_code")
         if code == "FINISHED":
@@ -45,10 +45,22 @@ def wait_ready(cid, token, label):
 
 def publish(post, folder, token):
     rel = os.path.relpath(folder, ROOT).replace(os.sep, "/")
-    urls = [f"{raw_base()}/{rel}/{name}" for name in post["images"]]
+    kind = post["type"]
+    base = f"{raw_base()}/{rel}"
+    if kind == "reel":
+        video, cover = f"{base}/{post['video']}", (f"{base}/{post['cover']}" if post.get("cover") else None)
+        check_url(video)
+        if DRY:
+            print("  DRY RUN: would publish reel"); return {"id": "dry-run"}
+        args = dict(media_type="REELS", video_url=video, caption=post.get("caption", ""), share_to_feed="true")
+        if cover:
+            args["cover_url"] = cover
+        parent = ig_post("me/media", token, **args)
+        wait_ready(parent["id"], token, "reel", tries=90)   # video processing can take a few minutes
+        return ig_post("me/media_publish", token, creation_id=parent["id"])
+    urls = [f"{base}/{name}" for name in post["images"]]
     for u in urls:
         check_url(u)
-    kind = post["type"]
     if DRY:
         print(f"  DRY RUN: would publish {kind} with {len(urls)} image(s)")
         return {"id": "dry-run"}

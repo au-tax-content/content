@@ -9,9 +9,9 @@ This repo runs two anonymous Australian tax-education Instagram accounts end to 
 | Handle | @returnpolicy.au | @retained.au |
 | Audience | Employees, renters, landlords doing their own return | Business owners: new ABN holders, sole traders, through to companies |
 | Look | Thermal receipt: cream, refund green, mono line items | Ledger on letterhead: navy #0F1B2D, bone #F4F0E8, brass #B08D57, DM Serif Display + IBM Plex Mono + Inter |
-| Series | "What can a [job] claim?", "Is it claimable?", myths/ATO letters, news decoded | First-year ABN, Set-aside, Write it off?, GST or not?, Structure |
+| Series | **Pay less, legally** (lead pillar), "What can a [job] claim?", "Is it claimable?", myths/ATO letters, news decoded | **Keep more** (lead pillar), First-year ABN, Set-aside, Write it off?, GST or not?, Structure |
 | Lead magnet / keyword | The Claim Sheet / CLAIM | New ABN Starter Kit / ABN (not built yet: captions say "be first to get it when it lands in December") |
-| Cadence | 4 feed posts/week (3 carousels, 1 Reel) + a story every day | 3 feed posts/week (2 carousels, 1 Reel) + stories 3 days a week |
+| Cadence | 4 feed posts/week (2–3 carousels, 1–2 Reels) + a story every day | 3 feed posts/week (2 carousels, 1 Reel) + stories 3 days a week |
 
 Strategy, hooks and targets: growth playbook https://claude.ai/artifact/1p4aoYdxhAzjsVmA4SrwfG. Brand system: https://claude.ai/artifact/BommxRiWZLiBVib5iuezTp. Launch designs canvas: https://claude.ai/artifact/6Jptw9zVRGJhpyhmQ9ELEd.
 
@@ -37,6 +37,23 @@ February 2027 targets: Return Policy 1,000+ followers / 200+ emails; Retained 50
 - Failures open a GitHub issue, which emails the account owner.
 - Slide kits live in `brand/`. `retained_kit.py` exists. **Return Policy kit and story templates still need building**: copy the receipt look from the launch designs canvas (`project/RP-*.dc.html`) and the brand system.
 
+
+## Content direction (Daniel's call, 1 Nov 2026)
+
+Lead with what people actually want: **how to legally pay less tax and keep more money.** Benchmark: Karlton Dennis (US), whose "how the wealthy legally pay less" framing built a 2M+ following. Make it Australian and compliant.
+
+- **Lead pillar on both accounts (about 40% of posts):** strategy and "money on the table" framing. Retained, "Keep more": how the best business owners minimise tax (asset write-offs, prepayments, timing income and expenses, the small business offset, super contributions, structures: sole trader vs company vs trust, paying yourself, what accountants do for high earners). Return Policy, "Pay less, legally": salary sacrifice, concessional super contributions and carry-forward, the $1,000 standard deduction vs itemising, negative gearing and CGT basics, offsets people miss, "how wealthy people use super, the CGT discount and ownership structures".
+- **Hook formats that fit:** "How [the wealthy / the best business owners] [legally pay less / stay rich]", "3 legal ways…", "What your accountant does that you don't", "$X profit: here's what changes the bill", "Why two people on the same income pay different tax".
+- **Guardrails (non-negotiable):** say "legally", "minimise" or "plan". Never "avoid", "loophole", "hack" or "the ATO doesn't want you to know". Australia has general anti-avoidance rules (Part IVA) and the TPB and CPA Australia watch finfluencers. Present each strategy as "how it works and who it suits", never "you should do this". Flag the catch every time (eligibility, caps, cash-flow cost, "only worth it if…"). Complex moves (trusts, companies, Division 7A) end with "worth paying a registered adviser to set up properly". Every figure verified that week, with its income year.
+- Keep the practical series (occupation claims, first-year ABN, BAS dates). They earn saves and follows, but the lead pillar carries reach.
+
+## Reels
+
+- `brand/reel.py` makes faceless text-on-screen Reels: `retained_card(...)` cards plus `render_reel(cards, __file__)` → `reel.mp4` (1080×1920, 30 fps, silent AAC) and `cover.jpg`. Build a `returnpolicy_card` in the same file when the Return Policy kit exists.
+- post.json for a Reel: `"type": "reel", "video": "reel.mp4", "cover": "cover.jpg", "images": []`.
+- Shape: hook card about 2.5–3 s (the claim in under 8 words), 3–4 point cards at 4–5 s each (one idea, one number), end card with a single CTA. Aim for 15–25 s. Keep text inside the middle 1080×1350 (the grid crop).
+- Before queueing, grab a frame from each card with ffmpeg and look at it.
+- Silent by default (the API can't add licensed music). One experiment worth testing: subtle motion (slow zoom or line-by-line text reveal) vs static cards.
 
 ## Growth system: how to optimise (read every run)
 
@@ -85,7 +102,7 @@ Keep `audience.md` current every week. No usernames or personal details, ever.
 8. Requeue anything `failed` or `skipped` that's still relevant (fix the cause first).
 9. First Sunday of each month: write a short summary for Daniel (followers, best and worst posts, what changes next month) as the top entry in `notes.md` and in the run's final message.
 
-Reels need video, which isn't set up yet; until it is, swap the weekly Reel for a carousel and note it in `notes.md`.
+Reels are set up (see Reels above). Make the weekly Reel(s) as video, not carousels.
 
 ## Contacting Daniel
 
