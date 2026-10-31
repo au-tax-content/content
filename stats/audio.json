@@ -1,0 +1,529 @@
+{
+  "fetched_at": "2026-10-31T23:12+00:00",
+  "trending": [
+    {
+      "audio_id": "1711897489644571",
+      "title": "Crazy Night",
+      "display_artist": "bbox",
+      "duration_in_ms": 183740
+    },
+    {
+      "audio_id": "588823063083826",
+      "title": "Skateboard Dog",
+      "display_artist": "Lyle Workman",
+      "duration_in_ms": 243225
+    },
+    {
+      "audio_id": "868248611797029",
+      "title": "Kiss Of Spring",
+      "display_artist": "Symphonic Planet",
+      "duration_in_ms": 236460
+    },
+    {
+      "audio_id": "1590634959104738",
+      "title": "Next Level",
+      "display_artist": "LAVLO",
+      "duration_in_ms": 52410
+    },
+    {
+      "audio_id": "961236788521828",
+      "title": "Wedding Day (Instrumental)",
+      "display_artist": "Jonny Houlihan",
+      "duration_in_ms": 261755
+    },
+    {
+      "audio_id": "777672870209440",
+      "title": "Nothing Left Remix (Adam Griffith)",
+      "display_artist": "Sleeping Lion",
+      "duration_in_ms": 177932
+    },
+    {
+      "audio_id": "1061244588458995",
+      "title": "These Lips",
+      "display_artist": "Arnold & Lane",
+      "duration_in_ms": 275675
+    },
+    {
+      "audio_id": "1740131810631485",
+      "title": "Soft Party",
+      "display_artist": "Fellow Travelers",
+      "duration_in_ms": 63701
+    },
+    {
+      "audio_id": "1054621832626237",
+      "title": "Vim & Vigour",
+      "display_artist": "Cy Curnin",
+      "duration_in_ms": 219300
+    },
+    {
+      "audio_id": "1813048939554862",
+      "title": "Nobody Like Me (feat. Yumz Awkword)",
+      "display_artist": "Baegod",
+      "duration_in_ms": 156782
+    },
+    {
+      "audio_id": "726653149634581",
+      "title": "Disposable Girl (prod. by Jonny Houlihan)",
+      "display_artist": "Sybil Stag",
+      "duration_in_ms": 158170
+    },
+    {
+      "audio_id": "24357110390657450",
+      "title": "Elevate",
+      "display_artist": "Giulio Cercato",
+      "duration_in_ms": 114844
+    },
+    {
+      "audio_id": "955432783384476",
+      "title": "Swan Lake Theme",
+      "display_artist": "Mike Block",
+      "duration_in_ms": 163688
+    },
+    {
+      "audio_id": "877931138703593",
+      "title": "Demolition Mission",
+      "display_artist": "Lightbox Music",
+      "duration_in_ms": 63167
+    },
+    {
+      "audio_id": "931138499496538",
+      "title": "Sele",
+      "display_artist": "Villa",
+      "duration_in_ms": 58896
+    },
+    {
+      "audio_id": "26323274617275425",
+      "title": "Parakkum",
+      "display_artist": "4 Staan",
+      "duration_in_ms": 160390
+    },
+    {
+      "audio_id": "7016030945102519",
+      "title": "Gentle Solace",
+      "display_artist": "Marshall Watson",
+      "duration_in_ms": 212240
+    },
+    {
+      "audio_id": "143460818676640",
+      "title": "Hitchki (Hiccup) (feat. Garry Purohit)",
+      "display_artist": "Dhruv Goel",
+      "duration_in_ms": 160054
+    },
+    {
+      "audio_id": "1348970155866429",
+      "title": "Holy Holy Holy",
+      "display_artist": "Peter Collins",
+      "duration_in_ms": 218812
+    },
+    {
+      "audio_id": "2053679998366766",
+      "title": "Sanity (feat. Manny Moura)",
+      "display_artist": "Company Money",
+      "duration_in_ms": 202230
+    },
+    {
+      "audio_id": "1151859204035484",
+      "title": "Uncanny (feat. My City Glory)",
+      "display_artist": "Ross Lara",
+      "duration_in_ms": 164300
+    },
+    {
+      "audio_id": "675208868309032",
+      "title": "Pineapple Pen",
+      "display_artist": "Symphonic Planet",
+      "duration_in_ms": 205991
+    },
+    {
+      "audio_id": "719926354250794",
+      "title": "Magica",
+      "display_artist": "half.cool",
+      "duration_in_ms": 157782
+    },
+    {
+      "audio_id": "1124009552355111",
+      "title": "If Vikings Had Guitars",
+      "display_artist": "Ecklectic Music",
+      "duration_in_ms": 193520
+    },
+    {
+      "audio_id": "1543263576542093",
+      "title": "Day Dreaming In Class (Reels Sound - Listicle)",
+      "display_artist": "TrackTribe",
+      "duration_in_ms": 22520
+    }
+  ],
+  "searches": {
+    "lofi": [
+      {
+        "audio_id": "544713431841568",
+        "title": "Lofi Street",
+        "display_artist": "bbox",
+        "duration_in_ms": 182050
+      },
+      {
+        "audio_id": "6649404295148094",
+        "title": "Lofi Sunset",
+        "display_artist": "Neko Fuzz",
+        "duration_in_ms": 190708
+      },
+      {
+        "audio_id": "823145229909724",
+        "title": "Maya Maya (Instrumental)",
+        "display_artist": "Neha Karode",
+        "duration_in_ms": 189660
+      },
+      {
+        "audio_id": "2477944699150252",
+        "title": "Peaceful Piano",
+        "display_artist": "Dr. Pheel",
+        "duration_in_ms": 176250
+      },
+      {
+        "audio_id": "432524367902096",
+        "title": "Piano Mystique",
+        "display_artist": "Brent Bourgeois",
+        "duration_in_ms": 170501
+      },
+      {
+        "audio_id": "393903371411311",
+        "title": "The Nerve",
+        "display_artist": "Elad Marish",
+        "duration_in_ms": 216262
+      },
+      {
+        "audio_id": "537823448936955",
+        "title": "Soft Kisses",
+        "display_artist": "Giulio Cercato",
+        "duration_in_ms": 131370
+      },
+      {
+        "audio_id": "1792855678212714",
+        "title": "Mira Mira (Reels Sound - Photo Dump)",
+        "display_artist": "Music With Sara",
+        "duration_in_ms": 18510
+      },
+      {
+        "audio_id": "973266493758189",
+        "title": "You Can Do It Too (Instrumental)",
+        "display_artist": "Jennah Bell",
+        "duration_in_ms": 246857
+      },
+      {
+        "audio_id": "1469240064002956",
+        "title": "Just Gorgeous (feat. Plum Soul)",
+        "display_artist": "Jumbo",
+        "duration_in_ms": 168840
+      }
+    ],
+    "upbeat": [
+      {
+        "audio_id": "158209132866603",
+        "title": "Are You Ready",
+        "display_artist": "Giulio Cercato",
+        "duration_in_ms": 148388
+      },
+      {
+        "audio_id": "897193789954241",
+        "title": "Carnaval (Instrumental)",
+        "display_artist": "Sara Jaramillo",
+        "duration_in_ms": 137193
+      },
+      {
+        "audio_id": "1744948239772680",
+        "title": "Greatness",
+        "display_artist": "Jordan Olmos",
+        "duration_in_ms": 67660
+      },
+      {
+        "audio_id": "3349412415308746",
+        "title": "3D Love (Instrumental)",
+        "display_artist": "Global Genius",
+        "duration_in_ms": 190929
+      },
+      {
+        "audio_id": "489019923351257",
+        "title": "Sunrise",
+        "display_artist": "Chela Rivas",
+        "duration_in_ms": 163840
+      },
+      {
+        "audio_id": "9759056157508092",
+        "title": "Good Day",
+        "display_artist": "Giulio Cercato",
+        "duration_in_ms": 124471
+      },
+      {
+        "audio_id": "676553584164254",
+        "title": "Happy-Go-Lucky",
+        "display_artist": "Lyle Workman",
+        "duration_in_ms": 220714
+      },
+      {
+        "audio_id": "1540755600953104",
+        "title": "Stardust (Instrumental)",
+        "display_artist": "Giulio Cercato",
+        "duration_in_ms": 141824
+      },
+      {
+        "audio_id": "1326560949104401",
+        "title": "Check This Out",
+        "display_artist": "Giulio Cercato",
+        "duration_in_ms": 117713
+      },
+      {
+        "audio_id": "1852688158814799",
+        "title": "Hypnotized (Instrumental)",
+        "display_artist": "Company Money",
+        "duration_in_ms": 172973
+      }
+    ],
+    "chill": [
+      {
+        "audio_id": "1388161098514399",
+        "title": "Happy Days",
+        "display_artist": "Giulio Cercato",
+        "duration_in_ms": 143830
+      },
+      {
+        "audio_id": "592271352837708",
+        "title": "Beautiful",
+        "display_artist": "Giulio Cercato",
+        "duration_in_ms": 152054
+      },
+      {
+        "audio_id": "280021457045107",
+        "title": "Precious Time",
+        "display_artist": "Lyle Workman",
+        "duration_in_ms": 244576
+      },
+      {
+        "audio_id": "622819303274042",
+        "title": "Good Time",
+        "display_artist": "Alex Blue",
+        "duration_in_ms": 141092
+      },
+      {
+        "audio_id": "326419273084628",
+        "title": "Revival",
+        "display_artist": "Austin Cannon",
+        "duration_in_ms": 223383
+      },
+      {
+        "audio_id": "303492387250314",
+        "title": "A Hui Hou",
+        "display_artist": "Makana",
+        "duration_in_ms": 184965
+      },
+      {
+        "audio_id": "423124700418880",
+        "title": "Good Vibes",
+        "display_artist": "Giulio Cercato",
+        "duration_in_ms": 126580
+      },
+      {
+        "audio_id": "2477944699150252",
+        "title": "Peaceful Piano",
+        "display_artist": "Dr. Pheel",
+        "duration_in_ms": 176250
+      },
+      {
+        "audio_id": "1347176186322399",
+        "title": "Do Ma Thing",
+        "display_artist": "Tony Dark Eyes",
+        "duration_in_ms": 126800
+      },
+      {
+        "audio_id": "432524367902096",
+        "title": "Piano Mystique",
+        "display_artist": "Brent Bourgeois",
+        "duration_in_ms": 170501
+      }
+    ],
+    "money": [
+      {
+        "audio_id": "510484690923516",
+        "title": "Roll The Dice",
+        "display_artist": "Global Genius",
+        "duration_in_ms": 159765
+      },
+      {
+        "audio_id": "1563370834134713",
+        "title": "Gotta Get It",
+        "display_artist": "Doje",
+        "duration_in_ms": 133540
+      },
+      {
+        "audio_id": "1349788987264587",
+        "title": "Paper Lanterns",
+        "display_artist": "Company Money",
+        "duration_in_ms": 68210
+      },
+      {
+        "audio_id": "1060743318649873",
+        "title": "Climb",
+        "display_artist": "Maxsickboy",
+        "duration_in_ms": 162310
+      },
+      {
+        "audio_id": "440588108234177",
+        "title": "Long Walks",
+        "display_artist": "The.Wav",
+        "duration_in_ms": 248995
+      },
+      {
+        "audio_id": "1277541923560144",
+        "title": "She's In Love (But Ooh)",
+        "display_artist": "GEEZ",
+        "duration_in_ms": 197750
+      },
+      {
+        "audio_id": "422873540895385",
+        "title": "Everything Is Fine",
+        "display_artist": "Ruby Amanfu",
+        "duration_in_ms": 169320
+      },
+      {
+        "audio_id": "272114135386704",
+        "title": "Guilty Rhythm",
+        "display_artist": "Cold Comfort",
+        "duration_in_ms": 216973
+      },
+      {
+        "audio_id": "1476489453601752",
+        "title": "Yummylicious (Instrumental)",
+        "display_artist": "PiNKSHGRFNGR",
+        "duration_in_ms": 158450
+      },
+      {
+        "audio_id": "8344195318938437",
+        "title": "Good Day",
+        "display_artist": "Alex Blue",
+        "duration_in_ms": 160050
+      }
+    ],
+    "corporate": [
+      {
+        "audio_id": "1372666635060078",
+        "title": "Breathtaker",
+        "display_artist": "Giulio Cercato",
+        "duration_in_ms": 60035
+      },
+      {
+        "audio_id": "158209132866603",
+        "title": "Are You Ready",
+        "display_artist": "Giulio Cercato",
+        "duration_in_ms": 148388
+      },
+      {
+        "audio_id": "1744948239772680",
+        "title": "Greatness",
+        "display_artist": "Jordan Olmos",
+        "duration_in_ms": 67660
+      },
+      {
+        "audio_id": "2243880519448914",
+        "title": "Monaco (Instrumental)",
+        "display_artist": "Tony Dark Eyes",
+        "duration_in_ms": 131299
+      },
+      {
+        "audio_id": "1540755600953104",
+        "title": "Stardust (Instrumental)",
+        "display_artist": "Giulio Cercato",
+        "duration_in_ms": 141824
+      },
+      {
+        "audio_id": "1337624016597307",
+        "title": "Piano for Brian",
+        "display_artist": "Brent Bourgeois",
+        "duration_in_ms": 145895
+      },
+      {
+        "audio_id": "1852688158814799",
+        "title": "Hypnotized (Instrumental)",
+        "display_artist": "Company Money",
+        "duration_in_ms": 172973
+      },
+      {
+        "audio_id": "1379743266787702",
+        "title": "Imagination",
+        "display_artist": "Giulio Cercato",
+        "duration_in_ms": 136050
+      },
+      {
+        "audio_id": "248622797387636",
+        "title": "So Good",
+        "display_artist": "Alex Blue",
+        "duration_in_ms": 221016
+      },
+      {
+        "audio_id": "1090923063181541",
+        "title": "Invincible",
+        "display_artist": "Giulio Cercato",
+        "duration_in_ms": 132732
+      }
+    ],
+    "hip hop instrumental": [
+      {
+        "audio_id": "2913736298667265",
+        "title": "Kickstand",
+        "display_artist": "Lance Taber",
+        "duration_in_ms": 220831
+      },
+      {
+        "audio_id": "523966117385305",
+        "title": "Big Leagues (Instrumental)",
+        "display_artist": "Mike Floss",
+        "duration_in_ms": 127863
+      },
+      {
+        "audio_id": "2249471585814626",
+        "title": "CoffeeNHouse",
+        "display_artist": "cloud cover",
+        "duration_in_ms": 66550
+      },
+      {
+        "audio_id": "421348377170726",
+        "title": "Deep Blue",
+        "display_artist": "Giulio Cercato",
+        "duration_in_ms": 138650
+      },
+      {
+        "audio_id": "1834841137494500",
+        "title": "Cool",
+        "display_artist": "LAVLO",
+        "duration_in_ms": 57910
+      },
+      {
+        "audio_id": "1326560949104401",
+        "title": "Check This Out",
+        "display_artist": "Giulio Cercato",
+        "duration_in_ms": 117713
+      },
+      {
+        "audio_id": "1039098790480932",
+        "title": "Drift Skunk",
+        "display_artist": "Company Money",
+        "duration_in_ms": 184630
+      },
+      {
+        "audio_id": "859319581616251",
+        "title": "Locked and Loaded",
+        "display_artist": "Makana",
+        "duration_in_ms": 177192
+      },
+      {
+        "audio_id": "1377485917727304",
+        "title": "Fighter",
+        "display_artist": "LAVLO",
+        "duration_in_ms": 58745
+      },
+      {
+        "audio_id": "28304113442557164",
+        "title": "Dedication",
+        "display_artist": "LAVLO",
+        "duration_in_ms": 56450
+      }
+    ]
+  }
+}
