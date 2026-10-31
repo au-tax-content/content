@@ -22,7 +22,9 @@ jobs:
           IG_TOKEN_RETAINED: ${{ secrets.IG_TOKEN_RETAINED }}
           IG_TOKEN_RETURNPOLICY: ${{ secrets.IG_TOKEN_RETURNPOLICY }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python3 scripts/insights.py
+        run: |
+          python3 scripts/insights.py
+          python3 scripts/audio.py || true
       - name: Save stats
         run: |
           git config user.name "content-bot"
