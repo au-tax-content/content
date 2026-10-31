@@ -20,7 +20,9 @@ for acct, cfg in ACCOUNTS.items():
 import subprocess, time, os
 sha = subprocess.run(["git","rev-parse","HEAD"],capture_output=True,text=True).stdout.strip()
 repo = os.environ.get("GITHUB_REPOSITORY","au-tax-content/content")
-url = f"https://raw.githubusercontent.com/{repo}/{sha}/posts/retained/2026-11-04-RT-01-start-here/1.jpg"
+import glob
+img = sorted(glob.glob("posts/*/*/1.jpg"))[0]
+url = f"https://raw.githubusercontent.com/{repo}/{sha}/{img}"
 CURRENT["account"] = "retained"
 t = token_for("retained")
 if t:
@@ -36,8 +38,9 @@ if t:
     except IGError as e:
         print(f"Upload test FAILED: {e}"); ok = False
 # Reel test: same idea for video (container only, never published).
-reel = "posts/retained/2026-11-04-RT-04-reel-pay-less-tax/reel.mp4"
-if t and os.path.exists(reel):
+reels = sorted(glob.glob("posts/*/*/reel.mp4"))
+reel = reels[0] if reels else None
+if t and reel:
     try:
         c = ig_post("me/media", t, media_type="REELS", video_url=f"https://raw.githubusercontent.com/{repo}/{sha}/{reel}")
         for _ in range(60):
