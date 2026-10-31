@@ -53,7 +53,9 @@ Lead with what people actually want: **how to legally pay less tax and keep more
 - post.json for a Reel: `"type": "reel", "video": "reel.mp4", "cover": "cover.jpg", "images": []`.
 - Shape: hook card about 2.5–3 s (the claim in under 8 words), 3–4 point cards at 4–5 s each (one idea, one number), end card with a single CTA. Aim for 15–25 s. Keep text inside the middle 1080×1350 (the grid crop).
 - Before queueing, grab a frame from each card with ffmpeg and look at it.
-- Silent by default (the API can't add licensed music). One experiment worth testing: subtle motion (slow zoom or line-by-line text reveal) vs static cards.
+- **Use `brand/motion.py` (animated) for every Reel**, not the static `reel.py`. It has kinetic word-by-word captions (`words()`, wrap a word in [[ ]] to highlight it), count-up numbers, stamps, a month grid, a progress bar, and Retained's mascot **Penny** (`coin_mascot()`: brass coin, round glasses, navy bow tie). Penny appears in every Retained Reel so the account has a recognisable character. Build a Return Policy mascot (an original receipt character) in the same style when the Return Policy kit is made. RT-04 is the reference example.
+- **Music:** Instagram's Audio API attaches licensed music at publish. `scripts/audio.py` saves trending tracks and searches to `stats/audio.json` every 4 h. Put `"audio_id"` (plus an `audio_note` with the title) in a Reel's post.json; pick from `trending` first and rotate tracks. The publisher falls back to silent if a track is rejected.
+- Bar for every Reel and carousel: would someone stop scrolling for it? Motion in the first frame, the hook readable in under a second, one big number per point, the character on screen, nothing plain. Look at frames before queueing and redo anything that looks like a text slide.
 
 ## Growth system: how to optimise (read every run)
 

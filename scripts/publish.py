@@ -5,7 +5,7 @@ post.json fields:
   caption, images (file names in the same folder, JPEG, in order), status (queued|published|failed|skipped|draft)
 Set DRY_RUN=1 to print what would happen without calling Instagram.
 """
-import os, subprocess, time, urllib.request
+import json, os, subprocess, time, urllib.request
 from datetime import timedelta
 from common import (CURRENT, ROOT, ACCOUNTS, IGError, token_for, ig_get, ig_post, iter_posts, save_json,
                     now_utc, parse_time, open_issue)
@@ -55,7 +55,15 @@ def publish(post, folder, token):
         args = dict(media_type="REELS", video_url=video, caption=post.get("caption", ""), share_to_feed="true")
         if cover:
             args["cover_url"] = cover
-        parent = ig_post("me/media", token, **args)
+        if post.get("audio_id"):
+            try:
+                parent = ig_post("me/media", token, **args, audio_configuration=json.dumps(
+                    {"audio_id": post["audio_id"], "audio_volume": 100, "video_volume": 0}))
+            except IGError as e:
+                print(f"  audio rejected ({e}); publishing without music")
+                parent = ig_post("me/media", token, **args)
+        else:
+            parent = ig_post("me/media", token, **args)
         wait_ready(parent["id"], token, "reel", tries=90)   # video processing can take a few minutes
         return ig_post("me/media_publish", token, creation_id=parent["id"])
     urls = [f"{base}/{name}" for name in post["images"]]

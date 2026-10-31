@@ -42,7 +42,11 @@ reels = sorted(glob.glob("posts/*/*/reel.mp4"))
 reel = reels[0] if reels else None
 if t and reel:
     try:
-        c = ig_post("me/media", t, media_type="REELS", video_url=f"https://raw.githubusercontent.com/{repo}/{sha}/{reel}")
+        import json as _j
+        pj = _j.load(open(os.path.join(os.path.dirname(reel), "post.json")))
+        extra = {"audio_configuration": _j.dumps({"audio_id": pj["audio_id"], "audio_volume": 100, "video_volume": 0})} if pj.get("audio_id") else {}
+        c = ig_post("me/media", t, media_type="REELS", video_url=f"https://raw.githubusercontent.com/{repo}/{sha}/{reel}", **extra)
+        print(f"Reel test with audio: {bool(extra)}")
         for _ in range(60):
             st = ig_get(c["id"], t, fields="status_code,status")
             if st.get("status_code") in ("FINISHED", "ERROR"): break
