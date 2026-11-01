@@ -89,7 +89,7 @@ Keep `audience.md` current every week. No usernames or personal details, ever.
 ## Lead capture (phase 2)
 
 - Lead magnets must exist before the December promise in captions: build the **New ABN Starter Kit** (first-year checklist + set-aside calculator) and **The Claim Sheet** (what 20 common jobs can claim) during November, store them in `leadmagnets/`, every figure verified.
-- Email signup needs a free MailerLite account that only Daniel can create. Once it exists: a signup page per brand on GitHub Pages from this repo (link in bio), a double-opt-in form, then update `keyword_replies` to "link in bio". Ask Daniel for this in the summary of the run where the magnets are ready, with exact steps.
+- Email list: **Kit (kit.com) free Newsletter plan**: up to 10,000 subscribers, unlimited forms and landing pages, and each form's "incentive email" delivers the download on confirmation. MailerLite was dropped because its free plan was cut to 250 subscribers in July 2026. Daniel creates the account (only he can). Then: one form per brand with a tag (Retained / Return Policy), a signup page per brand on GitHub Pages from this repo (link in bio), double opt-in, and `keyword_replies` updated to "link in bio".
 - Spam Act: opt-in only, sender identified, unsubscribe honoured. Collect first name, email and one segment question only, never TFNs or income figures.
 
 ## The weekly run (Sunday)
