@@ -1,0 +1,26 @@
+{
+  "id": "RP-02",
+  "account": "returnpolicy",
+  "type": "carousel",
+  "series": "Is it claimable?",
+  "pillar": "Is it claimable?",
+  "publish_at": "2026-11-02T19:00:00+11:00",
+  "caption": "Six things office workers try to claim. How many would you get right?\n\nGym: no (unless strenuous physical activity is an essential, regular part of your job). Laptop with 60% work use: yes, but only the work share, spread over its effective life because it cost more than $300. Plain black pants: no. Union fees: yes. Driving from home to the office: no. Last year's tax agent fee: yes, in the year you paid it.\n\nFor 2025–26 returns.\n\nComment CLAIM and you'll be first to get The Claim Sheet when it lands in December.\n\nGeneral info only, not personal advice.\n\n#taxtips #taxreturn #officelife #australiantax #taxdeductions",
+  "figures_checked": [
+    "Gym/fitness not deductible except where strenuous physical activity is essential and regular (ATO Gym fees page, checked 1 Nov 2026)",
+    "Depreciating assets: $300 or less immediate deduction, over $300 decline in value over effective life, apportion work use (ATO Depreciating assets you use for work, checked 1 Nov 2026)",
+    "Conventional clothing and normal home-to-work trips not deductible; union fees deductible (ATO public servant toolkit, checked 1 Nov 2026)",
+    "Registered tax agent fees deductible in year paid (ATO Cost of managing tax affairs, checked 1 Nov 2026)",
+    "Union/professional fees don't reduce the 2026-27 standard deduction (ATO standard deduction page, checked 1 Nov 2026)"
+  ],
+  "status": "queued",
+  "images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg",
+    "4.jpg",
+    "5.jpg",
+    "6.jpg",
+    "7.jpg"
+  ]
+}

@@ -1,5 +1,30 @@
 # Notes: what's working (newest first)
 
+## November 2026 monthly summary (first Sunday)
+
+- **Followers:** Retained 0, Return Policy 0 (accounts live 30 Oct). Posts out: 1 (RT-01, 31 Oct). Too early for best/worst: RT-01 has 1 like and 1 spam comment, reach not reported yet.
+- **What changes in November:** Return Policy starts (brand kit, Docket mascot, RP-01–05, a story every day). Both accounts lead with the "pay less / keep more, legally" pillar. First experiments run this week. Lead magnets must be built this month for the December promise.
+
+## 1 Nov 2026: weekly run (week of 2–8 Nov)
+
+**Scorecard (last week):** RT-01 Start here (31 Oct): reach 0 so far, 1 like, 1 comment (spam, ignore), 0 saves/shares/follows. Followers: Retained 0, Return Policy 0. Nothing published on Return Policy yet. No failed or skipped posts. RT-02 (today 5 pm) and RT-03 (Mon) still queued.
+
+**Built this run:**
+- `brand/returnpolicy_kit.py` (receipt look from the launch canvas + brand tokens: Space Grotesk, cream/ink, refund green, highlighter, stamps, torn receipts) and **Docket**, Return Policy's original receipt mascot (`receipt_mascot()`, same animation hooks as Penny; `dark=True` gives cream limbs on ink/green grounds).
+- `brand/motion.py`: `scene_rp()` for Return Policy Reels, `words(..., hl_bg, hl_fg)`. Note `[[…]]` highlights one word only: write `[[2]] [[years]]`, not `[[2 years]]` (RT-04's "[[30 June]]" and "[[12 months]]" don't highlight).
+- `brand/stories.py`: story templates for both accounts (`rp_push`, `rp_tip`, `rt_push`, `rt_tip`, `render_story`). Space Grotesk font added to `brand/fonts/`.
+- Highlight gotcha: a highlight on line 2 paints over line 1's descenders (g, y, p). RP kit's `hl()` now starts the fill 18% down; in `bold.py` use line-height ≥1.14 on headlines with `hl()`.
+
+**Queued:**
+- Return Policy: RP-01 Start here (Sun 1 Nov 7:30 pm), RP-02 Is it claimable? office workers (Mon 7 pm), RP-03 Same $90K, $3,200 less tax (Tue 7 pm), RP-04 Reel: forgot a deduction? amend (Thu 7:30 pm), RP-05 The $1,000 standard deduction (Sun 8 Nov 4:30 pm). Stories daily Mon–Sun (RP-S01–S07: 4 post pushes, 3 tips).
+- Retained: RT-03 (Mon, already queued), RT-04 Reel (Wed, already queued), RT-05 How business owners use super to pay less tax (Fri 7:30 pm). Stories Mon/Wed/Fri pushes (RT-S01–S03).
+
+**Decisions / watch-outs:**
+- **Big legislated change to know before any CGT or negative gearing post:** a secondary source says the Treasury Laws Amendment (Tax Reform No. 1) Act 2026 (Royal Assent 26 June 2026) replaces the 50% CGT discount with cost-base indexation for gains accruing from 1 July 2027 (30% minimum tax on gains for individuals) and stops residential rental losses offsetting other income from 2027–28 (new builds and properties bought before 7:30 pm 12 May 2026 exempt). The ATO's new-legislation index still shows these as "announced". Verify on ato.gov.au before using; never present the CGT discount as permanent. Strong "news decoded" candidate for Return Policy landlords once verified. Also listed there: a new "Working Australians tax offset" (announced).
+- 2026–27 figures in use: rates 15%/30%/37%/45% (thresholds $18,200/$45,000/$135,000/$190,000), concessional cap $32,500, standard deduction $1,000.
+- Comment shortlist: already published for the week of 1 Nov (engage.json unchanged since 31 Oct), not rebuilt.
+- **Carried over, top priority:** lead magnets (New ABN Starter Kit, The Claim Sheet) in `leadmagnets/`, then the Kit form steps for Daniel. Not built this run; must be done by the 8 Nov run at the latest to make December.
+
 ## 1 Nov 2026: Kit account ready
 
 - Daniel created a free Kit account (name "Retained", retained.au@gmail.com), confirmed the email and added a mailing address. No forms yet.

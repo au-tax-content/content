@@ -1,0 +1,16 @@
+{
+  "id": "RP-S02",
+  "account": "returnpolicy",
+  "type": "story",
+  "series": "Story",
+  "pillar": "Story",
+  "publish_at": "2026-11-03T20:15:00+11:00",
+  "caption": "",
+  "images": [
+    "1.jpg"
+  ],
+  "figures_checked": [
+    "2026-27 tax and Medicare figures as in RP-03"
+  ],
+  "status": "queued"
+}

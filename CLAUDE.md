@@ -35,7 +35,7 @@ February 2027 targets: Return Policy 1,000+ followers / 200+ emails; Retained 50
 - `insights.yml` runs every 4 h → `stats/<account>/account.csv`, `daily.csv`, `media.json`, `stories.json` (story stats vanish from Instagram after 24 h, so they're captured here), `comments.json`.
 - `refresh-tokens.yml` refreshes the 60-day tokens weekly. `check-setup.yml` (manual) verifies tokens.
 - Failures open a GitHub issue, which emails the account owner.
-- Slide kits live in `brand/`. **Use `bold.py` for Retained carousels** (big type, green numbers, Penny with speech bubbles; RT-02 and RT-03 are the reference). `retained_kit.py` is the old plain style, so don't use it for new posts. **Return Policy kit and story templates still need building**: copy the receipt look from the launch designs canvas (`project/RP-*.dc.html`) and the brand system.
+- Slide kits live in `brand/`. **Use `bold.py` for Retained carousels** (big type, green numbers, Penny with speech bubbles; RT-02 and RT-03 are the reference). `retained_kit.py` is the old plain style, so don't use it for new posts. **Use `returnpolicy_kit.py` for Return Policy carousels** (receipt look, Space Grotesk, stamps, torn receipts, mascot **Docket** via `docket()`; RP-02 and RP-03 are the reference). Stories: `brand/stories.py` (`rp_push`/`rp_tip`/`rt_push`/`rt_tip`, 1080×1920).
 
 
 ## Content direction (Daniel's call, 1 Nov 2026)
@@ -49,11 +49,11 @@ Lead with what people actually want: **how to legally pay less tax and keep more
 
 ## Reels
 
-- `brand/reel.py` makes faceless text-on-screen Reels: `retained_card(...)` cards plus `render_reel(cards, __file__)` → `reel.mp4` (1080×1920, 30 fps, silent AAC) and `cover.jpg`. Build a `returnpolicy_card` in the same file when the Return Policy kit exists.
+- `brand/reel.py` makes faceless text-on-screen Reels: `retained_card(...)` cards plus `render_reel(cards, __file__)` → `reel.mp4` (1080×1920, 30 fps, silent AAC) and `cover.jpg`. Return Policy Reels use `scene_rp()` in `motion.py` with Docket (`receipt_mascot(..., limb=RP_PAPER)` from `returnpolicy_kit`); RP-04 is the reference.
 - post.json for a Reel: `"type": "reel", "video": "reel.mp4", "cover": "cover.jpg", "images": []`.
 - Shape: hook card about 2.5–3 s (the claim in under 8 words), 3–4 point cards at 4–5 s each (one idea, one number), end card with a single CTA. Aim for 15–25 s. Keep text inside the middle 1080×1350 (the grid crop).
 - Before queueing, grab a frame from each card with ffmpeg and look at it.
-- **Use `brand/motion.py` (animated) for every Reel**, not the static `reel.py`. It has kinetic word-by-word captions (`words()`, wrap a word in [[ ]] to highlight it), count-up numbers, stamps, a month grid, a progress bar, and Retained's mascot **Penny** (`coin_mascot()`: brass coin, round glasses, navy bow tie). Penny appears in every Retained Reel so the account has a recognisable character. Build a Return Policy mascot (an original receipt character) in the same style when the Return Policy kit is made. RT-04 is the reference example.
+- **Use `brand/motion.py` (animated) for every Reel**, not the static `reel.py`. It has kinetic word-by-word captions (`words()`, wrap a word in [[ ]] to highlight it), count-up numbers, stamps, a month grid, a progress bar, and Retained's mascot **Penny** (`coin_mascot()`: brass coin, round glasses, navy bow tie). Penny appears in every Retained Reel so the account has a recognisable character. Return Policy's mascot is **Docket** (an original receipt character, `receipt_mascot()` in `returnpolicy_kit.py`) and appears in every Return Policy Reel. RT-04 is the reference example.
 - **Music:** Instagram's Audio API attaches licensed music at publish. `scripts/audio.py` saves trending tracks and searches to `stats/audio.json` every 4 h. Put `"audio_id"` (plus an `audio_note` with the title) in a Reel's post.json; pick from `trending` first and rotate tracks. The publisher falls back to silent if a track is rejected.
 - Bar for every Reel and carousel: would someone stop scrolling for it? Motion in the first frame, the hook readable in under a second, one big number per point, the character on screen, nothing plain. Look at frames before queueing and redo anything that looks like a text slide.
 

@@ -1,0 +1,16 @@
+{
+  "id": "RT-S03",
+  "account": "retained",
+  "type": "story",
+  "series": "Story",
+  "pillar": "Story",
+  "publish_at": "2026-11-06T20:30:00+11:00",
+  "caption": "",
+  "images": [
+    "1.jpg"
+  ],
+  "figures_checked": [
+    "As RT-05 (2026-27 rates, 15% contributions tax)"
+  ],
+  "status": "queued"
+}

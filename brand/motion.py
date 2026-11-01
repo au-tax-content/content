@@ -20,6 +20,8 @@ NAVY, BONE, BRASS, GREEN, RED = "#0F1B2D", "#F4F0E8", "#C9A15F", "#3FD07F", "#FF
 FONTS = f"""
 @font-face{{font-family:'DM Serif Display';src:url('file://{HERE}/fonts/dmserif.woff2')}}
 @font-face{{font-family:'IBM Plex Mono';src:url('file://{HERE}/fonts/ibm-plex-mono-latin-600-normal.woff2');font-weight:600}}
+@font-face{{font-family:'Space Grotesk';src:url('file://{HERE}/fonts/space-grotesk-latin-500-normal.woff2');font-weight:500}}
+@font-face{{font-family:'Space Grotesk';src:url('file://{HERE}/fonts/space-grotesk-latin-700-normal.woff2');font-weight:700}}
 """
 
 JS = r"""
@@ -47,13 +49,13 @@ function render(t,g,total){
 """
 
 
-def words(text, start=0.0, step=0.12, cls=""):
-    """Reveal text word by word. Wrap a word in [[…]] to highlight it."""
+def words(text, start=0.0, step=0.12, cls="", hl_bg=BRASS, hl_fg=NAVY):
+    """Reveal text word by word. Wrap a word in [[…]] to highlight it (Return Policy: hl_bg=RP_HL, hl_fg=RP_INK)."""
     out, i = [], 0
     for w in text.split():
         hl = w.startswith("[[") and w.rstrip(".,!?").endswith("]]")
         clean = w.replace("[[", "").replace("]]", "")
-        style = f"background:{BRASS};color:{NAVY};padding:0 14px;border-radius:10px;" if hl else ""
+        style = f"background:{hl_bg};color:{hl_fg};padding:0 14px;border-radius:10px;" if hl else ""
         out.append(f'<span class="a {cls}" data-a="pop" data-t="{start + i*step:.2f}" data-d="0.28" style="display:inline-block;{style}">{clean}</span>')
         i += 1
     return " ".join(out)
@@ -90,6 +92,23 @@ body{{margin:0}} .a{{will-change:transform,opacity}}
 </style></head><body><div class="wrap"><div class="grain"></div>
 <div style="position:absolute;left:0;top:0;height:14px;width:100%;background:rgba(255,255,255,.12)"><div id="pbar" style="height:100%;width:0;background:{BRASS}"></div></div>
 <div style="position:absolute;left:80px;top:150px;font-family:'IBM Plex Mono',monospace;font-weight:600;font-size:30px;letter-spacing:.16em;color:{BRASS}">RETAINED</div>
+{body}
+</div><script>{JS}</script></body></html>"""
+
+
+RP_INK, RP_PAPER, RP_GREEN, RP_MINT, RP_HL, RP_RED = "#1A1A1A", "#F7F3EA", "#0E7A4B", "#3FD07F", "#FFE36E", "#C2361F"
+
+
+def scene_rp(body, bg=RP_INK, fg=RP_PAPER):
+    """Return Policy Reel scene: ink ground, cream Space Grotesk, highlighter-yellow progress bar, RETURN POLICY tag.
+    Use receipt_mascot() from returnpolicy_kit for Docket. Keep key text between y=260 and y=1550."""
+    return f"""<!doctype html><html><head><meta charset="utf-8"><style>{FONTS}
+body{{margin:0}} .a{{will-change:transform,opacity}}
+.wrap{{width:{W}px;height:{H}px;position:relative;overflow:hidden;background:{bg};color:{fg};font-family:'Space Grotesk',sans-serif;font-weight:500}}
+.grain{{position:absolute;inset:0;background:radial-gradient(1200px 900px at 15% 10%,rgba(63,208,127,.16),transparent 60%),radial-gradient(900px 900px at 90% 90%,rgba(255,227,110,.10),transparent 60%)}}
+</style></head><body><div class="wrap"><div class="grain"></div>
+<div style="position:absolute;left:0;top:0;height:14px;width:100%;background:rgba(255,255,255,.12)"><div id="pbar" style="height:100%;width:0;background:{RP_HL}"></div></div>
+<div style="position:absolute;left:80px;top:150px;font-family:'IBM Plex Mono',monospace;font-weight:600;font-size:30px;letter-spacing:.14em;color:{fg}">RETURN POLICY</div>
 {body}
 </div><script>{JS}</script></body></html>"""
 

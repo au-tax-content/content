@@ -1,0 +1,14 @@
+{
+  "id": "RT-S01",
+  "account": "retained",
+  "type": "story",
+  "series": "Story",
+  "pillar": "Story",
+  "publish_at": "2026-11-02T20:30:00+11:00",
+  "caption": "",
+  "images": [
+    "1.jpg"
+  ],
+  "figures_checked": [],
+  "status": "queued"
+}
