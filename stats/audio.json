@@ -1,107 +1,53 @@
 {
-  "fetched_at": "2026-11-01T01:28+00:00",
+  "fetched_at": "2026-11-01T05:06+00:00",
   "trending": [
     {
-      "audio_id": "622428460693201",
-      "title": "Coco Feelings",
+      "audio_id": "1104244778592649",
+      "title": "Gravity Floor",
+      "display_artist": "Fellow Travelers",
+      "duration_in_ms": 62862
+    },
+    {
+      "audio_id": "212073924536663",
+      "title": "Gavan Por Mayor",
+      "display_artist": "Larry & Joe",
+      "duration_in_ms": 178050
+    },
+    {
+      "audio_id": "1767197957038867",
+      "title": "Under The Eclipse",
       "display_artist": "Symphonic Planet",
-      "duration_in_ms": 201709
+      "duration_in_ms": 197255
     },
     {
-      "audio_id": "1048553357803824",
-      "title": "Star Ship",
-      "display_artist": "cloud cover",
-      "duration_in_ms": 77430
-    },
-    {
-      "audio_id": "1083142662573194",
-      "title": "A Line Has 2 Sides",
-      "display_artist": "Jamie West-Oram",
-      "duration_in_ms": 188160
-    },
-    {
-      "audio_id": "1357458169248122",
-      "title": "Gold (feat. Luke Lasso) (Instrumental)",
-      "display_artist": "Bryan Todd",
-      "duration_in_ms": 181384
-    },
-    {
-      "audio_id": "633935148893124",
-      "title": "Body And Soul",
+      "audio_id": "1521336739211958",
+      "title": "Resolve",
       "display_artist": "Flow Loris",
-      "duration_in_ms": 184233
+      "duration_in_ms": 162889
     },
     {
-      "audio_id": "1416131659769983",
-      "title": "Your Love (Instrumental)",
-      "display_artist": "Company Money",
-      "duration_in_ms": 194340
+      "audio_id": "1031708199637377",
+      "title": "Swing Your Thing",
+      "display_artist": "Summer Islands",
+      "duration_in_ms": 63692
     },
     {
-      "audio_id": "1167636591306065",
-      "title": "Popz",
-      "display_artist": "half.cool",
-      "duration_in_ms": 116415
+      "audio_id": "2460439307447515",
+      "title": "Heart Of Gold",
+      "display_artist": "Golden Braid Productions",
+      "duration_in_ms": 191789
     },
     {
-      "audio_id": "1271641813524965",
-      "title": "Submersible (feat. Plum Soul)",
+      "audio_id": "706593329100115",
+      "title": "Dusty Highway",
+      "display_artist": "Ross Lara",
+      "duration_in_ms": 132425
+    },
+    {
+      "audio_id": "505293435195803",
+      "title": "Steampunk (feat. Plum Soul)",
       "display_artist": "Jumbo",
-      "duration_in_ms": 187550
-    },
-    {
-      "audio_id": "907108521983972",
-      "title": "Push It",
-      "display_artist": "LAVLO",
-      "duration_in_ms": 56552
-    },
-    {
-      "audio_id": "2472145716298490",
-      "title": "Upon",
-      "display_artist": "Black Box",
-      "duration_in_ms": 204060
-    },
-    {
-      "audio_id": "665115238984828",
-      "title": "Nambikkai",
-      "display_artist": "Brinda",
-      "duration_in_ms": 122352
-    },
-    {
-      "audio_id": "1296249424584488",
-      "title": "Champion (feat. Dobgima, Kking Kum)",
-      "display_artist": "Afro Sound Machine",
-      "duration_in_ms": 185658
-    },
-    {
-      "audio_id": "1407211737277021",
-      "title": "Velvet",
-      "display_artist": "stereogully",
-      "duration_in_ms": 126065
-    },
-    {
-      "audio_id": "4662437407317370",
-      "title": "Long Way Home",
-      "display_artist": "cloud cover",
-      "duration_in_ms": 65959
-    },
-    {
-      "audio_id": "1941236307254688",
-      "title": "It's Giving",
-      "display_artist": "Auralux",
-      "duration_in_ms": 60917
-    },
-    {
-      "audio_id": "921466780818433",
-      "title": "Time Traveler",
-      "display_artist": "Chela Rivas",
-      "duration_in_ms": 155294
-    },
-    {
-      "audio_id": "1037964465285587",
-      "title": "Strange Things",
-      "display_artist": "Company Money",
-      "duration_in_ms": 64050
+      "duration_in_ms": 152570
     },
     {
       "audio_id": "6071939692853079",
@@ -110,46 +56,100 @@
       "duration_in_ms": 185614
     },
     {
-      "audio_id": "605852234423969",
-      "title": "The Solution",
-      "display_artist": "Violet Bell",
-      "duration_in_ms": 202130
+      "audio_id": "1166424385117276",
+      "title": "Iro (Lies) (feat. Rebecca Blessing, RukyClassic)",
+      "display_artist": "Afro Sound Machine",
+      "duration_in_ms": 257420
     },
     {
-      "audio_id": "1911811356298323",
-      "title": "Floating About",
-      "display_artist": "Global Genius",
-      "duration_in_ms": 173909
+      "audio_id": "232748419599840",
+      "title": "Connection (feat. Plum Soul)",
+      "display_artist": "Jumbo",
+      "duration_in_ms": 160254
     },
     {
-      "audio_id": "633129632447362",
-      "title": "Inner Light",
-      "display_artist": "Loga Ramin Torkian",
-      "duration_in_ms": 177898
+      "audio_id": "2626951160804670",
+      "title": "Gimme More (Reels Sound - Listicle)",
+      "display_artist": "Chela Rivas",
+      "duration_in_ms": 16357
     },
     {
-      "audio_id": "325343796705855",
-      "title": "Morning Light (Instrumental)",
-      "display_artist": "Sugartapes",
-      "duration_in_ms": 150000
+      "audio_id": "4156242777853896",
+      "title": "Coastline",
+      "display_artist": "LAVLO",
+      "duration_in_ms": 65450
     },
     {
-      "audio_id": "515619194034401",
-      "title": "Live The Dream",
+      "audio_id": "608070498573374",
+      "title": "Long Journey Home",
       "display_artist": "Lyle Workman",
-      "duration_in_ms": 222645
+      "duration_in_ms": 252440
     },
     {
-      "audio_id": "343514115431573",
-      "title": "Too Cool (Reels Sound - Photo Dump)",
-      "display_artist": "Giulio Cercato",
-      "duration_in_ms": 18460
+      "audio_id": "2047177892429735",
+      "title": "Soft Arps (Reels Sound - Photo Dump)",
+      "display_artist": "POTG",
+      "duration_in_ms": 12050
     },
     {
-      "audio_id": "851434716703519",
-      "title": "Having The Best Time",
-      "display_artist": "Alex Blue",
-      "duration_in_ms": 234000
+      "audio_id": "302973472523675",
+      "title": "Dimensions",
+      "display_artist": "Sam Marshall",
+      "duration_in_ms": 169726
+    },
+    {
+      "audio_id": "780685057622055",
+      "title": "Constantly (Instrumental)",
+      "display_artist": "Kolektivo",
+      "duration_in_ms": 187273
+    },
+    {
+      "audio_id": "27038542692506933",
+      "title": "Madame (feat. Skon) (Instrumental)",
+      "display_artist": "Afro Sound Machine",
+      "duration_in_ms": 213403
+    },
+    {
+      "audio_id": "7818983731483882",
+      "title": "NPC ASMR (Reels Sound - Listicle)",
+      "display_artist": "POTG",
+      "duration_in_ms": 20000
+    },
+    {
+      "audio_id": "375223564840788",
+      "title": "Beautiful Way",
+      "display_artist": "Lyle Workman",
+      "duration_in_ms": 311720
+    },
+    {
+      "audio_id": "487225386636059",
+      "title": "Coming Back For More",
+      "display_artist": "Jacob Noah",
+      "duration_in_ms": 157550
+    },
+    {
+      "audio_id": "1371175371818858",
+      "title": "Amalfi Coast",
+      "display_artist": "LAVLO",
+      "duration_in_ms": 64396
+    },
+    {
+      "audio_id": "921399176534509",
+      "title": "Pina Colada (Instrumental)",
+      "display_artist": "Sugartapes",
+      "duration_in_ms": 145140
+    },
+    {
+      "audio_id": "915872874903812",
+      "title": "Whatisgoingon",
+      "display_artist": "Lightbox Music",
+      "duration_in_ms": 58579
+    },
+    {
+      "audio_id": "658196196449422",
+      "title": "Slap + Kiss (Instrumental)",
+      "display_artist": "Ella Joy Meir",
+      "duration_in_ms": 137560
     }
   ],
   "searches": {
