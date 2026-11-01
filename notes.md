@@ -1,5 +1,10 @@
 # Notes: what's working (newest first)
 
+## 1 Nov 2026: Kit account ready
+
+- Daniel created a free Kit account (name "Retained", retained.au@gmail.com), confirmed the email and added a mailing address. No forms yet.
+- **Priority this week:** build both lead magnets (New ABN Starter Kit, The Claim Sheet) as PDFs in `leadmagnets/`, then send Daniel one short list of steps to create two Kit forms (tags Retained / Return Policy, incentive email with the PDF, double opt-in) and ask him to send back each form's embed code. Then build the GitHub Pages signup pages and switch `keyword_replies` to "link in bio".
+
 ## 1 Nov 2026: direction change
 
 - Daniel wants the content to lead with "how to legally pay less tax / keep more" (Karlton Dennis-style framing). See "Content direction" in CLAUDE.md.
