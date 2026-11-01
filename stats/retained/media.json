@@ -16,6 +16,25 @@
       "profile_visits": 0,
       "follows": 0
     },
-    "fetched_at": "2026-11-01T05:06+00:00"
+    "fetched_at": "2026-11-01T09:02+00:00"
+  },
+  "18084046646709091": {
+    "post_id": "RT-02",
+    "type": "FEED",
+    "timestamp": "2026-11-01T06:07:59+0000",
+    "permalink": "https://www.instagram.com/p/DfMDVMXgTHJ/",
+    "caption_start": "On $60,000 of sole trader profit in 2026–27, income tax and Medicare come to rou",
+    "metrics": {
+      "reach": 0,
+      "views": 0,
+      "likes": 0,
+      "comments": 1,
+      "saved": 0,
+      "shares": 0,
+      "total_interactions": 1,
+      "profile_visits": 0,
+      "follows": 0
+    },
+    "fetched_at": "2026-11-01T09:02+00:00"
   }
 }
