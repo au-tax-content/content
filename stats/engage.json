@@ -1,0 +1,23 @@
+{
+  "fetched_at": "2026-11-01T00:31+00:00",
+  "retained": {
+    "posts": [],
+    "errors": {
+      "smallbusinessaustralia": "HTTP 400: (#10) To use 'Instagram Public Content Access', your use of this endpoint must be reviewed and approved by Facebook. To submit this 'Instagram Public Content Access' feature for review pleas",
+      "soletraderaustralia": "HTTP 400: (#10) To use 'Instagram Public Content Access', your use of this endpoint must be reviewed and approved by Facebook. To submit this 'Instagram Public Content Access' feature for review pleas",
+      "australiansmallbusiness": "HTTP 400: (#10) To use 'Instagram Public Content Access', your use of this endpoint must be reviewed and approved by Facebook. To submit this 'Instagram Public Content Access' feature for review pleas",
+      "tradieaustralia": "HTTP 400: (#10) To use 'Instagram Public Content Access', your use of this endpoint must be reviewed and approved by Facebook. To submit this 'Instagram Public Content Access' feature for review pleas",
+      "sidehustleaustralia": "HTTP 400: (#10) To use 'Instagram Public Content Access', your use of this endpoint must be reviewed and approved by Facebook. To submit this 'Instagram Public Content Access' feature for review pleas"
+    }
+  },
+  "returnpolicy": {
+    "posts": [],
+    "errors": {
+      "moneytipsaustralia": "HTTP 400: (#10) To use 'Instagram Public Content Access', your use of this endpoint must be reviewed and approved by Facebook. To submit this 'Instagram Public Content Access' feature for review pleas",
+      "personalfinanceaustralia": "HTTP 400: (#10) To use 'Instagram Public Content Access', your use of this endpoint must be reviewed and approved by Facebook. To submit this 'Instagram Public Content Access' feature for review pleas",
+      "taxtimeaustralia": "HTTP 400: (#10) To use 'Instagram Public Content Access', your use of this endpoint must be reviewed and approved by Facebook. To submit this 'Instagram Public Content Access' feature for review pleas",
+      "firsthomebuyeraustralia": "HTTP 400: (#10) To use 'Instagram Public Content Access', your use of this endpoint must be reviewed and approved by Facebook. To submit this 'Instagram Public Content Access' feature for review pleas",
+      "nurseaustralia": "HTTP 400: (#10) To use 'Instagram Public Content Access', your use of this endpoint must be reviewed and approved by Facebook. To submit this 'Instagram Public Content Access' feature for review pleas"
+    }
+  }
+}
