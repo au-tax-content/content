@@ -1,155 +1,155 @@
 {
-  "fetched_at": "2026-11-01T13:11+00:00",
+  "fetched_at": "2026-11-01T16:53+00:00",
   "trending": [
     {
-      "audio_id": "6039956439421271",
-      "title": "Silhouette",
-      "display_artist": "Global Genius",
-      "duration_in_ms": 196119
+      "audio_id": "687436917432312",
+      "title": "Piano Secrets",
+      "display_artist": "Ella Joy Meir",
+      "duration_in_ms": 182671
     },
     {
-      "audio_id": "1375165411373302",
-      "title": "Waterpark Bash",
+      "audio_id": "665544582773745",
+      "title": "Take The Bait",
+      "display_artist": "Company Money",
+      "duration_in_ms": 144516
+    },
+    {
+      "audio_id": "3590662944422069",
+      "title": "Not Me",
       "display_artist": "Summer Islands",
-      "duration_in_ms": 67270
+      "duration_in_ms": 75400
     },
     {
-      "audio_id": "1550129379934529",
-      "title": "Stone",
+      "audio_id": "1405970824722060",
+      "title": "Loop This",
+      "display_artist": "Company Money",
+      "duration_in_ms": 64417
+    },
+    {
+      "audio_id": "1365468520903345",
+      "title": "Pop Pop Pop 15s",
+      "display_artist": "Global Genius",
+      "duration_in_ms": 15000
+    },
+    {
+      "audio_id": "2209083172928311",
+      "title": "Half Past Midnight (feat. Cullman Avenue)",
+      "display_artist": "Bryan Todd",
+      "duration_in_ms": 208067
+    },
+    {
+      "audio_id": "846996296331519",
+      "title": "Glass",
+      "display_artist": "Gunnar Olsen",
+      "duration_in_ms": 253635
+    },
+    {
+      "audio_id": "1753722298313651",
+      "title": "Sunset Ride",
+      "display_artist": "Golden Braid Productions",
+      "duration_in_ms": 189727
+    },
+    {
+      "audio_id": "1301961704902094",
+      "title": "Sirena (Instrumental)",
+      "display_artist": "Chela Rivas",
+      "duration_in_ms": 138050
+    },
+    {
+      "audio_id": "1076907748232241",
+      "title": "Vibrant",
       "display_artist": "Jordan Olmos",
-      "duration_in_ms": 68081
+      "duration_in_ms": 65420
     },
     {
-      "audio_id": "583674661052146",
-      "title": "Latina (Instrumental)",
+      "audio_id": "2642294605963108",
+      "title": "Conexion",
+      "display_artist": "Villa",
+      "duration_in_ms": 152732
+    },
+    {
+      "audio_id": "3019435088263215",
+      "title": "Walk",
+      "display_artist": "Baegod",
+      "duration_in_ms": 172592
+    },
+    {
+      "audio_id": "523000043564367",
+      "title": "Giving You Everything",
+      "display_artist": "Jazmine",
+      "duration_in_ms": 157860
+    },
+    {
+      "audio_id": "564181552161113",
+      "title": "The Source",
+      "display_artist": "Spends Quality",
+      "duration_in_ms": 161850
+    },
+    {
+      "audio_id": "1147438562509696",
+      "title": "Slick (feat. Exactesy)",
+      "display_artist": "Yaph",
+      "duration_in_ms": 214913
+    },
+    {
+      "audio_id": "1679656679152719",
+      "title": "Beethoven Symphony No. 5 10s",
+      "display_artist": "Mike Block",
+      "duration_in_ms": 11228
+    },
+    {
+      "audio_id": "761131722980126",
+      "title": "Summertime",
+      "display_artist": "Phury",
+      "duration_in_ms": 177929
+    },
+    {
+      "audio_id": "2533217570208612",
+      "title": "Take It Slow",
+      "display_artist": "avenham",
+      "duration_in_ms": 142860
+    },
+    {
+      "audio_id": "3191541037810055",
+      "title": "Let's Ride",
+      "display_artist": "E-Turn",
+      "duration_in_ms": 179270
+    },
+    {
+      "audio_id": "1083969984582900",
+      "title": "Artist Hands",
+      "display_artist": "Magnetic Sirens",
+      "duration_in_ms": 61930
+    },
+    {
+      "audio_id": "1406500831340843",
+      "title": "In Waves",
+      "display_artist": "Auralux",
+      "duration_in_ms": 61840
+    },
+    {
+      "audio_id": "217968054302232",
+      "title": "Who Said What (Instrumental)",
+      "display_artist": "Mike Floss",
+      "duration_in_ms": 145211
+    },
+    {
+      "audio_id": "3899282546962125",
+      "title": "Noir (Slowed)",
       "display_artist": "Tony Dark Eyes",
-      "duration_in_ms": 183380
+      "duration_in_ms": 210984
     },
     {
-      "audio_id": "7996549130439955",
-      "title": "Later",
-      "display_artist": "Savior Undercover",
-      "duration_in_ms": 150910
+      "audio_id": "489886620870711",
+      "title": "Prada (feat. Kennedy Bane)",
+      "display_artist": "Bryan Todd",
+      "duration_in_ms": 155050
     },
     {
-      "audio_id": "492594529822059",
-      "title": "Woke Up Like This (Reels Sound - Reactions)",
-      "display_artist": "Sugartapes",
-      "duration_in_ms": 22030
-    },
-    {
-      "audio_id": "2567990066912667",
-      "title": "Stop Go",
-      "display_artist": "half.cool",
-      "duration_in_ms": 185579
-    },
-    {
-      "audio_id": "1440917724532134",
-      "title": "Finally",
-      "display_artist": "Lightbox Music",
-      "duration_in_ms": 64989
-    },
-    {
-      "audio_id": "1115228880029100",
-      "title": "Westside",
-      "display_artist": "Tony Dark Eyes",
-      "duration_in_ms": 139850
-    },
-    {
-      "audio_id": "1781205306528226",
-      "title": "Get Meow Ta Here",
-      "display_artist": "erloom",
-      "duration_in_ms": 68000
-    },
-    {
-      "audio_id": "1951551292446978",
-      "title": "Bad Teleprompter",
-      "display_artist": "TrackTribe",
-      "duration_in_ms": 236763
-    },
-    {
-      "audio_id": "863544675725215",
-      "title": "Welcome (To The Matrix) (feat. LAKAN)",
-      "display_artist": "Ecklectic Music",
-      "duration_in_ms": 244070
-    },
-    {
-      "audio_id": "554054137533614",
-      "title": "MTN City (Reels Sound - Photo Dump)",
-      "display_artist": "Ross Lara",
-      "duration_in_ms": 25320
-    },
-    {
-      "audio_id": "2058168661191252",
-      "title": "California Cry (Reels Sound - Listicle)",
-      "display_artist": "bbox",
-      "duration_in_ms": 17488
-    },
-    {
-      "audio_id": "873273635036988",
-      "title": "Horizon's Embrace",
-      "display_artist": "Ross Lara",
-      "duration_in_ms": 161043
-    },
-    {
-      "audio_id": "1250852959775439",
-      "title": "Retro Bollywood",
-      "display_artist": "stereogully",
-      "duration_in_ms": 124784
-    },
-    {
-      "audio_id": "1396513852362693",
-      "title": "Mist",
-      "display_artist": "Lightbox Music",
-      "duration_in_ms": 58490
-    },
-    {
-      "audio_id": "1075231887305593",
-      "title": "Jeje (Instrumental)",
-      "display_artist": "Afro Sound Machine",
-      "duration_in_ms": 171150
-    },
-    {
-      "audio_id": "1963983877810715",
-      "title": "Hello Sunshine",
-      "display_artist": "Divine Mahara",
-      "duration_in_ms": 225412
-    },
-    {
-      "audio_id": "519961333797154",
-      "title": "Oh No (Instrumental)",
-      "display_artist": "Kolektivo",
-      "duration_in_ms": 143330
-    },
-    {
-      "audio_id": "497116412841351",
-      "title": "Air (Reels Sound - Before and After)",
-      "display_artist": "Ross Lara",
-      "duration_in_ms": 18720
-    },
-    {
-      "audio_id": "7598188866957578",
-      "title": "Sunday Sunshine (feat. Sharkie J)",
-      "display_artist": "Neko Fuzz",
-      "duration_in_ms": 173700
-    },
-    {
-      "audio_id": "1415108139024138",
-      "title": "Moody Guitar Song",
-      "display_artist": "Gia Sky",
-      "duration_in_ms": 163400
-    },
-    {
-      "audio_id": "1882415892219688",
-      "title": "Roadtrippin'",
-      "display_artist": "Lance Taber",
-      "duration_in_ms": 179380
-    },
-    {
-      "audio_id": "4210222392600340",
-      "title": "Sidewinder (Instrumental)",
-      "display_artist": "EK",
-      "duration_in_ms": 169540
+      "audio_id": "3516900348523548",
+      "title": "Gave You My Love",
+      "display_artist": "d.higgs",
+      "duration_in_ms": 118117
     }
   ],
   "searches": {
