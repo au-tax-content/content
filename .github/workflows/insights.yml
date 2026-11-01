@@ -25,7 +25,6 @@ jobs:
         run: |
           python3 scripts/insights.py
           python3 scripts/audio.py || true
-          if [ "$(date -u +%u)" = "6" ] || [ -f .github/engage-now ]; then python3 scripts/engage.py || true; rm -f .github/engage-now; fi
       - name: Save stats
         run: |
           git config user.name "content-bot"
