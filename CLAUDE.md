@@ -78,6 +78,11 @@ Goal by mid-February 2027: the biggest engaged audience and email list possible,
 
 **Comments:** `scripts/reply_comments.py` replies publicly to ABN / CLAIM comments within about 15 minutes (text in `accounts.json` → `keyword_replies`). Update that text the moment a lead magnet goes live. Never auto-reply to questions, because an answer can become personal advice. Questions go into `audience.md` and become posts.
 
+## Comment shortlist for Daniel (every weekly run)
+
+Daniel comments by hand from the brand accounts for about 10 minutes a day. Never automate commenting: it's inauthentic activity and gets new accounts restricted. `engage.yml` runs `scripts/engage.py` every Saturday morning (and on demand via `.github/engage-trigger`), saving the latest posts from a watchlist of public accounts to `stats/engage.json`. Hashtag search needs Meta app review, so it uses Business Discovery. Grow the `WATCH` list with relevant Australian business and creator accounts as you find them (handles that error are skipped).
+In each run's final summary, give Daniel 5 posts per account: link, which brand account to comment from, and a ready-to-post comment. Comments must be genuinely useful, general (no personal advice), never self-promotional (no "follow us", links or "DM us"), with any figure verified. Prefer posts with active comment sections and topics where a tax angle adds value. Skip contested political posts.
+
 ## Audience intelligence (positioning for launch)
 
 Keep `audience.md` current every week. No usernames or personal details, ever.
