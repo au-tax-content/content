@@ -11,7 +11,7 @@ This repo runs two anonymous Australian tax-education Instagram accounts end to 
 | Look | Thermal receipt: cream, refund green, mono line items | Ledger on letterhead: navy #0F1B2D, bone #F4F0E8, brass #B08D57, DM Serif Display + IBM Plex Mono + Inter |
 | Series | **Pay less, legally** (lead pillar), "What can a [job] claim?", "Is it claimable?", myths/ATO letters, news decoded | **Keep more** (lead pillar), First-year ABN, Set-aside, Write it off?, GST or not?, Structure |
 | Lead magnet / keyword | The Claim Sheet / CLAIM | New ABN Starter Kit / ABN (not built yet: captions say "be first to get it when it lands in December") |
-| Cadence | 4 feed posts/week (2–3 carousels, 1–2 Reels) + a story every day | 3 feed posts/week (2 carousels, 1 Reel) + stories 3 days a week |
+| Cadence (from 2 Nov 2026) | 2–3 carousels + 1–2 motion Reels/week, **every carousel also re-cut as a trial Reel** (5+ Reels/week) + a story every day | 2 carousels + 1 motion Reel/week, **every carousel also re-cut as a trial Reel** (3+ Reels/week) + stories 3 days a week |
 
 Strategy, hooks and targets: growth playbook https://claude.ai/artifact/1p4aoYdxhAzjsVmA4SrwfG. Brand system: https://claude.ai/artifact/BommxRiWZLiBVib5iuezTp. Launch designs canvas: https://claude.ai/artifact/6Jptw9zVRGJhpyhmQ9ELEd.
 
@@ -46,6 +46,15 @@ Lead with what people actually want: **how to legally pay less tax and keep more
 - **Hook formats that fit:** "How [the wealthy / the best business owners] [legally pay less / stay rich]", "3 legal ways…", "What your accountant does that you don't", "$X profit: here's what changes the bill", "Why two people on the same income pay different tax".
 - **Guardrails (non-negotiable):** say "legally", "minimise" or "plan". Never "avoid", "loophole", "hack" or "the ATO doesn't want you to know". Australia has general anti-avoidance rules (Part IVA) and the TPB and CPA Australia watch finfluencers. Present each strategy as "how it works and who it suits", never "you should do this". Flag the catch every time (eligibility, caps, cash-flow cost, "only worth it if…"). Complex moves (trusts, companies, Division 7A) end with "worth paying a registered adviser to set up properly". Every figure verified that week, with its income year.
 - Keep the practical series (occupation claims, first-year ABN, BAS dates). They earn saves and follows, but the lead pillar carries reach.
+
+## Reach engine: trial Reels (Daniel's call, 2 Nov 2026: "find a way to get traction")
+
+With almost no followers, carousels reach almost nobody. Reels are the only format Instagram routinely shows to non-followers, and **trial Reels** are shown *only* to non-followers first. So:
+- **Every Reel is a trial Reel by default:** `"trial": true, "graduation": "SS_PERFORMANCE"` in post.json. The publisher sends `trial_params` and Instagram shares it with followers automatically if it performs. If Meta rejects trial_params, the publisher falls back to a normal Reel and records `trial_used: false` + `trial_error` (check this in the weekly run; if it keeps failing, drop `trial`).
+- **Every carousel gets a trial Reel re-cut** 1 day later at 12:30 pm AEDT: `brand/carousel_reel.py` (`render(src, out, top="hook line", hl=...)`). It puts the slides on a 9:16 canvas with a push-in, swipe transitions and a hook line in the top band (Return Policy `hl=(255,226,77)`, Retained `hl=(201,161,95)`). ID = carousel ID + `R` (e.g. `RP-02R`), folder `<date>-<ID>-trial-reel-<slug>`, `"format": "carousel re-cut"`, `"source_post"`, same caption and figures, its own trending `audio_id`. The top line must be a hook, not the title: a question, a number, or "Pause and guess".
+- **Scoring:** judge Reels on reach, follows and saves + shares per 1,000 reached. Compare trial to trial. Carousel re-cuts vs motion Reels is a standing comparison: whichever wins on follows per 1,000 gets more of the weekly effort.
+- **Volume beats polish at this stage:** if the week is short on time, ship more re-cuts and fewer new motion Reels. Target by end of November: one Reel per account per day.
+- Trial Reels can't have collaborators and are capped at about 20 a day through the API (far above what we post).
 
 ## Reels
 

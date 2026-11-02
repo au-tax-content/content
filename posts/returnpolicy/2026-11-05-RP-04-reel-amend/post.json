@@ -15,5 +15,7 @@
   ],
   "status": "queued",
   "audio_id": "1048553357803824",
-  "audio_note": "Star Ship - cloud cover (trending, 1 Nov 2026)"
+  "audio_note": "Star Ship - cloud cover (trending, 1 Nov 2026)",
+  "trial": true,
+  "graduation": "SS_PERFORMANCE"
 }

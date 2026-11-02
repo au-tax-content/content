@@ -1,5 +1,12 @@
 # Notes: what's working (newest first)
 
+## 2 Nov 2026: traction push (Daniel: "find a way to start getting traction")
+
+- Day-3 stats: Retained 2 followers, Return Policy 1; reach 0 on every post; the only comments are spam bots. Carousels on accounts with no followers get no distribution.
+- **Change:** Reels-first via **trial Reels** (non-followers first, auto-share to followers on performance). `scripts/publish.py` now sends `trial_params` for `"trial": true` Reels, with a fallback to a normal Reel. New `brand/carousel_reel.py` re-cuts any carousel into a 9:16 Reel with a hook band.
+- **Queued:** RP-02R (Tue 3 Nov 12:30), RT-03R (Tue 12:45), RP-03R (Wed 4 Nov 12:30), RT-05R (Sat 7 Nov 12:30), RP-05R (Mon 9 Nov 12:30). RT-04 and RP-04 switched to trial. That's 7 Reels this week instead of 2.
+- **Check on 8 Nov:** did `trial_used` come back true? Reach on the R posts vs the carousels they came from.
+
 ## November 2026 monthly summary (first Sunday)
 
 - **Followers:** Retained 0, Return Policy 0 (accounts live 30 Oct). Posts out: 1 (RT-01, 31 Oct). Too early for best/worst: RT-01 has 1 like and 1 spam comment, reach not reported yet.

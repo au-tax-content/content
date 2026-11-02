@@ -55,6 +55,20 @@ def publish(post, folder, token):
         args = dict(media_type="REELS", video_url=video, caption=post.get("caption", ""), share_to_feed="true")
         if cover:
             args["cover_url"] = cover
+        if post.get("trial"):
+            # Trial Reel: shown to non-followers first; SS_PERFORMANCE shares it with followers automatically if it performs.
+            trial = dict(args, trial_params=json.dumps({"graduation_strategy": post.get("graduation", "SS_PERFORMANCE")}))
+            trial.pop("share_to_feed", None)
+            try:
+                probe = ig_post("me/media", token, **trial, **({"audio_configuration": json.dumps(
+                    {"audio_id": post["audio_id"], "audio_volume": 100, "video_volume": 0})} if post.get("audio_id") else {}))
+                wait_ready(probe["id"], token, "trial reel", tries=90)
+                post["trial_used"] = True
+                return ig_post("me/media_publish", token, creation_id=probe["id"])
+            except IGError as e:
+                print(f"  trial reel rejected ({e}); publishing as a normal reel")
+                post["trial_used"] = False
+                post["trial_error"] = str(e)[:300]
         if post.get("audio_id"):
             try:
                 parent = ig_post("me/media", token, **args, audio_configuration=json.dumps(
