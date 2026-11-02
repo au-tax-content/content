@@ -1,59 +1,35 @@
 {
-  "fetched_at": "2026-11-02T17:19+00:00",
+  "fetched_at": "2026-11-02T20:59+00:00",
   "trending": [
     {
-      "audio_id": "4126924310773516",
-      "title": "Chill Party",
-      "display_artist": "erloom",
-      "duration_in_ms": 60080
-    },
-    {
-      "audio_id": "178192871704137",
-      "title": "Sharing Is Caring",
+      "audio_id": "325343796705855",
+      "title": "Morning Light (Instrumental)",
       "display_artist": "Sugartapes",
-      "duration_in_ms": 130240
+      "duration_in_ms": 150000
     },
     {
-      "audio_id": "589478255980806",
-      "title": "Gameboy (feat. Nave) ",
-      "display_artist": "Giulio Cercato",
-      "duration_in_ms": 127207
+      "audio_id": "755656819951140",
+      "title": "A Whirlwind Weekend",
+      "display_artist": "Taimane",
+      "duration_in_ms": 223250
     },
     {
-      "audio_id": "2063183710956310",
-      "title": "Nomad Pulse",
-      "display_artist": "Afterlight",
-      "duration_in_ms": 65848
+      "audio_id": "1697886797405321",
+      "title": "Forth",
+      "display_artist": "Trout Recording",
+      "duration_in_ms": 222566
     },
     {
-      "audio_id": "394818199655894",
-      "title": "Lostinthe (Reels Sound - Reveal)",
-      "display_artist": "Encanti",
-      "duration_in_ms": 22140
+      "audio_id": "495555682769957",
+      "title": "Wild Horses",
+      "display_artist": "Jonny Houlihan",
+      "duration_in_ms": 282768
     },
     {
-      "audio_id": "1100843157778965",
-      "title": "Wanna Dance (feat. G7MBL3)",
+      "audio_id": "362725189744805",
+      "title": "Way Up (feat. G7MBL3)",
       "display_artist": "d.higgs",
-      "duration_in_ms": 180800
-    },
-    {
-      "audio_id": "691465059887028",
-      "title": "Makeover (Reels Sound - Before And After)",
-      "display_artist": "POTG",
-      "duration_in_ms": 13440
-    },
-    {
-      "audio_id": "1082299394231369",
-      "title": "Sunset Glitter Engine",
-      "display_artist": "Magnetic Sirens",
-      "duration_in_ms": 61800
-    },
-    {
-      "audio_id": "621785233467305",
-      "title": "Coro",
-      "display_artist": "MrMusik Man",
-      "duration_in_ms": 125826
+      "duration_in_ms": 184880
     },
     {
       "audio_id": "1045987974509886",
@@ -62,94 +38,118 @@
       "duration_in_ms": 63850
     },
     {
-      "audio_id": "1419710589206248",
-      "title": "Get It Now (Instrumental)",
-      "display_artist": "Baegod",
-      "duration_in_ms": 153650
+      "audio_id": "1267635733842081",
+      "title": "Flow Motion",
+      "display_artist": "Lucid Mantra",
+      "duration_in_ms": 183675
     },
     {
-      "audio_id": "1189887502462489",
-      "title": "Soul Salvation Samba",
-      "display_artist": "Maile",
-      "duration_in_ms": 181550
+      "audio_id": "361838936413171",
+      "title": "Glamorous",
+      "display_artist": "Adam Griffith",
+      "duration_in_ms": 157500
     },
     {
-      "audio_id": "584788730210983",
-      "title": "First Galaxy On The Right",
-      "display_artist": "Dr. Pheel",
-      "duration_in_ms": 143979
+      "audio_id": "1528626267881204",
+      "title": "Poquito Mas",
+      "display_artist": "Tony Dark Eyes",
+      "duration_in_ms": 131061
     },
     {
-      "audio_id": "28255716847394942",
-      "title": "Soft Circuit",
-      "display_artist": "Bloom",
-      "duration_in_ms": 62673
+      "audio_id": "1986519258291314",
+      "title": "Black Light",
+      "display_artist": "Kolektivo",
+      "duration_in_ms": 261830
     },
     {
-      "audio_id": "1749706209404149",
-      "title": "Jeffrey",
-      "display_artist": "Lightbox Music",
-      "duration_in_ms": 68500
+      "audio_id": "1524404852007456",
+      "title": "Kaadinte Karachil (Instrumental)",
+      "display_artist": "Veno Miss",
+      "duration_in_ms": 156804
     },
     {
-      "audio_id": "615962859834245",
-      "title": "Hop Skip And A Jump Away",
-      "display_artist": "Trout Recording",
-      "duration_in_ms": 230407
-    },
-    {
-      "audio_id": "1363456741124469",
-      "title": "Easy On Me",
-      "display_artist": "Julia Gartha",
-      "duration_in_ms": 196513
-    },
-    {
-      "audio_id": "249792064212256",
-      "title": "Prece (Prayer)",
-      "display_artist": "Munir",
-      "duration_in_ms": 194016
-    },
-    {
-      "audio_id": "700699545367158",
-      "title": "Sacred Land (feat. Efren Lopez)",
-      "display_artist": "Loga Ramin Torkian",
-      "duration_in_ms": 205533
-    },
-    {
-      "audio_id": "1166768928119407",
-      "title": "Searching",
+      "audio_id": "690504629376400",
+      "title": "Reel Kitschy",
       "display_artist": "Global Genius",
-      "duration_in_ms": 172290
+      "duration_in_ms": 185299
     },
     {
-      "audio_id": "852009276993386",
-      "title": "Killer Death Puppies (Reels Sound Immersive - Reactions)",
-      "display_artist": "Marshall Watson",
-      "duration_in_ms": 22330
+      "audio_id": "1225106825069936",
+      "title": "Fly",
+      "display_artist": "Tony Dark Eyes",
+      "duration_in_ms": 171198
     },
     {
-      "audio_id": "370667348940690",
-      "title": "Mi Habitacion",
-      "display_artist": "MrMusik Man",
-      "duration_in_ms": 166515
+      "audio_id": "2299554110444091",
+      "title": "Fight For Freedom",
+      "display_artist": "Lyle Workman",
+      "duration_in_ms": 241850
     },
     {
-      "audio_id": "27427323596966685",
-      "title": "End Requested",
-      "display_artist": "Auralux",
-      "duration_in_ms": 63057
+      "audio_id": "1447374035821884",
+      "title": "Viral Camera (Reels Sound - Before And After)",
+      "display_artist": "Sugartapes",
+      "duration_in_ms": 17142
     },
     {
-      "audio_id": "1279546403146692",
-      "title": "Sodalicious",
-      "display_artist": "Melody the Superstar",
-      "duration_in_ms": 222046
+      "audio_id": "1725690515216698",
+      "title": "Ron Ron",
+      "display_artist": "cloud cover",
+      "duration_in_ms": 60050
     },
     {
-      "audio_id": "369031602353479",
-      "title": "Postcard From Mars (Instrumental)",
-      "display_artist": "The Poison Oaks",
-      "duration_in_ms": 213180
+      "audio_id": "1238438330371464",
+      "title": "Just Us",
+      "display_artist": "Giulio Cercato",
+      "duration_in_ms": 133140
+    },
+    {
+      "audio_id": "458742983134920",
+      "title": "Up",
+      "display_artist": "Chela Rivas",
+      "duration_in_ms": 126496
+    },
+    {
+      "audio_id": "9265702526808689",
+      "title": "Good Girl",
+      "display_artist": "Mont Lee",
+      "duration_in_ms": 144320
+    },
+    {
+      "audio_id": "1995949041161208",
+      "title": "Christmas In November (Reels Sound - Listicle)",
+      "display_artist": "GEEZ",
+      "duration_in_ms": 23600
+    },
+    {
+      "audio_id": "1324485275281238",
+      "title": "Need U Now",
+      "display_artist": "Giulio Cercato",
+      "duration_in_ms": 145950
+    },
+    {
+      "audio_id": "1578100402861586",
+      "title": "Chill And Relax Too",
+      "display_artist": "bbox",
+      "duration_in_ms": 168049
+    },
+    {
+      "audio_id": "2132877614311630",
+      "title": "Seven Pints Deep",
+      "display_artist": "Afterlight",
+      "duration_in_ms": 63410
+    },
+    {
+      "audio_id": "1395132935890734",
+      "title": "Robot Strut",
+      "display_artist": "cloud cover",
+      "duration_in_ms": 58000
+    },
+    {
+      "audio_id": "699863985684421",
+      "title": "Blitter",
+      "display_artist": "HME",
+      "duration_in_ms": 239413
     }
   ],
   "searches": {

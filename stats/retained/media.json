@@ -16,7 +16,7 @@
       "profile_visits": 0,
       "follows": 0
     },
-    "fetched_at": "2026-11-02T17:18+00:00"
+    "fetched_at": "2026-11-02T20:59+00:00"
   },
   "18084046646709091": {
     "post_id": "RT-02",
@@ -35,7 +35,7 @@
       "profile_visits": 0,
       "follows": 0
     },
-    "fetched_at": "2026-11-02T17:18+00:00"
+    "fetched_at": "2026-11-02T20:59+00:00"
   },
   "18066982166635605": {
     "post_id": "RT-03",
@@ -54,7 +54,7 @@
       "profile_visits": 0,
       "follows": 0
     },
-    "fetched_at": "2026-11-02T17:18+00:00"
+    "fetched_at": "2026-11-02T20:59+00:00"
   },
   "17963070837000086": {
     "post_id": "RT-05R",
@@ -71,7 +71,7 @@
       "shares": 0,
       "total_interactions": 2
     },
-    "fetched_at": "2026-11-02T17:18+00:00"
+    "fetched_at": "2026-11-02T20:59+00:00"
   },
   "17931097266423208": {
     "post_id": "RT-05",
@@ -90,7 +90,7 @@
       "profile_visits": 0,
       "follows": 0
     },
-    "fetched_at": "2026-11-02T17:18+00:00"
+    "fetched_at": "2026-11-02T20:59+00:00"
   },
   "17973899649179936": {
     "post_id": "RT-02R",
@@ -99,15 +99,15 @@
     "permalink": "https://www.instagram.com/reel/DfO0PmAiSVZ/",
     "caption_start": "On $60,000 of sole trader profit in 2026–27, income tax and Medicare come to rou",
     "metrics": {
-      "reach": 42,
-      "views": 46,
+      "reach": 43,
+      "views": 47,
       "likes": 1,
       "comments": 0,
       "saved": 0,
       "shares": 0,
       "total_interactions": 1
     },
-    "fetched_at": "2026-11-02T17:18+00:00"
+    "fetched_at": "2026-11-02T20:59+00:00"
   },
   "18133126996685618": {
     "post_id": "RT-04",
@@ -116,15 +116,15 @@
     "permalink": "https://www.instagram.com/reel/DfOqmDajkQk/",
     "caption_start": "Three legal, boring, completely normal ways small business owners reduce their t",
     "metrics": {
-      "reach": 4,
-      "views": 6,
+      "reach": 37,
+      "views": 38,
       "likes": 0,
       "comments": 0,
       "saved": 0,
       "shares": 0,
       "total_interactions": 0
     },
-    "fetched_at": "2026-11-02T17:18+00:00"
+    "fetched_at": "2026-11-02T20:59+00:00"
   },
   "18118811162107793": {
     "post_id": "RT-03R",
@@ -141,6 +141,6 @@
       "shares": 0,
       "total_interactions": 0
     },
-    "fetched_at": "2026-11-02T17:18+00:00"
+    "fetched_at": "2026-11-02T20:59+00:00"
   }
 }
