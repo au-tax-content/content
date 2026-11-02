@@ -22,5 +22,10 @@
   "graduation": "SS_PERFORMANCE",
   "audio_id": "571002951589766",
   "audio_note": "Beru - Afro Sound Machine (trending, 2 Nov 2026)",
-  "status": "queued"
+  "status": "published",
+  "trial_used": false,
+  "trial_error": "HTTP 400: Application does not have permission for this action (code 10, subcode 2207081)",
+  "media_id": "17973899649179936",
+  "published_at": "2026-11-02T07:53:41.949875+00:00",
+  "permalink": "https://www.instagram.com/reel/DfO0PmAiSVZ/"
 }

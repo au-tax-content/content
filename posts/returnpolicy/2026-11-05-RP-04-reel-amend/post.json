@@ -13,9 +13,14 @@
     "Amendment time limit: generally 2 years from day after notice of assessment sent (ATO Time limits on amendments, checked 1 Nov 2026)",
     "How to amend: myGov > ATO > Manage tax returns > Amend; wait until original processed; online ~15 business days, written up to 90 (ATO How to request an amendment, updated 28 Oct 2026, checked 1 Nov 2026)"
   ],
-  "status": "queued",
+  "status": "published",
   "audio_id": "1048553357803824",
   "audio_note": "Star Ship - cloud cover (trending, 1 Nov 2026)",
   "trial": true,
-  "graduation": "SS_PERFORMANCE"
+  "graduation": "SS_PERFORMANCE",
+  "trial_used": false,
+  "trial_error": "HTTP 400: Application does not have permission for this action (code 10, subcode 2207081)",
+  "media_id": "18433962775194310",
+  "published_at": "2026-11-02T07:53:41.949875+00:00",
+  "permalink": "https://www.instagram.com/reel/DfO0rfrgk2f/"
 }
