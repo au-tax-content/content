@@ -21,5 +21,10 @@
   "graduation": "SS_PERFORMANCE",
   "audio_id": "1584781886763391",
   "audio_note": "IYKYK - Fellow Travelers (trending, 2 Nov 2026)",
-  "status": "queued"
+  "status": "published",
+  "trial_used": false,
+  "trial_error": "HTTP 400: Application does not have permission for this action (code 10, subcode 2207081)",
+  "media_id": "18118811162107793",
+  "published_at": "2026-11-02T05:35:43.407095+00:00",
+  "permalink": "https://www.instagram.com/reel/DfOkdJ_FWnd/"
 }

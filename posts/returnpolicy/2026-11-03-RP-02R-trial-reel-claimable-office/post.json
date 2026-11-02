@@ -23,5 +23,10 @@
   "graduation": "SS_PERFORMANCE",
   "audio_id": "1540411780042185",
   "audio_note": "Hide & Seek (Reels Sound - Listicle) (trending, 2 Nov 2026)",
-  "status": "queued"
+  "status": "published",
+  "trial_used": false,
+  "trial_error": "HTTP 400: Application does not have permission for this action (code 10, subcode 2207081)",
+  "media_id": "18092702396291514",
+  "published_at": "2026-11-02T05:35:43.407095+00:00",
+  "permalink": "https://www.instagram.com/reel/DfOkhxmDTd-/"
 }
