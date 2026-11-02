@@ -6,7 +6,8 @@
 - **Change:** Reels-first via **trial Reels** (non-followers first, auto-share to followers on performance). `scripts/publish.py` now sends `trial_params` for `"trial": true` Reels, with a fallback to a normal Reel. New `brand/carousel_reel.py` re-cuts any carousel into a 9:16 Reel with a hook band.
 - **Queued:** RP-02R (Tue 3 Nov 12:30), RT-03R (Tue 12:45), RP-03R (Wed 4 Nov 12:30), RT-05R (Sat 7 Nov 12:30), RP-05R (Mon 9 Nov 12:30). RT-04 and RP-04 switched to trial. That's 7 Reels this week instead of 2.
 - **Brought forward (Daniel: stop timing, act urgently):** all 13 queued feed posts plus a new RT-02R re-cut now go out 2 Nov between 4:30 and 7:30 pm, 30 min apart per account. Stories unchanged. Rule now in CLAUDE.md: no timing until 100 followers.
-- **Check on 8 Nov:** did `trial_used` come back true? Reach on the R posts vs the carousels they came from.
+- **Trial Reels rejected by Meta** (code 10 / 2207081, no permission for this app). RP-02R and RT-03R went out 4:35 pm as normal Reels via the fallback.
+- **Check on 8 Nov:** Reach on the R posts vs the carousels they came from.
 
 ## November 2026 monthly summary (first Sunday)
 
