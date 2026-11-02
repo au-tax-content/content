@@ -14,9 +14,14 @@
     "Prepayment 12-month rule for small business entities (ATO Deductions for prepaid expenses 2026, checked 1 Nov 2026)",
     "Small business income tax offset 16%, max $1,000 (ATO, checked 30 Oct 2026)"
   ],
-  "status": "queued",
+  "status": "published",
   "audio_id": "1590634959104738",
   "audio_note": "Next Level - LAVLO (trending, 1 Nov 2026)",
   "trial": true,
-  "graduation": "SS_PERFORMANCE"
+  "graduation": "SS_PERFORMANCE",
+  "trial_used": false,
+  "trial_error": "HTTP 400: Application does not have permission for this action (code 10, subcode 2207081)",
+  "media_id": "18133126996685618",
+  "published_at": "2026-11-02T06:29:21.451196+00:00",
+  "permalink": "https://www.instagram.com/reel/DfOqmDajkQk/"
 }
