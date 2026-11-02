@@ -16,7 +16,7 @@
       "profile_visits": 0,
       "follows": 0
     },
-    "fetched_at": "2026-11-02T09:25+00:00"
+    "fetched_at": "2026-11-02T13:30+00:00"
   },
   "18084046646709091": {
     "post_id": "RT-02",
@@ -35,7 +35,7 @@
       "profile_visits": 0,
       "follows": 0
     },
-    "fetched_at": "2026-11-02T09:25+00:00"
+    "fetched_at": "2026-11-02T13:30+00:00"
   },
   "18066982166635605": {
     "post_id": "RT-03",
@@ -47,14 +47,14 @@
       "reach": 0,
       "views": 0,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "saved": 0,
       "shares": 0,
-      "total_interactions": 0,
+      "total_interactions": 1,
       "profile_visits": 0,
       "follows": 0
     },
-    "fetched_at": "2026-11-02T09:25+00:00"
+    "fetched_at": "2026-11-02T13:30+00:00"
   },
   "17963070837000086": {
     "post_id": "RT-05R",
@@ -63,15 +63,15 @@
     "permalink": "https://www.instagram.com/reel/DfO0go5icaM/",
     "caption_start": "Nobody pays your super when you're the boss. That's also one of the biggest lega",
     "metrics": {
-      "reach": 0,
-      "views": 3,
+      "reach": 29,
+      "views": 32,
       "likes": 1,
       "comments": 0,
       "saved": 1,
       "shares": 0,
       "total_interactions": 2
     },
-    "fetched_at": "2026-11-02T09:25+00:00"
+    "fetched_at": "2026-11-02T13:30+00:00"
   },
   "17931097266423208": {
     "post_id": "RT-05",
@@ -83,14 +83,14 @@
       "reach": 0,
       "views": 0,
       "likes": 0,
-      "comments": 0,
+      "comments": 1,
       "saved": 0,
       "shares": 0,
-      "total_interactions": 0,
+      "total_interactions": 1,
       "profile_visits": 0,
       "follows": 0
     },
-    "fetched_at": "2026-11-02T09:25+00:00"
+    "fetched_at": "2026-11-02T13:30+00:00"
   },
   "17973899649179936": {
     "post_id": "RT-02R",
@@ -99,15 +99,15 @@
     "permalink": "https://www.instagram.com/reel/DfO0PmAiSVZ/",
     "caption_start": "On $60,000 of sole trader profit in 2026–27, income tax and Medicare come to rou",
     "metrics": {
-      "reach": 3,
-      "views": 6,
+      "reach": 42,
+      "views": 46,
       "likes": 1,
       "comments": 0,
       "saved": 0,
       "shares": 0,
       "total_interactions": 1
     },
-    "fetched_at": "2026-11-02T09:25+00:00"
+    "fetched_at": "2026-11-02T13:30+00:00"
   },
   "18133126996685618": {
     "post_id": "RT-04",
@@ -124,7 +124,7 @@
       "shares": 0,
       "total_interactions": 0
     },
-    "fetched_at": "2026-11-02T09:25+00:00"
+    "fetched_at": "2026-11-02T13:30+00:00"
   },
   "18118811162107793": {
     "post_id": "RT-03R",
@@ -133,14 +133,14 @@
     "permalink": "https://www.instagram.com/reel/DfOkdJ_FWnd/",
     "caption_start": "Nobody warns you about these until it's too late.\n\nNo tax comes out of ABN payme",
     "metrics": {
-      "reach": 5,
-      "views": 6,
+      "reach": 11,
+      "views": 12,
       "likes": 0,
       "comments": 0,
       "saved": 0,
       "shares": 0,
       "total_interactions": 0
     },
-    "fetched_at": "2026-11-02T09:25+00:00"
+    "fetched_at": "2026-11-02T13:30+00:00"
   }
 }

@@ -16,7 +16,7 @@
       "profile_visits": 0,
       "follows": 0
     },
-    "fetched_at": "2026-11-02T09:25+00:00"
+    "fetched_at": "2026-11-02T13:30+00:00"
   },
   "18103089026652767": {
     "post_id": "RP-05",
@@ -35,7 +35,7 @@
       "profile_visits": 0,
       "follows": 0
     },
-    "fetched_at": "2026-11-02T09:25+00:00"
+    "fetched_at": "2026-11-02T13:30+00:00"
   },
   "18353983255281573": {
     "post_id": "RP-02",
@@ -54,7 +54,7 @@
       "profile_visits": 0,
       "follows": 0
     },
-    "fetched_at": "2026-11-02T09:25+00:00"
+    "fetched_at": "2026-11-02T13:30+00:00"
   },
   "18114781427171007": {
     "post_id": "RP-05R",
@@ -63,15 +63,15 @@
     "permalink": "https://www.instagram.com/reel/DfO0wZdjW9f/",
     "caption_start": "$1,000 off your taxable income, no receipts needed. It's real, and it starts wit",
     "metrics": {
-      "reach": 0,
-      "views": 0,
+      "reach": 1,
+      "views": 1,
       "likes": 0,
       "comments": 0,
       "saved": 0,
       "shares": 0,
       "total_interactions": 0
     },
-    "fetched_at": "2026-11-02T09:25+00:00"
+    "fetched_at": "2026-11-02T13:30+00:00"
   },
   "18433962775194310": {
     "post_id": "RP-04",
@@ -80,15 +80,15 @@
     "permalink": "https://www.instagram.com/reel/DfO0rfrgk2f/",
     "caption_start": "Lodged in October and just remembered a deduction? You can still fix it.\n\nMost p",
     "metrics": {
-      "reach": 0,
-      "views": 0,
+      "reach": 11,
+      "views": 12,
       "likes": 0,
       "comments": 0,
       "saved": 0,
       "shares": 0,
       "total_interactions": 0
     },
-    "fetched_at": "2026-11-02T09:25+00:00"
+    "fetched_at": "2026-11-02T13:30+00:00"
   },
   "17987932806095224": {
     "post_id": "RP-03",
@@ -107,7 +107,7 @@
       "profile_visits": 0,
       "follows": 0
     },
-    "fetched_at": "2026-11-02T09:25+00:00"
+    "fetched_at": "2026-11-02T13:30+00:00"
   },
   "18489731068119263": {
     "post_id": "RP-03R",
@@ -116,15 +116,15 @@
     "permalink": "https://www.instagram.com/reel/DfOqquzE9Qi/",
     "caption_start": "Same job. Same $90K salary. One of them pays $3,200 less income tax, legally.\n\nS",
     "metrics": {
-      "reach": 17,
-      "views": 20,
+      "reach": 32,
+      "views": 34,
       "likes": 0,
       "comments": 0,
       "saved": 0,
       "shares": 0,
       "total_interactions": 0
     },
-    "fetched_at": "2026-11-02T09:25+00:00"
+    "fetched_at": "2026-11-02T13:30+00:00"
   },
   "18092702396291514": {
     "post_id": "RP-02R",
@@ -133,14 +133,14 @@
     "permalink": "https://www.instagram.com/reel/DfOkhxmDTd-/",
     "caption_start": "Six things office workers try to claim. How many would you get right?\n\nGym: no (",
     "metrics": {
-      "reach": 2,
-      "views": 2,
+      "reach": 3,
+      "views": 3,
       "likes": 0,
       "comments": 0,
       "saved": 0,
       "shares": 0,
       "total_interactions": 0
     },
-    "fetched_at": "2026-11-02T09:25+00:00"
+    "fetched_at": "2026-11-02T13:30+00:00"
   }
 }
