@@ -1,5 +1,13 @@
 # Notes: what's working (newest first)
 
+## 3 Nov 2026: connectors + crayon two-panel style
+
+- Daniel connected Canva, Unsplash and vidIQ. He likes Karlton Dennis's crayon two-panel motivational carousel ("The average millionaire is 57. Not 21."; 10.6K likes, 3.5K shares).
+- Canva `generate-image` makes good crayon illustrations (ask for "no text"; add all words ourselves so they're exact). Mock-up: `refs/mock-crayon-two-panel.jpg` ("Most people have 2 years to fix their tax return. Not 2 days.").
+- Pipeline: generate-image → place on the working canvas design `DAHZ2AHQfVk` (edit-design insert_fill) → export-design PNG → download → compose text in HTML.
+- **Blocked:** this environment can't download from `export-download.canva.com` or `images.unsplash.com` (egress proxy 403). Daniel needs to allow those domains (claude.ai web → Settings → Capabilities). Until then the crayon style can't be automated.
+- Use the style as ~1 in 5 posts, money/tax twist, every stat verified (ABS/ATO), never his stats or characters.
+
 ## 3 Nov 2026: content looks too plain (Daniel)
 
 - Daniel: the posts are correct but boring and one-colour; look at Karlton Dennis ("how to lower your taxable income", "ranking tax moves that should be illegal"). He's sending example posts he likes.
