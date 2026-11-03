@@ -1,5 +1,12 @@
 # Notes: what's working (newest first)
 
+## 3 Nov 2026: daily animated Reels (Daniel: go ahead)
+
+- Stats at 4 pm: RT-04 (animated, Penny) reached 95 and is still climbing; every carousel re-cut stalled at 1–44; carousels 0. Retained 127 reach / 3 profile visits on 2 Nov; Return Policy 36. Followers 0 / 0.
+- Decision: one animated Reel per account per day instead of bursts. New `brand/reel_points.py` (hook → 3 point cards → end, both brands, mascot on every card) makes these fast. Don't render two Reels in parallel: motion.py shares one temp HTML file.
+- Queued 12:30 pm: Wed RT-06 ($120K profit, $20K super) + RP-06 (same $90K salary); Thu RT-07 (notice of intent) + RP-07 ($1,000 deduction); Fri RT-08 (2026–27 rates, next dollar) + RP-08 (3 things you can't claim). All figures from the 1 Nov ATO checks.
+- Test this week: motion Reels vs carousel re-cuts on reach and follows per 1,000.
+
 ## 2 Nov 2026: traction push (Daniel: "find a way to start getting traction")
 
 - Day-3 stats: 0 followers on both accounts (Retained 2 posts, Return Policy 1); reach 0 on every post; the only comments are spam bots. Carousels on accounts with no followers get no distribution.

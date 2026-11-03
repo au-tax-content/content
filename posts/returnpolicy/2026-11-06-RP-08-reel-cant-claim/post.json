@@ -1,0 +1,22 @@
+{
+  "id": "RP-08",
+  "account": "returnpolicy",
+  "type": "reel",
+  "series": "Is it claimable?",
+  "pillar": "Myth bust",
+  "publish_at": "2026-11-06T12:30:00+11:00",
+  "caption": "Three work costs people try to claim that the ATO says no to.\n\nGym membership: not claimable, unless strenuous physical activity is an essential, regular part of your job. Plain black work pants: conventional clothing isn't deductible, even if you only wear it to work. Driving from home to the office: normal trips between home and work are private, even long ones.\n\nFor 2025–26 returns.\n\nComment CLAIM and you'll be first to get The Claim Sheet when it lands in December.\n\nGeneral info only, not personal advice.\n\n#taxtips #taxreturn #australiantax #taxdeductions #moneytips",
+  "video": "reel.mp4",
+  "cover": "cover.jpg",
+  "images": [],
+  "figures_checked": [
+    "Gym fees not deductible except strenuous physical activity essential and regular (ATO Gym fees page, checked 1 Nov 2026)",
+    "Conventional clothing and home-to-work travel not deductible (ATO public servant toolkit, checked 1 Nov 2026)"
+  ],
+  "status": "queued",
+  "audio_id": "1458293849525261",
+  "audio_note": "Enchanting (Instrumental) - Viridian (trending, 3 Nov 2026)",
+  "trial": true,
+  "graduation": "SS_PERFORMANCE",
+  "format": "motion"
+}

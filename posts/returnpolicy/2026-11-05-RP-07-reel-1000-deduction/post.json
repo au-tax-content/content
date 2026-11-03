@@ -1,0 +1,22 @@
+{
+  "id": "RP-07",
+  "account": "returnpolicy",
+  "type": "reel",
+  "series": "News decoded",
+  "pillar": "Strategy",
+  "publish_at": "2026-11-05T12:30:00+11:00",
+  "caption": "$1,000 off your taxable income, no receipts needed, from this income year.\n\nThe new standard deduction applies automatically from 2026–27 for residents earning wages or other labour income. It's not in your 2025–26 return. Work costs you claim cut it dollar for dollar, so under $1,000 of costs gets you $1,000 either way. Spend more and keep the records? Claim the lot instead. Union and tax agent fees are claimed on top.\n\nOn the 30% rate it's worth about $320 including Medicare.\n\nSave this for July 2027.\n\nGeneral info only, not personal advice.\n\n#taxnews #australiantax #taxtips #taxreturn #moneytips",
+  "video": "reel.mp4",
+  "cover": "cover.jpg",
+  "images": [],
+  "figures_checked": [
+    "Standard deduction up to $1,000 from 2026-27, automatic, labour income, reduced by claimed work expenses, not in 2025-26 return, union/agent fees outside it (ATO Standard deduction page, updated 14 Sep 2026, checked 1 Nov 2026)",
+    "Value at 30% + 2% = $320"
+  ],
+  "status": "queued",
+  "audio_id": "250441401341176",
+  "audio_note": "Meditations - Otis McDonald (trending, 3 Nov 2026)",
+  "trial": true,
+  "graduation": "SS_PERFORMANCE",
+  "format": "motion"
+}

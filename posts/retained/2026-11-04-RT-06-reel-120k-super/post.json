@@ -1,0 +1,24 @@
+{
+  "id": "RT-06",
+  "account": "retained",
+  "type": "reel",
+  "series": "Keep more",
+  "pillar": "Strategy",
+  "publish_at": "2026-11-04T12:30:00+11:00",
+  "caption": "Same $120K profit. About $3,400 more kept, legally.\n\nA sole trader who puts $20K into super and claims it as a deduction drops taxable income to $100K. In 2026–27 that's $6,400 less tax and Medicare. The fund pays 15% ($3,000), so about $3,400 more stays yours.\n\nThe catch: the money is locked in super until retirement, the 2026–27 concessional cap is $32,500, and you need your fund's acknowledgement of a notice of intent before you claim.\n\nSave this for June.\n\nGeneral info only, not personal advice.\n\n#smallbusinessaustralia #soletrader #superannuation #australiantax #taxtips",
+  "video": "reel.mp4",
+  "cover": "cover.jpg",
+  "images": [],
+  "figures_checked": [
+    "2026-27 resident rates 15%/30%/37%/45%, thresholds $18,200/$45,000/$135,000/$190,000; Medicare levy 2% (ATO Tax rates – Australian residents, checked 1 Nov 2026)",
+    "Worked example: $120K = $26,520 + $2,400 Medicare; $100K = $20,520 + $2,000; saving $6,400; fund tax 15% of $20K = $3,000",
+    "Concessional cap 2026-27 $32,500 (ATO, checked 1 Nov 2026)",
+    "Personal deductible contributions taxed 15%, notice of intent + acknowledgement before claiming (ATO Personal super contributions, checked 1 Nov 2026)"
+  ],
+  "status": "queued",
+  "audio_id": "1256638451637432",
+  "audio_note": "Beautiful Life - CALIDAD (trending, 3 Nov 2026)",
+  "trial": true,
+  "graduation": "SS_PERFORMANCE",
+  "format": "motion"
+}
