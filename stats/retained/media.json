@@ -6,8 +6,8 @@
     "permalink": "https://www.instagram.com/p/DfJubJSATg_/",
     "caption_start": "Retained is for business owners who'd rather keep more of what they make, legall",
     "metrics": {
-      "reach": 0,
-      "views": 0,
+      "reach": 1,
+      "views": 3,
       "likes": 1,
       "comments": 1,
       "saved": 0,
@@ -16,7 +16,7 @@
       "profile_visits": 0,
       "follows": 0
     },
-    "fetched_at": "2026-11-03T09:09+00:00"
+    "fetched_at": "2026-11-03T13:27+00:00"
   },
   "18084046646709091": {
     "post_id": "RT-02",
@@ -35,7 +35,7 @@
       "profile_visits": 0,
       "follows": 0
     },
-    "fetched_at": "2026-11-03T09:09+00:00"
+    "fetched_at": "2026-11-03T13:27+00:00"
   },
   "18066982166635605": {
     "post_id": "RT-03",
@@ -44,8 +44,8 @@
     "permalink": "https://www.instagram.com/p/DfO62bIGHNN/",
     "caption_start": "Nobody warns you about these until it's too late.\n\nNo tax comes out of ABN payme",
     "metrics": {
-      "reach": 0,
-      "views": 0,
+      "reach": 1,
+      "views": 1,
       "likes": 0,
       "comments": 1,
       "saved": 0,
@@ -54,7 +54,7 @@
       "profile_visits": 0,
       "follows": 0
     },
-    "fetched_at": "2026-11-03T09:09+00:00"
+    "fetched_at": "2026-11-03T13:27+00:00"
   },
   "17963070837000086": {
     "post_id": "RT-05R",
@@ -71,7 +71,7 @@
       "shares": 0,
       "total_interactions": 2
     },
-    "fetched_at": "2026-11-03T09:09+00:00"
+    "fetched_at": "2026-11-03T13:27+00:00"
   },
   "17931097266423208": {
     "post_id": "RT-05",
@@ -80,8 +80,8 @@
     "permalink": "https://www.instagram.com/p/DfO0XjuD4ig/",
     "caption_start": "Nobody pays your super when you're the boss. That's also one of the biggest lega",
     "metrics": {
-      "reach": 0,
-      "views": 0,
+      "reach": 1,
+      "views": 1,
       "likes": 0,
       "comments": 1,
       "saved": 0,
@@ -90,7 +90,7 @@
       "profile_visits": 0,
       "follows": 0
     },
-    "fetched_at": "2026-11-03T09:09+00:00"
+    "fetched_at": "2026-11-03T13:27+00:00"
   },
   "17973899649179936": {
     "post_id": "RT-02R",
@@ -107,7 +107,7 @@
       "shares": 0,
       "total_interactions": 1
     },
-    "fetched_at": "2026-11-03T09:09+00:00"
+    "fetched_at": "2026-11-03T13:27+00:00"
   },
   "18133126996685618": {
     "post_id": "RT-04",
@@ -124,7 +124,7 @@
       "shares": 0,
       "total_interactions": 0
     },
-    "fetched_at": "2026-11-03T09:09+00:00"
+    "fetched_at": "2026-11-03T13:27+00:00"
   },
   "18118811162107793": {
     "post_id": "RT-03R",
@@ -141,6 +141,6 @@
       "shares": 0,
       "total_interactions": 0
     },
-    "fetched_at": "2026-11-03T09:09+00:00"
+    "fetched_at": "2026-11-03T13:27+00:00"
   }
 }
