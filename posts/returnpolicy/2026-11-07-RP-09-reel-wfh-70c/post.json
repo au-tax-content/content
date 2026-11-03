@@ -1,0 +1,22 @@
+{
+  "id": "RP-09",
+  "account": "returnpolicy",
+  "type": "reel",
+  "series": "Pay less, legally",
+  "pillar": "Practical",
+  "publish_at": "2026-11-07T19:30:00+11:00",
+  "caption": "Working from home? The fixed rate is 70 cents for every hour you work from home (2024–25 and 2025–26 returns).\n\nIt covers energy, phone, internet, stationery and computer consumables in one rate. You need a record of the actual hours you worked from home for the whole year (a timesheet, roster or diary); estimates aren't accepted. Equipment like a laptop, desk or chair is claimed on top, and anything over $300 is claimed over its effective life.\n\nSave this.\n\nGeneral info only, not personal advice.\n\n#workfromhome #taxtips #taxreturn #australiantax #moneytips",
+  "video": "reel.mp4",
+  "cover": "cover.jpg",
+  "images": [],
+  "figures_checked": [
+    "WFH fixed rate 70c/hour for 2024-25 and 2025-26; covers energy, phone, internet, stationery, consumables; actual hours record for full year, estimates not accepted; depreciating assets claimed separately (ATO Fixed rate method, checked 3 Nov 2026)",
+    "$300 threshold for immediate deduction (ATO Depreciating assets you use for work, checked 1 Nov 2026)"
+  ],
+  "status": "queued",
+  "audio_id": "965750352630436",
+  "audio_note": "Another Daydream (Instrumental) - Giulio Cercato (trending, 3 Nov 2026)",
+  "trial": true,
+  "graduation": "SS_PERFORMANCE",
+  "format": "motion"
+}

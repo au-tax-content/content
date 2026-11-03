@@ -1,5 +1,11 @@
 # Notes: what's working (newest first)
 
+## 3 Nov 2026: fixed posting schedule (Daniel)
+
+- Reel every day 7:30 pm both accounts; carousels 12:30 pm (RT Tue/Thu, RP Tue/Thu/Sat); stories 8:30 pm (RP daily, RT Mon/Wed/Fri). In CLAUDE.md.
+- This week's Reels moved to 7:30 pm; added Sat/Sun Reels RT-09 (GST $75K), RT-10 (small business offset), RP-09 (WFH 70c/hour), RP-10 (3 changes since 1 July). Figures checked on ATO 3 Nov.
+- From Monday 9 Nov the Sunday run fills every slot.
+
 ## 3 Nov 2026: connectors + crayon two-panel style
 
 - Daniel connected Canva, Unsplash and vidIQ. He likes Karlton Dennis's crayon two-panel motivational carousel ("The average millionaire is 57. Not 21."; 10.6K likes, 3.5K shares).

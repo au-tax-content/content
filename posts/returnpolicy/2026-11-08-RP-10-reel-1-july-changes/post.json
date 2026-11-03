@@ -1,0 +1,22 @@
+{
+  "id": "RP-10",
+  "account": "returnpolicy",
+  "type": "reel",
+  "series": "News decoded",
+  "pillar": "Strategy",
+  "publish_at": "2026-11-08T19:30:00+11:00",
+  "caption": "Three tax changes since 1 July 2026 that most people haven't noticed yet.\n\n1. The 16% rate on income from $18,201 to $45,000 is now 15% (2026–27), worth up to $268 a year.\n2. A $1,000 standard deduction for work expenses, no receipts needed, applies automatically for wage earners from 2026–27.\n3. Laundry is a flat $1 a load for work clothes (50c for mixed loads), and the old $300 no-receipts rule is gone.\n\nSave this.\n\nGeneral info only, not personal advice.\n\n#taxnews #australiantax #taxtips #moneytips #taxreturn",
+  "video": "reel.mp4",
+  "cover": "cover.jpg",
+  "images": [],
+  "figures_checked": [
+    "2026-27 rate 15% on $18,201-$45,000 (2025-26: 16%) (ATO Tax rates – Australian residents, checked 1 Nov 2026); max saving ($45,000-$18,200) x 1% = $268",
+    "Standard deduction $1,000 from 2026-27; laundry $1/50c; $300 exception removed (ATO Standard deduction page, checked 1 Nov 2026)"
+  ],
+  "status": "queued",
+  "audio_id": "666334169116862",
+  "audio_note": "Chill Vibes Lofi (Reels Sound - Listicle) - POTG (trending, 3 Nov 2026)",
+  "trial": true,
+  "graduation": "SS_PERFORMANCE",
+  "format": "motion"
+}
