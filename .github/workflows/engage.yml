@@ -22,6 +22,7 @@ jobs:
         run: |
           mkdir -p stats
           python3 scripts/engage.py 2>&1 | tee stats/engage-log.txt || true
+          python3 scripts/study.py 2>&1 | tee -a stats/engage-log.txt || true
       - name: Save
         run: |
           git config user.name "content-bot"; git config user.email "content-bot@users.noreply.github.com"
