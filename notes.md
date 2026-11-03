@@ -5,7 +5,7 @@
 - Daniel connected Canva, Unsplash and vidIQ. He likes Karlton Dennis's crayon two-panel motivational carousel ("The average millionaire is 57. Not 21."; 10.6K likes, 3.5K shares).
 - Canva `generate-image` makes good crayon illustrations (ask for "no text"; add all words ourselves so they're exact). Mock-up: `refs/mock-crayon-two-panel.jpg` ("Most people have 2 years to fix their tax return. Not 2 days.").
 - Pipeline: generate-image → place on the working canvas design `DAHZ2AHQfVk` (edit-design insert_fill) → export-design PNG → download → compose text in HTML.
-- **Blocked:** this environment can't download from `export-download.canva.com` or `images.unsplash.com` (egress proxy 403). Daniel needs to allow those domains (claude.ai web → Settings → Capabilities). Until then the crayon style can't be automated.
+- Daniel allowed `export-download.canva.com` and `images.unsplash.com` (3 Nov): Canva exports and Unsplash photos now download fine. Reusable kit: `brand/crayon.py` (`two_panel`, `render`).
 - Use the style as ~1 in 5 posts, money/tax twist, every stat verified (ABS/ATO), never his stats or characters.
 
 ## 3 Nov 2026: content looks too plain (Daniel)
