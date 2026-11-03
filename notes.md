@@ -1,5 +1,11 @@
 # Notes: what's working (newest first)
 
+## 3 Nov 2026: content looks too plain (Daniel)
+
+- Daniel: the posts are correct but boring and one-colour; look at Karlton Dennis ("how to lower your taxable income", "ranking tax moves that should be illegal"). He's sending example posts he likes.
+- Pulled Karlton Dennis and Humphrey Yang's last 50 posts (`scripts/study.py` → `stats/benchmarks.json`); takeaways in `refs/benchmark-notes.md`. New rules in CLAUDE.md under "Make it attractive, not textbook".
+- Next: redesign covers (comparison, tier list, giant list, curiosity question), multi-colour, fewer words. Apply to everything made from now on, including Sunday's run. The 6 Reels queued for Wed–Fri stay as they are.
+
 ## 3 Nov 2026: daily animated Reels (Daniel: go ahead)
 
 - Stats at 4 pm: RT-04 (animated, Penny) reached 95 and is still climbing; every carousel re-cut stalled at 1–44; carousels 0. Retained 127 reach / 3 profile visits on 2 Nov; Return Policy 36. Followers 0 / 0.
