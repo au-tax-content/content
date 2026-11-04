@@ -15,10 +15,15 @@
     "Concessional cap 2026-27 $32,500 (ATO, checked 1 Nov 2026)",
     "Personal deductible contributions taxed 15%, notice of intent + acknowledgement before claiming (ATO Personal super contributions, checked 1 Nov 2026)"
   ],
-  "status": "queued",
+  "status": "published",
   "audio_id": "1256638451637432",
   "audio_note": "Beautiful Life - CALIDAD (trending, 3 Nov 2026)",
   "trial": true,
   "graduation": "SS_PERFORMANCE",
-  "format": "motion"
+  "format": "motion",
+  "trial_used": false,
+  "trial_error": "HTTP 400: Application does not have permission for this action (code 10, subcode 2207081)",
+  "media_id": "18646932670007352",
+  "published_at": "2026-11-04T08:38:40.222991+00:00",
+  "permalink": "https://www.instagram.com/reel/DfUC-pHFMT_/"
 }

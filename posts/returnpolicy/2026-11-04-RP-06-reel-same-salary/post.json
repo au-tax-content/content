@@ -16,10 +16,15 @@
     "Salary sacrifice taxed 15% in fund; employer must still pay full SG (ATO Salary sacrificing super, checked 1 Nov 2026)",
     "SG 12% (ATO, checked 30 Oct 2026)"
   ],
-  "status": "queued",
+  "status": "published",
   "audio_id": "1531876101491933",
   "audio_note": "Lazy Sunday - Lightbox Music (trending, 3 Nov 2026)",
   "trial": true,
   "graduation": "SS_PERFORMANCE",
-  "format": "motion"
+  "format": "motion",
+  "trial_used": false,
+  "trial_error": "HTTP 400: Application does not have permission for this action (code 10, subcode 2207081)",
+  "media_id": "18178587319445715",
+  "published_at": "2026-11-04T08:38:40.222991+00:00",
+  "permalink": "https://www.instagram.com/reel/DfUDIQyjIVy/"
 }
