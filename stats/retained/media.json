@@ -16,7 +16,7 @@
       "profile_visits": 0,
       "follows": 0
     },
-    "fetched_at": "2026-11-04T05:17+00:00"
+    "fetched_at": "2026-11-04T09:14+00:00"
   },
   "18084046646709091": {
     "post_id": "RT-02",
@@ -35,7 +35,7 @@
       "profile_visits": 0,
       "follows": 0
     },
-    "fetched_at": "2026-11-04T05:17+00:00"
+    "fetched_at": "2026-11-04T09:14+00:00"
   },
   "18066982166635605": {
     "post_id": "RT-03",
@@ -54,7 +54,7 @@
       "profile_visits": 0,
       "follows": 0
     },
-    "fetched_at": "2026-11-04T05:17+00:00"
+    "fetched_at": "2026-11-04T09:14+00:00"
   },
   "17963070837000086": {
     "post_id": "RT-05R",
@@ -71,7 +71,7 @@
       "shares": 0,
       "total_interactions": 2
     },
-    "fetched_at": "2026-11-04T05:17+00:00"
+    "fetched_at": "2026-11-04T09:14+00:00"
   },
   "17931097266423208": {
     "post_id": "RT-05",
@@ -90,7 +90,7 @@
       "profile_visits": 0,
       "follows": 0
     },
-    "fetched_at": "2026-11-04T05:17+00:00"
+    "fetched_at": "2026-11-04T09:14+00:00"
   },
   "17973899649179936": {
     "post_id": "RT-02R",
@@ -107,7 +107,7 @@
       "shares": 0,
       "total_interactions": 1
     },
-    "fetched_at": "2026-11-04T05:17+00:00"
+    "fetched_at": "2026-11-04T09:14+00:00"
   },
   "18133126996685618": {
     "post_id": "RT-04",
@@ -124,7 +124,7 @@
       "shares": 0,
       "total_interactions": 0
     },
-    "fetched_at": "2026-11-04T05:17+00:00"
+    "fetched_at": "2026-11-04T09:14+00:00"
   },
   "18118811162107793": {
     "post_id": "RT-03R",
@@ -141,6 +141,23 @@
       "shares": 0,
       "total_interactions": 0
     },
-    "fetched_at": "2026-11-04T05:17+00:00"
+    "fetched_at": "2026-11-04T09:14+00:00"
+  },
+  "18646932670007352": {
+    "post_id": "RT-06",
+    "type": "REELS",
+    "timestamp": "2026-11-04T08:39:12+0000",
+    "permalink": "https://www.instagram.com/reel/DfUC-pHFMT_/",
+    "caption_start": "Same $120K profit. About $3,400 more kept, legally.\n\nA sole trader who puts $20K",
+    "metrics": {
+      "reach": 0,
+      "views": 7,
+      "likes": 0,
+      "comments": 0,
+      "saved": 0,
+      "shares": 0,
+      "total_interactions": 0
+    },
+    "fetched_at": "2026-11-04T09:14+00:00"
   }
 }

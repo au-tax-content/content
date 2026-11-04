@@ -1,155 +1,155 @@
 {
-  "fetched_at": "2026-11-04T05:18+00:00",
+  "fetched_at": "2026-11-04T09:15+00:00",
   "trending": [
     {
-      "audio_id": "1076647343601483",
-      "title": "2 Hands",
-      "display_artist": "Trout Recording",
-      "duration_in_ms": 183140
+      "audio_id": "560265649267208",
+      "title": "Before I Forget",
+      "display_artist": "Jumbo",
+      "duration_in_ms": 168296
     },
     {
-      "audio_id": "930669978260023",
-      "title": "Fervor",
-      "display_artist": "Ross Lara",
-      "duration_in_ms": 161781
+      "audio_id": "1235684644035738",
+      "title": "My Mind",
+      "display_artist": "Julia Gartha",
+      "duration_in_ms": 147253
     },
     {
-      "audio_id": "845285864683880",
-      "title": "Rise Of The Brave",
-      "display_artist": "Daria Novo",
-      "duration_in_ms": 216086
+      "audio_id": "1082951880799305",
+      "title": "Shine On Me",
+      "display_artist": "LAVLO",
+      "duration_in_ms": 56197
     },
     {
-      "audio_id": "566189489083747",
-      "title": "Halloween Nightmare",
+      "audio_id": "171835059332496",
+      "title": "Jingle Bells Swing",
+      "display_artist": "Giulio Cercato",
+      "duration_in_ms": 155011
+    },
+    {
+      "audio_id": "742947360551074",
+      "title": "Hydra (feat. Will Markley)",
+      "display_artist": "Gunnar Olsen",
+      "duration_in_ms": 254325
+    },
+    {
+      "audio_id": "1527675952172457",
+      "title": "Something Smells",
+      "display_artist": "Summer Islands",
+      "duration_in_ms": 70180
+    },
+    {
+      "audio_id": "1899609663715085",
+      "title": "Moyo",
+      "display_artist": "The.Wav",
+      "duration_in_ms": 357285
+    },
+    {
+      "audio_id": "256330163942096",
+      "title": "Change (Instrumental)",
+      "display_artist": "Sam Marshall",
+      "duration_in_ms": 180522
+    },
+    {
+      "audio_id": "422257070044002",
+      "title": "Har Din Guzar Raha Hai",
+      "display_artist": "Sashank Navaladi",
+      "duration_in_ms": 211015
+    },
+    {
+      "audio_id": "522959446582142",
+      "title": "Build More",
       "display_artist": "Global Genius",
-      "duration_in_ms": 150100
+      "duration_in_ms": 159460
     },
     {
-      "audio_id": "1885824538835774",
-      "title": "Selling Upsets",
-      "display_artist": "half.cool",
-      "duration_in_ms": 159322
-    },
-    {
-      "audio_id": "4125575417576791",
-      "title": "Bass Side",
-      "display_artist": "Auralux",
-      "duration_in_ms": 62391
-    },
-    {
-      "audio_id": "823574699955966",
-      "title": "Work It Out (Reels Sound Immersive - Q&A)",
-      "display_artist": "GEEZ",
-      "duration_in_ms": 20870
-    },
-    {
-      "audio_id": "957044555314519",
-      "title": "Soft Murmurs",
-      "display_artist": "Marshall Watson",
-      "duration_in_ms": 270610
-    },
-    {
-      "audio_id": "1495051365995265",
-      "title": "Did You See That",
-      "display_artist": "Magnetic Sirens",
-      "duration_in_ms": 60545
-    },
-    {
-      "audio_id": "1584327289802699",
-      "title": "Impact Grid",
-      "display_artist": "Neon Avenue",
-      "duration_in_ms": 66228
-    },
-    {
-      "audio_id": "937123437847825",
-      "title": "Woke Up Like This (Spanish) (Reels Sound - Listicle)",
-      "display_artist": "Sugartapes",
-      "duration_in_ms": 20300
-    },
-    {
-      "audio_id": "1461747344434655",
-      "title": "Caroline (Instrumental)",
-      "display_artist": "Kiri T",
-      "duration_in_ms": 170900
-    },
-    {
-      "audio_id": "537014148888078",
-      "title": "Everything's Bigger In Texas",
-      "display_artist": "Jonny Houlihan",
-      "duration_in_ms": 200880
-    },
-    {
-      "audio_id": "1598630108261837",
-      "title": "Cosmic Optimism",
-      "display_artist": "Fellow Travelers",
-      "duration_in_ms": 61620
-    },
-    {
-      "audio_id": "880659894299230",
-      "title": "Faded (feat. My City Glory) (Instrumental)",
-      "display_artist": "Ross Lara",
-      "duration_in_ms": 209714
-    },
-    {
-      "audio_id": "3240401969456886",
-      "title": "Running (Instrumental)",
-      "display_artist": "Julia Gartha",
-      "duration_in_ms": 128407
-    },
-    {
-      "audio_id": "1278380447552935",
-      "title": "Breeze Theory",
-      "display_artist": "cloud cover",
-      "duration_in_ms": 56716
-    },
-    {
-      "audio_id": "708843550860286",
-      "title": "Grandma's Lullaby",
-      "display_artist": "Mignon Geli",
-      "duration_in_ms": 207234
-    },
-    {
-      "audio_id": "1172315371237991",
-      "title": "This Is Your Sign (Reels Sound - Photo Dump)",
-      "display_artist": "POTG",
-      "duration_in_ms": 15050
-    },
-    {
-      "audio_id": "1683337139020642",
-      "title": "Hangman's Final Dream (feat. Barbasauce) (Reels Sound - Lip Sync)",
-      "display_artist": "Neko Fuzz",
-      "duration_in_ms": 32571
-    },
-    {
-      "audio_id": "1637698064003440",
-      "title": "Oil Drill",
-      "display_artist": "anonymous audio",
-      "duration_in_ms": 66840
-    },
-    {
-      "audio_id": "1103133100299966",
-      "title": "Little White Lies",
-      "display_artist": "Julia Gartha",
-      "duration_in_ms": 158861
-    },
-    {
-      "audio_id": "1364705270764602",
-      "title": "Swaying Rain",
-      "display_artist": "Folk Physics",
-      "duration_in_ms": 199310
-    },
-    {
-      "audio_id": "1527108608587618",
-      "title": "Karateoke",
+      "audio_id": "4476955119288232",
+      "title": "Follow The Bloops",
       "display_artist": "erloom",
-      "duration_in_ms": 59360
+      "duration_in_ms": 61344
     },
     {
-      "audio_id": "832325347758774",
-      "title": "So So Real",
-      "display_artist": "Global Genius",
-      "duration_in_ms": 208341
+      "audio_id": "950935588022725",
+      "title": "Game Time",
+      "display_artist": "cloud cover",
+      "duration_in_ms": 77335
+    },
+    {
+      "audio_id": "819984569319987",
+      "title": "Chaco",
+      "display_artist": "Gunnar Olsen",
+      "duration_in_ms": 206632
+    },
+    {
+      "audio_id": "778797991236452",
+      "title": "Blessed",
+      "display_artist": "stereogully",
+      "duration_in_ms": 129310
+    },
+    {
+      "audio_id": "234737359630832",
+      "title": "Happy Holiday",
+      "display_artist": "Alex Blue",
+      "duration_in_ms": 234668
+    },
+    {
+      "audio_id": "1010145434894922",
+      "title": "Cuban Coffee",
+      "display_artist": "Ecklectic Music",
+      "duration_in_ms": 170561
+    },
+    {
+      "audio_id": "1464273750756917",
+      "title": "War (prod. by d.higgs)",
+      "display_artist": "G7MBL3",
+      "duration_in_ms": 112500
+    },
+    {
+      "audio_id": "669629268767144",
+      "title": "Sea Of Grass",
+      "display_artist": "Symphonic Planet",
+      "duration_in_ms": 232587
+    },
+    {
+      "audio_id": "1392368834824673",
+      "title": "Slow It Down (Instrumental)",
+      "display_artist": "Deuxhyun",
+      "duration_in_ms": 137140
+    },
+    {
+      "audio_id": "9244575955662265",
+      "title": "Look Good For You",
+      "display_artist": "Danny Wolf, The Red Collective",
+      "duration_in_ms": 73598
+    },
+    {
+      "audio_id": "660029496086919",
+      "title": "Project Power",
+      "display_artist": "Trout Recording",
+      "duration_in_ms": 214876
+    },
+    {
+      "audio_id": "500814952258050",
+      "title": "Happy New Year Baby",
+      "display_artist": "Nick Gallant",
+      "duration_in_ms": 110530
+    },
+    {
+      "audio_id": "981510330704369",
+      "title": "Unstoppable",
+      "display_artist": "Dhruv Goel",
+      "duration_in_ms": 122750
+    },
+    {
+      "audio_id": "1068857198463368",
+      "title": "Style (Instrumental)",
+      "display_artist": "Giulio Cercato",
+      "duration_in_ms": 109955
+    },
+    {
+      "audio_id": "463845766342351",
+      "title": "My Heart Is Full (Reels Sound - Photo Dump)",
+      "display_artist": "Nick Gallant",
+      "duration_in_ms": 19260
     }
   ],
   "searches": {
