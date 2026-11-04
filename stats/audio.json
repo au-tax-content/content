@@ -1,155 +1,155 @@
 {
-  "fetched_at": "2026-11-04T17:15+00:00",
+  "fetched_at": "2026-11-04T21:09+00:00",
   "trending": [
     {
-      "audio_id": "724434495981901",
-      "title": "Slowin It Down",
-      "display_artist": "Spends Quality",
-      "duration_in_ms": 150650
-    },
-    {
-      "audio_id": "1370360441924384",
-      "title": "Flashing Lights",
-      "display_artist": "Summer Islands",
-      "duration_in_ms": 64137
-    },
-    {
-      "audio_id": "1730482125746540",
-      "title": "Love Myself",
-      "display_artist": "LAVLO",
-      "duration_in_ms": 60056
-    },
-    {
-      "audio_id": "958214675943083",
-      "title": "Your Stardust Kiss",
-      "display_artist": "Charlie Peacock",
-      "duration_in_ms": 308720
-    },
-    {
-      "audio_id": "1899659390588984",
-      "title": "Mal De Amores (Instrumental)",
-      "display_artist": "Villa",
-      "duration_in_ms": 121530
-    },
-    {
-      "audio_id": "1046032514836031",
-      "title": "End Of Chapter",
-      "display_artist": "Auralux",
-      "duration_in_ms": 66541
-    },
-    {
-      "audio_id": "1042849181086707",
-      "title": "Really Tan",
-      "display_artist": "Brent Bourgeois",
-      "duration_in_ms": 203754
-    },
-    {
-      "audio_id": "2223767905145147",
-      "title": "Rewind",
-      "display_artist": "cloud cover",
-      "duration_in_ms": 53050
-    },
-    {
-      "audio_id": "226616820131239",
-      "title": "Espoir Congo (Hope Of Congo) (feat. Rogatien Milord)",
-      "display_artist": "Afro Sound Machine",
-      "duration_in_ms": 219160
-    },
-    {
-      "audio_id": "445037964830436",
-      "title": "Over And Over Again",
-      "display_artist": "Corduroy Egg",
-      "duration_in_ms": 174240
-    },
-    {
-      "audio_id": "782015663764369",
-      "title": "Let's Have Some Fun",
-      "display_artist": "Alex Blue",
-      "duration_in_ms": 156970
-    },
-    {
-      "audio_id": "1945322746154194",
-      "title": "Café Amore",
-      "display_artist": "Afterlight",
-      "duration_in_ms": 62709
-    },
-    {
-      "audio_id": "1345563597491312",
-      "title": "Sunny Day",
-      "display_artist": "Julia Gartha",
-      "duration_in_ms": 135147
-    },
-    {
-      "audio_id": "640036075730411",
-      "title": "Look At The Clouds",
-      "display_artist": "Ruby Amanfu",
-      "duration_in_ms": 204485
-    },
-    {
-      "audio_id": "4148441648622952",
-      "title": "Before It All Falls Away",
-      "display_artist": "Auralux",
-      "duration_in_ms": 62846
-    },
-    {
-      "audio_id": "573041198809097",
-      "title": "No More",
-      "display_artist": "Julia Gartha",
-      "duration_in_ms": 125860
-    },
-    {
-      "audio_id": "907634520516585",
-      "title": "Beast",
-      "display_artist": "Jumbo",
-      "duration_in_ms": 165764
-    },
-    {
-      "audio_id": "1229617056897940",
-      "title": "Man Down",
-      "display_artist": "Afterlight",
-      "duration_in_ms": 61828
-    },
-    {
-      "audio_id": "1519004071921197",
-      "title": "Daily Greetings (Spanish) (Reels Sound - Listicle)",
-      "display_artist": "Reels Studio",
-      "duration_in_ms": 8350
-    },
-    {
-      "audio_id": "425758769774050",
-      "title": "This Is Not The End (Instrumental)",
-      "display_artist": "Ruby Amanfu",
-      "duration_in_ms": 170100
-    },
-    {
-      "audio_id": "1700243360766775",
-      "title": "@ Me (Instrumental)",
-      "display_artist": "G.No",
-      "duration_in_ms": 174420
-    },
-    {
-      "audio_id": "733300122099658",
-      "title": "Focus (Reels Sound - Listicle)",
-      "display_artist": "Jumbo",
-      "duration_in_ms": 16370
-    },
-    {
-      "audio_id": "26154816967479929",
-      "title": "Honey Honey (Instrumental)",
-      "display_artist": "Alex Blue",
-      "duration_in_ms": 151834
-    },
-    {
-      "audio_id": "706026207833630",
-      "title": "Longing",
+      "audio_id": "819843004235694",
+      "title": "Big Wave",
       "display_artist": "bbox",
-      "duration_in_ms": 157539
+      "duration_in_ms": 179250
     },
     {
-      "audio_id": "1383585928993058",
-      "title": "My Fantasy",
+      "audio_id": "1663226951445801",
+      "title": "Opulent Grind",
+      "display_artist": "Fellow Travelers",
+      "duration_in_ms": 63086
+    },
+    {
+      "audio_id": "1684519905439207",
+      "title": "Best App Ever (Reels Sound - Reveal)",
+      "display_artist": "Company Money",
+      "duration_in_ms": 26140
+    },
+    {
+      "audio_id": "1496892594582810",
+      "title": "Peach Skies (feat. Avenham)",
+      "display_artist": "Swell Sound",
+      "duration_in_ms": 122510
+    },
+    {
+      "audio_id": "667341145599081",
+      "title": "Howling Over The Hill",
+      "display_artist": "The Poison Oaks",
+      "duration_in_ms": 195141
+    },
+    {
+      "audio_id": "2310401129125935",
+      "title": "Blah Blah Blah Remix (Udit Saptarshi)",
+      "display_artist": "Sleeping Lion",
+      "duration_in_ms": 145026
+    },
+    {
+      "audio_id": "1064409909642514",
+      "title": "Decade",
+      "display_artist": "Jordan Olmos",
+      "duration_in_ms": 66570
+    },
+    {
+      "audio_id": "955852496050431",
+      "title": "Linger",
+      "display_artist": "Julia Gartha",
+      "duration_in_ms": 152720
+    },
+    {
+      "audio_id": "481295624092914",
+      "title": "Thought You Knew (prod. by d.higgs)",
+      "display_artist": "G7MBL3",
+      "duration_in_ms": 223657
+    },
+    {
+      "audio_id": "1625610581413864",
+      "title": "Feel So Good (Instrumental)",
+      "display_artist": "Tony Dark Eyes",
+      "duration_in_ms": 164935
+    },
+    {
+      "audio_id": "291992106940550",
+      "title": "Amay Bhoje",
+      "display_artist": "Cizzy",
+      "duration_in_ms": 174050
+    },
+    {
+      "audio_id": "648060925062637",
+      "title": "Engineers",
+      "display_artist": "Cameron Rasmussen",
+      "duration_in_ms": 180284
+    },
+    {
+      "audio_id": "1082646040524989",
+      "title": "My Favorite Is You",
       "display_artist": "Alex Blue",
-      "duration_in_ms": 170710
+      "duration_in_ms": 124298
+    },
+    {
+      "audio_id": "7520827387984247",
+      "title": "Kirwani Teen Taal Gat",
+      "display_artist": "Jim Santi Owen",
+      "duration_in_ms": 180180
+    },
+    {
+      "audio_id": "1392256376180882",
+      "title": "Review",
+      "display_artist": "Jordan Olmos",
+      "duration_in_ms": 66750
+    },
+    {
+      "audio_id": "1362516274630383",
+      "title": "Action And Intrigue",
+      "display_artist": "Sam Marshall",
+      "duration_in_ms": 177468
+    },
+    {
+      "audio_id": "787047663937060",
+      "title": "LFRF (Instrumental)",
+      "display_artist": "Arnold Sallan",
+      "duration_in_ms": 136675
+    },
+    {
+      "audio_id": "763946796319145",
+      "title": "Tiempo Remix (Tony Dark Eyes)",
+      "display_artist": "SjDuB",
+      "duration_in_ms": 175830
+    },
+    {
+      "audio_id": "2154716478776379",
+      "title": "Funk Street Strut",
+      "display_artist": "Fellow Travelers",
+      "duration_in_ms": 61850
+    },
+    {
+      "audio_id": "3945133165775800",
+      "title": "Flavor Town (feat. Plum Soul)",
+      "display_artist": "Jumbo",
+      "duration_in_ms": 66377
+    },
+    {
+      "audio_id": "4099052337027078",
+      "title": "Nordic Saga (feat Cullen Luper) (Instrumental)",
+      "display_artist": "Daria Novo",
+      "duration_in_ms": 178286
+    },
+    {
+      "audio_id": "3463098330500105",
+      "title": "Wicked Courage",
+      "display_artist": "Taimane",
+      "duration_in_ms": 195955
+    },
+    {
+      "audio_id": "1450869992652095",
+      "title": "Not So Silent Night (Reels Sound - Before & After)",
+      "display_artist": "Eveningland",
+      "duration_in_ms": 35517
+    },
+    {
+      "audio_id": "477397611328081",
+      "title": "Tetrahedron (Reels Sound - Before and After)",
+      "display_artist": "Neko Fuzz",
+      "duration_in_ms": 19070
+    },
+    {
+      "audio_id": "1349824246647397",
+      "title": "Merry And Bright (Reels Sound - Photo Dump)",
+      "display_artist": "Deuxhyun",
+      "duration_in_ms": 28550
     }
   ],
   "searches": {
