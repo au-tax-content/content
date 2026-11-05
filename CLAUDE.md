@@ -134,6 +134,16 @@ Keep `audience.md` current every week. No usernames or personal details, ever.
 
 Reels are set up (see Reels above). Make the weekly Reel(s) as video, not carousels.
 
+## Usage budget (Daniel, 5 Nov 2026: "don't use too much usage, lower it a bit")
+
+Keep every run lean. Same output, fewer steps:
+- **One weekly run does everything.** No mid-week work unless Daniel asks. Status questions get one stats read and a short answer.
+- **Verify once, reuse all week.** Each Sunday, check the week's figures in one batch and record them in `figures.md` (figure, income year, ATO page, date). Posts that week reuse those entries instead of searching again. Only look up a figure that isn't already there.
+- **Cheap formats first:** daily Reels come from `brand/reel_points.py` (one short make.py each). Carousels: 2 per account per week max. Crayon/Canva posts: at most 1 per account per week (each costs several Canva calls). Skip new kits or tools unless something is broken.
+- **Check visuals with one contact sheet per post** (frames or slides tiled into one image), not one image read per slide. Re-render only what's actually wrong.
+- **Skip what hasn't changed:** rebuild the comment shortlist only when `stats/engage.json` is newer than the last picks; run `scripts/study.py` and vidIQ searches once a month, not weekly.
+- **Short notes and replies:** notes.md entries under 10 lines; the final message to Daniel under 10 lines.
+
 ## Contacting Daniel
 
 He doesn't review the queue. Only involve him for: an expired token he must regenerate, a Meta/GitHub setting only he can change, or a compliance question. Say exactly what to click.
