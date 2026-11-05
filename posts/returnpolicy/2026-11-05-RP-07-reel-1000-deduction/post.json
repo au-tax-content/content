@@ -13,10 +13,15 @@
     "Standard deduction up to $1,000 from 2026-27, automatic, labour income, reduced by claimed work expenses, not in 2025-26 return, union/agent fees outside it (ATO Standard deduction page, updated 14 Sep 2026, checked 1 Nov 2026)",
     "Value at 30% + 2% = $320"
   ],
-  "status": "queued",
+  "status": "published",
   "audio_id": "250441401341176",
   "audio_note": "Meditations - Otis McDonald (trending, 3 Nov 2026)",
   "trial": true,
   "graduation": "SS_PERFORMANCE",
-  "format": "motion"
+  "format": "motion",
+  "trial_used": false,
+  "trial_error": "HTTP 400: Application does not have permission for this action (code 10, subcode 2207081)",
+  "media_id": "18116791145091434",
+  "published_at": "2026-11-05T08:46:43.316079+00:00",
+  "permalink": "https://www.instagram.com/reel/DfWo1_RD4cK/"
 }
