@@ -30,5 +30,21 @@
       "navigation": "HTTP 400: (#10) Not enough viewers for the media to show insights (code 10, subcode None)",
       "total_interactions": "HTTP 400: (#10) Not enough viewers for the media to show insights (code 10, subcode None)"
     }
+  },
+  "18102507422071757": {
+    "post_id": "RT-S03",
+    "timestamp": "2026-11-06T10:26:08+0000",
+    "metrics": {},
+    "fetched_at": "2026-11-06T13:27+00:00",
+    "_errors": {
+      "reach": "HTTP 400: (#10) Not enough viewers for the media to show insights (code 10, subcode None)",
+      "views": "HTTP 400: (#10) Not enough viewers for the media to show insights (code 10, subcode None)",
+      "replies": "HTTP 400: (#10) Not enough viewers for the media to show insights (code 10, subcode None)",
+      "shares": "HTTP 400: (#10) Not enough viewers for the media to show insights (code 10, subcode None)",
+      "follows": "HTTP 400: (#10) Not enough viewers for the media to show insights (code 10, subcode None)",
+      "profile_visits": "HTTP 400: (#10) Not enough viewers for the media to show insights (code 10, subcode None)",
+      "navigation": "HTTP 400: (#10) Not enough viewers for the media to show insights (code 10, subcode None)",
+      "total_interactions": "HTTP 400: (#10) Not enough viewers for the media to show insights (code 10, subcode None)"
+    }
   }
 }
