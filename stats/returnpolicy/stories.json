@@ -51,7 +51,7 @@
     "post_id": "RP-S04",
     "timestamp": "2026-11-05T09:47:29+0000",
     "metrics": {},
-    "fetched_at": "2026-11-06T01:30+00:00",
+    "fetched_at": "2026-11-06T05:17+00:00",
     "_errors": {
       "reach": "HTTP 400: (#10) Not enough viewers for the media to show insights (code 10, subcode None)",
       "views": "HTTP 400: (#10) Not enough viewers for the media to show insights (code 10, subcode None)",
