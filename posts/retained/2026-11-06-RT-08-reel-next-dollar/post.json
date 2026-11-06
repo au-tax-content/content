@@ -13,10 +13,15 @@
     "2026-27 resident rates 15%/30%/37%/45%, thresholds $18,200/$45,000/$135,000/$190,000; Medicare levy 2% (ATO Tax rates – Australian residents, checked 1 Nov 2026)",
     "Deduction value: $1,000 x 32% = $320; x 47% = $470"
   ],
-  "status": "queued",
+  "status": "published",
   "audio_id": "987329892722655",
   "audio_note": "New Trouble - TrackTribe (trending, 3 Nov 2026)",
   "trial": true,
   "graduation": "SS_PERFORMANCE",
-  "format": "motion"
+  "format": "motion",
+  "trial_used": false,
+  "trial_error": "HTTP 400: Application does not have permission for this action (code 10, subcode 2207081)",
+  "media_id": "17964983835259375",
+  "published_at": "2026-11-06T09:24:05.665980+00:00",
+  "permalink": "https://www.instagram.com/reel/DfZR2ZZgEu1/"
 }
