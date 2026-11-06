@@ -25,6 +25,7 @@ jobs:
         run: |
           python3 scripts/insights.py
           python3 scripts/audio.py || true
+          python3 scripts/stats_page.py || true
       - name: Save stats
         run: |
           git config user.name "content-bot"

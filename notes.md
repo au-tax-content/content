@@ -1,5 +1,10 @@
 # Notes: what's working (newest first)
 
+## 6 Nov 2026: cut usage (Daniel)
+
+- From 9 Nov: 3 animated Reels per account a week (Mon/Wed/Fri 7:30 pm), no new carousels or stories. Weekly scheduled task moved to a cheaper model with a shorter prompt.
+- Free stats page `stats/README.md`, rebuilt by the stats workflow; Daniel checks it instead of asking.
+
 ## 3 Nov 2026: fixed posting schedule (Daniel)
 
 - Reel every day 7:30 pm both accounts; carousels 12:30 pm (RT Tue/Thu, RP Tue/Thu/Sat); stories 8:30 pm (RP daily, RT Mon/Wed/Fri). In CLAUDE.md.

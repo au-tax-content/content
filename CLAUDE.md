@@ -62,12 +62,11 @@ With almost no followers, carousels reach almost nobody. Reels are the only form
 - **Every Reel is a trial Reel by default:** `"trial": true, "graduation": "SS_PERFORMANCE"` in post.json. The publisher sends `trial_params` and Instagram shares it with followers automatically if it performs. If Meta rejects trial_params, the publisher falls back to a normal Reel and records `trial_used: false` + `trial_error` (check this in the weekly run; if it keeps failing, drop `trial`).
 - **Every carousel gets a trial Reel re-cut** 1 day later at 12:30 pm AEDT: `brand/carousel_reel.py` (`render(src, out, top="hook line", hl=...)`). It puts the slides on a 9:16 canvas with a push-in, swipe transitions and a hook line in the top band (Return Policy `hl=(255,226,77)`, Retained `hl=(201,161,95)`). ID = carousel ID + `R` (e.g. `RP-02R`), folder `<date>-<ID>-trial-reel-<slug>`, `"format": "carousel re-cut"`, `"source_post"`, same caption and figures, its own trending `audio_id`. The top line must be a hook, not the title: a question, a number, or "Pause and guess".
 - **Scoring:** judge Reels on reach, follows and saves + shares per 1,000 reached. Compare trial to trial. Carousel re-cuts vs motion Reels is a standing comparison: whichever wins on follows per 1,000 gets more of the weekly effort.
-- **Fixed posting schedule (Daniel, 3 Nov 2026: "get a regular schedule in place").** Same slots every week, AEDT (+11:00; +10:00 from April):
-  - **Reel: every day, 7:30 pm, both accounts.** One per account per day. The slot takes either a motion Reel (`brand/reel_points.py` / `motion.py`) or a carousel re-cut.
-  - **Carousels: 12:30 pm.** Retained Tue + Thu; Return Policy Tue + Thu + Sat. Each one's re-cut fills a later 7:30 pm Reel slot.
-  - **Stories: 8:30 pm.** Return Policy every day; Retained Mon, Wed, Fri.
-  - The Sunday run fills every slot for the coming Monday–Sunday. If a slot can't be filled with a verified post, leave it empty rather than rush one. Revisit the times after 4 weeks of data (see Posting times below).
-- **Volume beats polish at this stage:** if the week is short on time, ship more re-cuts and fewer new motion Reels. Target by end of November: one Reel per account per day.
+- **Posting schedule (Daniel, 6 Nov 2026: cut Claude usage).** Per account, AEDT (+11:00; +10:00 from April):
+  - **3 animated Reels a week: Mon, Wed, Fri at 7:30 pm**, built with `brand/reel_points.py`. This overrides the older cadence table, the carousel re-cut rule and the daily-Reel target.
+  - **No new carousels or stories** for now (stories and carousels already queued still go out). A crayon/Canva post can replace one Reel slot at most once a fortnight.
+  - The Sunday run (scheduled task, now on a cheaper model) fills those slots for the coming week. If a slot can't be filled with a verified post, leave it empty.
+  - Daniel checks numbers on the free stats page `stats/README.md` (rebuilt by the stats workflow every 4 hours: https://github.com/au-tax-content/content/blob/main/stats/README.md).
 - Trial Reels can't have collaborators and are capped at about 20 a day through the API (far above what we post).
 
 ## Reels
