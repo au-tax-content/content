@@ -12,10 +12,15 @@
   "figures_checked": [
     "GST registration: GST turnover $75,000+, register within 21 days; taxi/ride-sourcing must register regardless; voluntary registration generally 12 months minimum (ATO Registering for GST, checked 3 Nov 2026)"
   ],
-  "status": "queued",
+  "status": "published",
   "audio_id": "5575355159194199",
   "audio_note": "Loquera (feat. Renee Mooi) - Quincas Moreira (trending, 3 Nov 2026)",
   "trial": true,
   "graduation": "SS_PERFORMANCE",
-  "format": "motion"
+  "format": "motion",
+  "trial_used": false,
+  "trial_error": "HTTP 400: Application does not have permission for this action (code 10, subcode 2207081)",
+  "media_id": "18638620102057718",
+  "published_at": "2026-11-07T08:38:26.935599+00:00",
+  "permalink": "https://www.instagram.com/reel/DfbxWA5DatC/"
 }

@@ -13,10 +13,15 @@
     "WFH fixed rate 70c/hour for 2024-25 and 2025-26; covers energy, phone, internet, stationery, consumables; actual hours record for full year, estimates not accepted; depreciating assets claimed separately (ATO Fixed rate method, checked 3 Nov 2026)",
     "$300 threshold for immediate deduction (ATO Depreciating assets you use for work, checked 1 Nov 2026)"
   ],
-  "status": "queued",
+  "status": "published",
   "audio_id": "965750352630436",
   "audio_note": "Another Daydream (Instrumental) - Giulio Cercato (trending, 3 Nov 2026)",
   "trial": true,
   "graduation": "SS_PERFORMANCE",
-  "format": "motion"
+  "format": "motion",
+  "trial_used": false,
+  "trial_error": "HTTP 400: Application does not have permission for this action (code 10, subcode 2207081)",
+  "media_id": "18055198292597036",
+  "published_at": "2026-11-07T08:38:26.935599+00:00",
+  "permalink": "https://www.instagram.com/reel/DfbxedtjyE8/"
 }
