@@ -16,7 +16,7 @@
       "profile_visits": 0,
       "follows": 0
     },
-    "fetched_at": "2026-11-07T05:08+00:00"
+    "fetched_at": "2026-11-07T09:06+00:00"
   },
   "18084046646709091": {
     "post_id": "RT-02",
@@ -35,7 +35,7 @@
       "profile_visits": 0,
       "follows": 0
     },
-    "fetched_at": "2026-11-07T05:08+00:00"
+    "fetched_at": "2026-11-07T09:06+00:00"
   },
   "18066982166635605": {
     "post_id": "RT-03",
@@ -54,7 +54,7 @@
       "profile_visits": 0,
       "follows": 0
     },
-    "fetched_at": "2026-11-07T05:08+00:00"
+    "fetched_at": "2026-11-07T09:06+00:00"
   },
   "17963070837000086": {
     "post_id": "RT-05R",
@@ -71,7 +71,7 @@
       "shares": 0,
       "total_interactions": 2
     },
-    "fetched_at": "2026-11-07T05:08+00:00"
+    "fetched_at": "2026-11-07T09:06+00:00"
   },
   "17931097266423208": {
     "post_id": "RT-05",
@@ -90,7 +90,7 @@
       "profile_visits": 0,
       "follows": 0
     },
-    "fetched_at": "2026-11-07T05:08+00:00"
+    "fetched_at": "2026-11-07T09:06+00:00"
   },
   "17973899649179936": {
     "post_id": "RT-02R",
@@ -107,7 +107,7 @@
       "shares": 0,
       "total_interactions": 1
     },
-    "fetched_at": "2026-11-07T05:08+00:00"
+    "fetched_at": "2026-11-07T09:06+00:00"
   },
   "18133126996685618": {
     "post_id": "RT-04",
@@ -124,7 +124,7 @@
       "shares": 0,
       "total_interactions": 0
     },
-    "fetched_at": "2026-11-07T05:08+00:00"
+    "fetched_at": "2026-11-07T09:06+00:00"
   },
   "18118811162107793": {
     "post_id": "RT-03R",
@@ -141,7 +141,7 @@
       "shares": 0,
       "total_interactions": 0
     },
-    "fetched_at": "2026-11-07T05:08+00:00"
+    "fetched_at": "2026-11-07T09:06+00:00"
   },
   "18646932670007352": {
     "post_id": "RT-06",
@@ -158,7 +158,7 @@
       "shares": 0,
       "total_interactions": 0
     },
-    "fetched_at": "2026-11-07T05:08+00:00"
+    "fetched_at": "2026-11-07T09:06+00:00"
   },
   "18117369503106040": {
     "post_id": "RT-07",
@@ -175,7 +175,7 @@
       "shares": 0,
       "total_interactions": 0
     },
-    "fetched_at": "2026-11-07T05:08+00:00"
+    "fetched_at": "2026-11-07T09:06+00:00"
   },
   "17964983835259375": {
     "post_id": "RT-08",
@@ -184,14 +184,31 @@
     "permalink": "https://www.instagram.com/reel/DfZR2ZZgEu1/",
     "caption_start": "What does your next dollar of profit actually cost you in tax?\n\n2026–27 resident",
     "metrics": {
-      "reach": 12,
-      "views": 16,
+      "reach": 13,
+      "views": 18,
       "likes": 0,
       "comments": 0,
       "saved": 0,
       "shares": 0,
       "total_interactions": 0
     },
-    "fetched_at": "2026-11-07T05:08+00:00"
+    "fetched_at": "2026-11-07T09:06+00:00"
+  },
+  "18638620102057718": {
+    "post_id": "RT-09",
+    "type": "REELS",
+    "timestamp": "2026-11-07T08:39:03+0000",
+    "permalink": "https://www.instagram.com/reel/DfbxWA5DatC/",
+    "caption_start": "Turnover just ticked past $75K? You've got a deadline.\n\nYou must register for GS",
+    "metrics": {
+      "reach": 0,
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "saved": 0,
+      "shares": 0,
+      "total_interactions": 0
+    },
+    "fetched_at": "2026-11-07T09:06+00:00"
   }
 }
