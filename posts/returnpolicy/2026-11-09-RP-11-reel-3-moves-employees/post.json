@@ -1,0 +1,23 @@
+{
+  "id": "RP-11",
+  "account": "returnpolicy",
+  "type": "reel",
+  "series": "Pay less, legally",
+  "pillar": "Lead pillar",
+  "publish_at": "2026-11-09T19:30:00+11:00",
+  "caption": "3 moves that actually lower your tax. Pick one, pick all three.\n\n1. Salary sacrifice to super. Money goes into super before PAYG tax is calculated. Taxed at 15% — not your marginal rate. If you're on 30%, that's a 15% saving on every dollar you sacrifice.\n\n2. Work from home — 70c per hour (2026–27 fixed rate). No receipts needed for individual home expenses. Just log your actual hours. Multiply by 70c. Claim it.\n\n3. Work-related tools under $300. Buy a tool, piece of equipment or other work item that costs $300 or less? Claim the full cost immediately — no depreciation schedule.\n\nAll legal. All available to employees.\n\nSave this.\n\nGeneral info only, not personal advice.\n\n#australiantax #taxreturn #salarysacrifice #workfromhome #taxdeductions",
+  "video": "reel.mp4",
+  "cover": "cover.jpg",
+  "images": [],
+  "figures_checked": [
+    "Contributions tax on concessional super: 15% (ATO standard rate)",
+    "WFH fixed rate 2026-27: 70c per hour (ATO, confirmed 3 Nov 2026)",
+    "Immediate deduction for work-related depreciating assets $300 or less (ATO mytax 2026 instructions, 8 Nov 2026)"
+  ],
+  "status": "queued",
+  "audio_id": "1588416396196262",
+  "audio_note": "Echoes - trending Nov 2026",
+  "trial": true,
+  "graduation": "SS_PERFORMANCE",
+  "format": "motion"
+}

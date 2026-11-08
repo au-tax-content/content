@@ -1,0 +1,23 @@
+{
+  "id": "RP-12",
+  "account": "returnpolicy",
+  "type": "reel",
+  "series": "Pay less, legally",
+  "pillar": "Lead pillar",
+  "publish_at": "2026-11-11T19:30:00+11:00",
+  "caption": "These are legal. Most employees just don't claim them.\n\nProfessional memberships: union fees, professional body subscriptions, industry association fees — deductible if the membership relates to your work. Keep the invoice.\n\nSelf-education: courses, workshops and seminars are deductible if they relate to your CURRENT job and help you maintain or improve the specific skills you use in it. Studying to get a different job or move into a new field? Not deductible.\n\nTools and equipment under $300: work-related item costing $300 or less? Claim it in full this year. No depreciation schedule. Keep the receipt.\n\nThe ATO won't remind you to claim these. We will.\n\nSave this.\n\nGeneral info only, not personal advice.\n\n#australiantax #taxdeductions #taxreturn #workexpenses #paylesslegally",
+  "video": "reel.mp4",
+  "cover": "cover.jpg",
+  "images": [],
+  "figures_checked": [
+    "Union fees / professional memberships: deductible if work-related (ATO standard rule)",
+    "Self-education: deductible if relates to current job, not to get a new one (ATO standard rule)",
+    "Immediate deduction for work-related depreciating assets $300 or less (ATO mytax 2026 instructions, 8 Nov 2026)"
+  ],
+  "status": "queued",
+  "audio_id": "676708915095375",
+  "audio_note": "The Running - trending Nov 2026",
+  "trial": true,
+  "graduation": "SS_PERFORMANCE",
+  "format": "motion"
+}

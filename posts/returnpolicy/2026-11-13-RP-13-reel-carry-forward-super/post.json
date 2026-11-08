@@ -1,0 +1,23 @@
+{
+  "id": "RP-13",
+  "account": "returnpolicy",
+  "type": "reel",
+  "series": "Pay less, legally",
+  "pillar": "Lead pillar",
+  "publish_at": "2026-11-13T19:30:00+11:00",
+  "caption": "If your super balance is under $500K, this rule is worth knowing.\n\nThe carry-forward rule lets you use unused concessional cap space from the last 5 financial years — all in a single year. It's automatically applied by the ATO when you lodge.\n\nWho qualifies: your total super balance must be under $500,000 at the prior 30 June. And you need unused cap space from 2021–22 onwards.\n\nWhat it means: the base concessional cap for 2026–27 is $32,500. But if you've consistently underpaid super for years, your effective cap this year could be much higher. Check your available carry-forward amount in MyGov (ATO online services → super → concessional contribution history).\n\nThe catch: you still need the cash to make the contribution before 30 June, and it must be received by your fund.\n\nGeneral info only, not personal advice.\n\n#australiantax #superannuation #taxplanning #carryfwd #paylesslegally",
+  "video": "reel.mp4",
+  "cover": "cover.jpg",
+  "images": [],
+  "figures_checked": [
+    "Concessional cap 2026-27: $32,500 (ATO key super rates and thresholds, 8 Nov 2026)",
+    "Carry-forward eligibility: total super balance < $500K at prior 30 June (ATO, 8 Nov 2026)",
+    "Carry-forward lookback: unused cap from 2021-22 onwards (5 prior years) (ATO, 8 Nov 2026)"
+  ],
+  "status": "queued",
+  "audio_id": "1587276549340402",
+  "audio_note": "Poetry feat. Plum Soul - trending Nov 2026",
+  "trial": true,
+  "graduation": "SS_PERFORMANCE",
+  "format": "motion"
+}

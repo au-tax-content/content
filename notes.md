@@ -1,5 +1,11 @@
 # Notes: what's working (newest first)
 
+## 8 Nov 2026: weekly run (week of 9–15 Nov)
+
+**Scorecard (last 7 days):** Retained 3 followers (+3), Return Policy 2 followers (+2). Reels dominate: RT-04 led at 105 reach, RT-06 90, RT-09 53 (1 save). Carousels: 0–1 reach. No shares or follows yet from any post. Best saves/1k: RT-05R 24.4, RT-09 18.9. Trial Reels still rejected (fallback to normal Reels). Experiment (2 Nov): RT-05 carousel vs RT-04 animated Reel — inconclusive (RT-04 Reel won on reach 105 vs 1); need more data. RP experiment: too little reach on both to call.
+
+**Plan 9–15 Nov:** 3 animated Reels per account Mon/Wed/Fri 7:30 pm. RT-11 (3 legal moves), RT-12 ($20K write-off permanent), RT-13 (timing income/expenses). RP-11 (3 moves employees miss), RP-12 (deductions employees forget), RP-13 (carry-forward super). Figures verified on ATO 8 Nov (see figures.md).
+
 ## 6 Nov 2026: cut usage (Daniel)
 
 - From 9 Nov: 3 animated Reels per account a week (Mon/Wed/Fri 7:30 pm), no new carousels or stories. Weekly scheduled task moved to a cheaper model with a shorter prompt.
