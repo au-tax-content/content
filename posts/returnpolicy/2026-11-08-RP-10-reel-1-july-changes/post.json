@@ -13,10 +13,15 @@
     "2026-27 rate 15% on $18,201-$45,000 (2025-26: 16%) (ATO Tax rates – Australian residents, checked 1 Nov 2026); max saving ($45,000-$18,200) x 1% = $268",
     "Standard deduction $1,000 from 2026-27; laundry $1/50c; $300 exception removed (ATO Standard deduction page, checked 1 Nov 2026)"
   ],
-  "status": "queued",
+  "status": "published",
   "audio_id": "666334169116862",
   "audio_note": "Chill Vibes Lofi (Reels Sound - Listicle) - POTG (trending, 3 Nov 2026)",
   "trial": true,
   "graduation": "SS_PERFORMANCE",
-  "format": "motion"
+  "format": "motion",
+  "trial_used": false,
+  "trial_error": "HTTP 400: Application does not have permission for this action (code 10, subcode 2207081)",
+  "media_id": "18376270030246338",
+  "published_at": "2026-11-08T09:15:27.081707+00:00",
+  "permalink": "https://www.instagram.com/reel/DfeacWMExbN/"
 }

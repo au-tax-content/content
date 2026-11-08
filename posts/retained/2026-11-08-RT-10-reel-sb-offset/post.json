@@ -12,10 +12,15 @@
   "figures_checked": [
     "Small business income tax offset 16% from 2021-22, max $1,000, aggregated turnover < $5M, calculated by ATO from return (ATO Small business income tax offset, checked 3 Nov 2026)"
   ],
-  "status": "queued",
+  "status": "published",
   "audio_id": "1494935121351879",
   "audio_note": "Emotional (Reels Sound) - Giulio Cercato (trending, 3 Nov 2026)",
   "trial": true,
   "graduation": "SS_PERFORMANCE",
-  "format": "motion"
+  "format": "motion",
+  "trial_used": false,
+  "trial_error": "HTTP 400: Application does not have permission for this action (code 10, subcode 2207081)",
+  "media_id": "17976767658137843",
+  "published_at": "2026-11-08T09:15:27.081707+00:00",
+  "permalink": "https://www.instagram.com/reel/DfeaXv_EWXn/"
 }
