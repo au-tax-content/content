@@ -1,155 +1,155 @@
 {
-  "fetched_at": "2026-11-08T16:56+00:00",
+  "fetched_at": "2026-11-08T20:55+00:00",
   "trending": [
     {
-      "audio_id": "419284073889154",
-      "title": "Cartagena",
-      "display_artist": "Symphonic Planet",
-      "duration_in_ms": 227960
+      "audio_id": "1141382733233844",
+      "title": "Winter",
+      "display_artist": "Ruby Amanfu",
+      "duration_in_ms": 169018
     },
     {
-      "audio_id": "890753539588422",
-      "title": "Burning Love (Instrumental)",
-      "display_artist": "Isabella Snook",
-      "duration_in_ms": 214030
+      "audio_id": "1286676438936083",
+      "title": "Drifting",
+      "display_artist": "Sam Marshall",
+      "duration_in_ms": 178578
     },
     {
-      "audio_id": "1773342880667846",
-      "title": "Cloud Surfing",
-      "display_artist": "cloud cover",
-      "duration_in_ms": 60650
+      "audio_id": "1168952544271831",
+      "title": "Amaze",
+      "display_artist": "Otis McDonald",
+      "duration_in_ms": 171480
     },
     {
-      "audio_id": "1371982078215676",
-      "title": "Still Looking",
+      "audio_id": "579122557284206",
+      "title": "Basement VHS",
+      "display_artist": "Ross Lara",
+      "duration_in_ms": 194378
+    },
+    {
+      "audio_id": "1823278511745501",
+      "title": "Love At First Sight (Reels Sound - Photo Dump)",
+      "display_artist": "Giulio Cercato",
+      "duration_in_ms": 23460
+    },
+    {
+      "audio_id": "7386171101395182",
+      "title": "Funky Fresh Fiesta",
+      "display_artist": "Paul Goldo",
+      "duration_in_ms": 173000
+    },
+    {
+      "audio_id": "1144970863854242",
+      "title": "Looking For Love (Reels Sound - Before & After)",
+      "display_artist": "Julia Gartha",
+      "duration_in_ms": 14170
+    },
+    {
+      "audio_id": "266326379158916",
+      "title": "No Demons (Instrumental)",
+      "display_artist": "Mike Floss",
+      "duration_in_ms": 144050
+    },
+    {
+      "audio_id": "653894534236057",
+      "title": "Chamego",
       "display_artist": "Company Money",
-      "duration_in_ms": 54853
+      "duration_in_ms": 185582
     },
     {
-      "audio_id": "1668470370259395",
-      "title": "Echoes Of Us",
-      "display_artist": "Giulio Cercato",
-      "duration_in_ms": 173185
+      "audio_id": "1318693265497275",
+      "title": "Palooza!",
+      "display_artist": "Ecklectic Music",
+      "duration_in_ms": 129786
     },
     {
-      "audio_id": "1092394746336029",
-      "title": "End Of A Season (Instrumental)",
-      "display_artist": "Azam Ali",
-      "duration_in_ms": 174972
-    },
-    {
-      "audio_id": "1053530967166816",
-      "title": "Lifeless",
-      "display_artist": "cloud cover",
-      "duration_in_ms": 69378
-    },
-    {
-      "audio_id": "667959845040187",
-      "title": "Cautious Remix (Tash)",
+      "audio_id": "1061827935829992",
+      "title": "All The Wrong Things Remix (GEEZ)",
       "display_artist": "Sleeping Lion",
-      "duration_in_ms": 175050
+      "duration_in_ms": 173175
     },
     {
-      "audio_id": "1066561371981807",
-      "title": "Stjörnur",
-      "display_artist": "Esperé Eckard-Lee",
-      "duration_in_ms": 208224
+      "audio_id": "1824545708008840",
+      "title": "Nora",
+      "display_artist": "Eveningland",
+      "duration_in_ms": 195740
     },
     {
-      "audio_id": "1688590511949051",
-      "title": "Rhythm (feat. Anna Rose)",
+      "audio_id": "1449501010135619",
+      "title": "When I'm In Motion (Instrumental)",
+      "display_artist": "Baegod",
+      "duration_in_ms": 177438
+    },
+    {
+      "audio_id": "7770731056325538",
+      "title": "Birthday (Reels Sound - Listicle)",
+      "display_artist": "Neko Fuzz",
+      "duration_in_ms": 23420
+    },
+    {
+      "audio_id": "712488107384652",
+      "title": "Best Thing (Instrumental)",
+      "display_artist": "Global Genius",
+      "duration_in_ms": 148409
+    },
+    {
+      "audio_id": "4361424537336781",
+      "title": "Snoozin",
+      "display_artist": "Dana City",
+      "duration_in_ms": 58370
+    },
+    {
+      "audio_id": "686456677221215",
+      "title": "Downtown Funk (Reels Sound - Photo Dump)",
+      "display_artist": "POTG",
+      "duration_in_ms": 12055
+    },
+    {
+      "audio_id": "369031602353479",
+      "title": "Postcard From Mars (Instrumental)",
+      "display_artist": "The Poison Oaks",
+      "duration_in_ms": 213180
+    },
+    {
+      "audio_id": "1087294150239602",
+      "title": "Fruits Of Fall",
+      "display_artist": "Symphonic Planet",
+      "duration_in_ms": 193792
+    },
+    {
+      "audio_id": "719074171279631",
+      "title": "Up All Night (feat. Trent Monroe)",
+      "display_artist": "ill Think in ink",
+      "duration_in_ms": 111340
+    },
+    {
+      "audio_id": "1033455569449469",
+      "title": "Peace",
+      "display_artist": "LAVLO",
+      "duration_in_ms": 66420
+    },
+    {
+      "audio_id": "1314562906373146",
+      "title": "Omalicha (Beautiful One)",
+      "display_artist": "SOLLO7",
+      "duration_in_ms": 216530
+    },
+    {
+      "audio_id": "28109993301944958",
+      "title": "Music Box",
+      "display_artist": "Sunday Scary",
+      "duration_in_ms": 66050
+    },
+    {
+      "audio_id": "1588297948715714",
+      "title": "Beautiful Night (feat. Cullman Ave)",
       "display_artist": "Bryan Todd",
-      "duration_in_ms": 180440
+      "duration_in_ms": 186880
     },
     {
-      "audio_id": "785409873130435",
-      "title": "Game Over (feat. Poccex)",
-      "display_artist": "Jumbo",
-      "duration_in_ms": 165932
-    },
-    {
-      "audio_id": "9656635367728942",
-      "title": "By Myself (Instrumental)",
-      "display_artist": "Ben & Dev",
-      "duration_in_ms": 152574
-    },
-    {
-      "audio_id": "1393233158996868",
-      "title": "Vacation Remix (Bryan Todd) (Instrumental)",
-      "display_artist": "Sleeping Lion",
-      "duration_in_ms": 157827
-    },
-    {
-      "audio_id": "274125145390689",
-      "title": "Luna Mia (Instrumental)",
-      "display_artist": "Ramon Velarde",
-      "duration_in_ms": 148008
-    },
-    {
-      "audio_id": "871357083969245",
-      "title": "Destiny",
-      "display_artist": "Maxsickboy",
-      "duration_in_ms": 162740
-    },
-    {
-      "audio_id": "970054928861659",
-      "title": "Life Is Beautiful",
-      "display_artist": "Trendify",
-      "duration_in_ms": 92267
-    },
-    {
-      "audio_id": "4125575417576791",
-      "title": "Bass Side",
-      "display_artist": "Auralux",
-      "duration_in_ms": 62391
-    },
-    {
-      "audio_id": "1354069773107679",
-      "title": "Made for Me (Reels Sound - Listicle)",
-      "display_artist": "half.cool",
-      "duration_in_ms": 26484
-    },
-    {
-      "audio_id": "795179878894620",
-      "title": "Move Me",
-      "display_artist": "Giulio Cercato",
-      "duration_in_ms": 151967
-    },
-    {
-      "audio_id": "1087016893236484",
-      "title": "We're All Pretty (Mirror Mirror) (Instrumental)",
-      "display_artist": "Grace Maher",
-      "duration_in_ms": 201305
-    },
-    {
-      "audio_id": "1043917344672967",
-      "title": "Pop It",
-      "display_artist": "Giulio Cercato",
-      "duration_in_ms": 56840
-    },
-    {
-      "audio_id": "1077097074495038",
-      "title": "Perfect World (Instrumental)",
-      "display_artist": "The Sheen",
-      "duration_in_ms": 230698
-    },
-    {
-      "audio_id": "1037218462172153",
-      "title": "Maybe Next Year",
-      "display_artist": "Auralux",
-      "duration_in_ms": 61959
-    },
-    {
-      "audio_id": "2103900496711967",
-      "title": "I Got Love For You (feat. Sam Ashworth)",
-      "display_artist": "Charlie Peacock",
-      "duration_in_ms": 208720
-    },
-    {
-      "audio_id": "1201635935516260",
-      "title": "Love Me",
-      "display_artist": "Lady Jazmon",
-      "duration_in_ms": 139202
+      "audio_id": "1048220904609175",
+      "title": "Organ Donor",
+      "display_artist": "Bloom",
+      "duration_in_ms": 63203
     }
   ],
   "searches": {
