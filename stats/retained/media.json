@@ -16,7 +16,7 @@
       "profile_visits": 0,
       "follows": 0
     },
-    "fetched_at": "2026-11-08T09:06+00:00"
+    "fetched_at": "2026-11-08T13:13+00:00"
   },
   "18084046646709091": {
     "post_id": "RT-02",
@@ -35,7 +35,7 @@
       "profile_visits": 0,
       "follows": 0
     },
-    "fetched_at": "2026-11-08T09:06+00:00"
+    "fetched_at": "2026-11-08T13:13+00:00"
   },
   "18066982166635605": {
     "post_id": "RT-03",
@@ -54,7 +54,7 @@
       "profile_visits": 0,
       "follows": 0
     },
-    "fetched_at": "2026-11-08T09:06+00:00"
+    "fetched_at": "2026-11-08T13:13+00:00"
   },
   "17963070837000086": {
     "post_id": "RT-05R",
@@ -71,7 +71,7 @@
       "shares": 0,
       "total_interactions": 2
     },
-    "fetched_at": "2026-11-08T09:06+00:00"
+    "fetched_at": "2026-11-08T13:13+00:00"
   },
   "17931097266423208": {
     "post_id": "RT-05",
@@ -90,7 +90,7 @@
       "profile_visits": 0,
       "follows": 0
     },
-    "fetched_at": "2026-11-08T09:06+00:00"
+    "fetched_at": "2026-11-08T13:13+00:00"
   },
   "17973899649179936": {
     "post_id": "RT-02R",
@@ -107,7 +107,7 @@
       "shares": 0,
       "total_interactions": 1
     },
-    "fetched_at": "2026-11-08T09:06+00:00"
+    "fetched_at": "2026-11-08T13:13+00:00"
   },
   "18133126996685618": {
     "post_id": "RT-04",
@@ -124,7 +124,7 @@
       "shares": 0,
       "total_interactions": 0
     },
-    "fetched_at": "2026-11-08T09:06+00:00"
+    "fetched_at": "2026-11-08T13:13+00:00"
   },
   "18118811162107793": {
     "post_id": "RT-03R",
@@ -134,14 +134,14 @@
     "caption_start": "Nobody warns you about these until it's too late.\n\nNo tax comes out of ABN payme",
     "metrics": {
       "reach": 12,
-      "views": 0,
+      "views": 13,
       "likes": 0,
       "comments": 0,
       "saved": 0,
       "shares": 0,
       "total_interactions": 0
     },
-    "fetched_at": "2026-11-08T09:06+00:00"
+    "fetched_at": "2026-11-08T13:13+00:00"
   },
   "18646932670007352": {
     "post_id": "RT-06",
@@ -158,7 +158,7 @@
       "shares": 0,
       "total_interactions": 0
     },
-    "fetched_at": "2026-11-08T09:06+00:00"
+    "fetched_at": "2026-11-08T13:13+00:00"
   },
   "18117369503106040": {
     "post_id": "RT-07",
@@ -175,7 +175,7 @@
       "shares": 0,
       "total_interactions": 0
     },
-    "fetched_at": "2026-11-08T09:06+00:00"
+    "fetched_at": "2026-11-08T13:13+00:00"
   },
   "17964983835259375": {
     "post_id": "RT-08",
@@ -185,14 +185,14 @@
     "caption_start": "What does your next dollar of profit actually cost you in tax?\n\n2026–27 resident",
     "metrics": {
       "reach": 14,
-      "views": 18,
+      "views": 19,
       "likes": 0,
       "comments": 0,
       "saved": 0,
       "shares": 0,
       "total_interactions": 0
     },
-    "fetched_at": "2026-11-08T09:06+00:00"
+    "fetched_at": "2026-11-08T13:13+00:00"
   },
   "18638620102057718": {
     "post_id": "RT-09",
@@ -209,6 +209,23 @@
       "shares": 0,
       "total_interactions": 2
     },
-    "fetched_at": "2026-11-08T09:06+00:00"
+    "fetched_at": "2026-11-08T13:13+00:00"
+  },
+  "17976767658137843": {
+    "post_id": "RT-10",
+    "type": "REELS",
+    "timestamp": "2026-11-08T09:16:00+0000",
+    "permalink": "https://www.instagram.com/reel/DfeaXv_EWXn/",
+    "caption_start": "Up to $1,000 off your tax, and plenty of sole traders never notice it.\n\nThe smal",
+    "metrics": {
+      "reach": 2,
+      "views": 2,
+      "likes": 0,
+      "comments": 0,
+      "saved": 0,
+      "shares": 0,
+      "total_interactions": 0
+    },
+    "fetched_at": "2026-11-08T13:13+00:00"
   }
 }
