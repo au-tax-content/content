@@ -1,155 +1,155 @@
 {
-  "fetched_at": "2026-11-09T05:25+00:00",
+  "fetched_at": "2026-11-09T09:30+00:00",
   "trending": [
     {
-      "audio_id": "2396088670726653",
-      "title": "Isla Margarita",
-      "display_artist": "Sugartapes",
-      "duration_in_ms": 157628
+      "audio_id": "865312721249212",
+      "title": "Joyous Celebration",
+      "display_artist": "Sam Marshall",
+      "duration_in_ms": 37125
     },
     {
-      "audio_id": "550723776899092",
-      "title": "Power Is Relative",
-      "display_artist": "Trout Recording",
-      "duration_in_ms": 181850
+      "audio_id": "577741181533010",
+      "title": "Raindrops In Lofisthan",
+      "display_artist": "Debjit Mahalanobis",
+      "duration_in_ms": 147050
     },
     {
-      "audio_id": "1560030752154450",
-      "title": "Daydream Drifting",
-      "display_artist": "Magnetic Sirens",
-      "duration_in_ms": 61786
+      "audio_id": "2931715040334361",
+      "title": "Slow Down (Instrumental)",
+      "display_artist": "Ella Joy Meir",
+      "duration_in_ms": 175090
     },
     {
-      "audio_id": "244731088110711",
-      "title": "Amor Cosmico (feat. Quincas Moreira)",
-      "display_artist": "Carla Rivarola",
-      "duration_in_ms": 259672
+      "audio_id": "1315419563912241",
+      "title": "Vain",
+      "display_artist": "Lightbox Music",
+      "duration_in_ms": 50770
     },
     {
-      "audio_id": "733040526524820",
-      "title": "Lipstick",
+      "audio_id": "274499088488016",
+      "title": "Prevail",
+      "display_artist": "Sam Marshall",
+      "duration_in_ms": 213816
+    },
+    {
+      "audio_id": "3543068092535469",
+      "title": "The Vinyl Ate My Homework",
+      "display_artist": "Auralux",
+      "duration_in_ms": 62470
+    },
+    {
+      "audio_id": "852372109692736",
+      "title": "When It’s Over",
+      "display_artist": "BAGGY GRL",
+      "duration_in_ms": 159260
+    },
+    {
+      "audio_id": "458123289896778",
+      "title": "Sorry We're Closed (feat. Mike Chiavaro)",
+      "display_artist": "Otis McDonald",
+      "duration_in_ms": 161090
+    },
+    {
+      "audio_id": "370857438630527",
+      "title": "Paradise (feat. Kobi Jonz)",
       "display_artist": "Company Money",
-      "duration_in_ms": 14885
+      "duration_in_ms": 132815
     },
     {
-      "audio_id": "498992718798303",
-      "title": "Rio",
-      "display_artist": "Symphonic Planet",
-      "duration_in_ms": 232739
-    },
-    {
-      "audio_id": "1605148704077555",
-      "title": "Sohneya (Instrumental)",
-      "display_artist": "Geetesh Yadav",
-      "duration_in_ms": 181984
-    },
-    {
-      "audio_id": "2528557800991982",
-      "title": "Shuffle Biscuit",
-      "display_artist": "Fellow Travelers",
-      "duration_in_ms": 60795
-    },
-    {
-      "audio_id": "28115832308013413",
-      "title": "To The Heroes",
-      "display_artist": "Vestevent",
-      "duration_in_ms": 64510
-    },
-    {
-      "audio_id": "169095786090827",
-      "title": "Minty",
-      "display_artist": "Trout Recording",
-      "duration_in_ms": 167860
-    },
-    {
-      "audio_id": "355167224235792",
-      "title": "Divino",
+      "audio_id": "1663042281078218",
+      "title": "3, 2, 1",
       "display_artist": "Kolektivo",
-      "duration_in_ms": 263330
+      "duration_in_ms": 130098
     },
     {
-      "audio_id": "2145270323091005",
-      "title": "Through The Silver Wood",
-      "display_artist": "cloud cover",
-      "duration_in_ms": 59050
+      "audio_id": "824643092045977",
+      "title": "Overdue",
+      "display_artist": "Jazmine",
+      "duration_in_ms": 177580
     },
     {
-      "audio_id": "2147640092820037",
-      "title": "Lift",
-      "display_artist": "Vestevent",
-      "duration_in_ms": 66590
+      "audio_id": "533214728664674",
+      "title": "CraftRunner",
+      "display_artist": "Ecklectic Music",
+      "duration_in_ms": 237810
     },
     {
-      "audio_id": "1033110182457360",
-      "title": "Steady Climb",
-      "display_artist": "Fellow Travelers",
-      "duration_in_ms": 63429
+      "audio_id": "231467859227921",
+      "title": "No Demons",
+      "display_artist": "Mike Floss",
+      "duration_in_ms": 144050
     },
     {
-      "audio_id": "28177916438565562",
-      "title": "Stonks",
-      "display_artist": "Summer Islands",
-      "duration_in_ms": 59051
+      "audio_id": "671461094197409",
+      "title": "Barber Of Seville",
+      "display_artist": "Mike Block",
+      "duration_in_ms": 196188
     },
     {
-      "audio_id": "303378735427943",
-      "title": "Golden Sunrise",
-      "display_artist": "Giulio Cercato",
-      "duration_in_ms": 165768
+      "audio_id": "617551433645524",
+      "title": "Khuje Nao (feat. Snehaalina Chakroborty)",
+      "display_artist": "Jazzy Sadhu",
+      "duration_in_ms": 183950
     },
     {
-      "audio_id": "1247438313589781",
-      "title": "Seal It With A Kiss (Instrumental)",
-      "display_artist": "Danie",
-      "duration_in_ms": 152401
+      "audio_id": "4032980963689280",
+      "title": "My Last Breath (Instrumental)",
+      "display_artist": "Jonny Houlihan",
+      "duration_in_ms": 245108
     },
     {
-      "audio_id": "573026564415922",
-      "title": "Scorched Planet",
-      "display_artist": "Golden Braid Productions",
-      "duration_in_ms": 184411
+      "audio_id": "1028647903132375",
+      "title": "Playin Around",
+      "display_artist": "erloom",
+      "duration_in_ms": 59980
     },
     {
-      "audio_id": "1459198434915044",
-      "title": "Kokai Remix (Shima)",
-      "display_artist": "Sleeping Lion",
-      "duration_in_ms": 177441
+      "audio_id": "1022352186670437",
+      "title": "African Sunset (Loop)",
+      "display_artist": "The.Wav",
+      "duration_in_ms": 31135
     },
     {
-      "audio_id": "1104467180218538",
-      "title": "Built To Last",
-      "display_artist": "Lyle Workman",
-      "duration_in_ms": 258496
+      "audio_id": "1289498205821162",
+      "title": "Contigo Estar (To Be With You)",
+      "display_artist": "Kolektivo",
+      "duration_in_ms": 248520
     },
     {
-      "audio_id": "8856004634471818",
-      "title": "Plus Forte Remix (Afro Sound Machine)",
-      "display_artist": "Sleeping Lion",
-      "duration_in_ms": 227050
+      "audio_id": "1121570306803442",
+      "title": "If U Want To",
+      "display_artist": "Ruby Amanfu",
+      "duration_in_ms": 129150
     },
     {
-      "audio_id": "481295624092914",
-      "title": "Thought You Knew (prod. by d.higgs)",
-      "display_artist": "G7MBL3",
-      "duration_in_ms": 223657
+      "audio_id": "448270077232654",
+      "title": "Hey DJ",
+      "display_artist": "Chela Rivas",
+      "duration_in_ms": 151529
     },
     {
-      "audio_id": "1266351078467919",
-      "title": "Lotus Of The Heart (Instrumental)",
-      "display_artist": "Azam Ali",
-      "duration_in_ms": 181600
+      "audio_id": "1297854760779205",
+      "title": "Lagan Laagi (feat. Shahid Mallya)",
+      "display_artist": "Vipin Mishra Project",
+      "duration_in_ms": 168170
     },
     {
-      "audio_id": "659264740110762",
-      "title": "Def Fresh",
-      "display_artist": "TRC Orchestral, Vestevent",
-      "duration_in_ms": 75168
+      "audio_id": "893970785654999",
+      "title": "Discoteca",
+      "display_artist": "Chela Rivas",
+      "duration_in_ms": 142080
     },
     {
-      "audio_id": "1768338523648709",
-      "title": "In The Country (feat. Bobby Brinker)",
-      "display_artist": "Bryan Todd",
-      "duration_in_ms": 164494
+      "audio_id": "924391826094049",
+      "title": "Time For You To March (feat. Kiki Muñoz)",
+      "display_artist": "Neko Fuzz",
+      "duration_in_ms": 229460
+    },
+    {
+      "audio_id": "2304550026744012",
+      "title": "Pulse Del Sol",
+      "display_artist": "Neon Avenue",
+      "duration_in_ms": 65024
     }
   ],
   "searches": {
