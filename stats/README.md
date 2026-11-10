@@ -1,6 +1,6 @@
 # Instagram stats
 
-Updated Tue 10 Nov 2026, 8:10 AM (Sydney). Refreshes about every 4 hours.
+Updated Tue 10 Nov 2026, 12:26 PM (Sydney). Refreshes about every 4 hours.
 
 ## Retained (@retained.au)
 
@@ -8,13 +8,13 @@ Updated Tue 10 Nov 2026, 8:10 AM (Sydney). Refreshes about every 4 hours.
 
 | Day | Reach | Profile visits |
 | --- | ---: | ---: |
-| 2026-11-02 | 127 | 3 |
 | 2026-11-03 | 2 | 2 |
 | 2026-11-04 | 89 | 0 |
 | 2026-11-05 | 9 | 1 |
 | 2026-11-06 | 13 | 0 |
 | 2026-11-07 | 54 | 0 |
 | 2026-11-08 | 4 | 0 |
+| 2026-11-09 | 2 | 0 |
 
 **Top posts by reach**
 
@@ -32,20 +32,20 @@ Updated Tue 10 Nov 2026, 8:10 AM (Sydney). Refreshes about every 4 hours.
 
 | Day | Reach | Profile visits |
 | --- | ---: | ---: |
-| 2026-11-02 | 36 | 0 |
 | 2026-11-03 | 0 | 1 |
 | 2026-11-04 | 105 | 0 |
 | 2026-11-05 | 14 | 0 |
 | 2026-11-06 | 6 | 0 |
 | 2026-11-07 | 34 | 0 |
 | 2026-11-08 | 87 | 0 |
+| 2026-11-09 | 2 | 0 |
 
 **Top posts by reach**
 
 | Post | Type | Reach | Likes | Saves | Shares |
 | --- | --- | ---: | ---: | ---: | ---: |
 | [RP-06](https://www.instagram.com/reel/DfUDIQyjIVy/) | Reels | 105 | 1 | 0 | 0 |
-| [RP-10](https://www.instagram.com/reel/DfeacWMExbN/) | Reels | 88 | 0 | 0 | 0 |
+| [RP-10](https://www.instagram.com/reel/DfeacWMExbN/) | Reels | 89 | 0 | 0 | 0 |
 | [RP-09](https://www.instagram.com/reel/DfbxedtjyE8/) | Reels | 38 | 0 | 0 | 0 |
 | [RP-03R](https://www.instagram.com/reel/DfOqquzE9Qi/) | Reels | 37 | 0 | 0 | 0 |
 | [RP-07](https://www.instagram.com/reel/DfWo1_RD4cK/) | Reels | 14 | 0 | 0 | 0 |
