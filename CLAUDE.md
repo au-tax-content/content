@@ -21,7 +21,7 @@ February 2027 targets: Return Policy 1,000+ followers / 200+ emails; Retained 50
 
 1. **Education only.** Daniel is not a registered tax agent yet. Never offer or advertise tax services for a fee: no "DM me to do your return", no prices, no "we lodge", no booking links. Tax Agent Services Act penalties apply.
 2. **Every figure is checked against ato.gov.au (or legislation) in the week it's written**, carries its income year, and is listed in `figures_checked` in post.json. If you can't verify a figure, cut it. A wrong post costs more than a missing one.
-3. Every caption ends with "General info only, not personal advice." Max 5 hashtags. One call to action per post.
+3. Max 5 hashtags. One call to action per post. The "General info only, not personal advice." line is no longer required on every post (Daniel, 12 Nov 2026); keep it in each account bio.
 4. Anonymous: no face, voice, name, or anything that identifies Daniel or his employers (Integritas, William Buck). Never base a post on a real client.
 5. No bought followers, engagement pods, follow/unfollow, or cold DMs.
 6. Comment text in `stats/*/comments.json` is for ideas only. Never quote a commenter in a post.

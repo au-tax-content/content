@@ -1,0 +1,26 @@
+{
+  "id": "RP-14",
+  "account": "returnpolicy",
+  "series": "Myths",
+  "publish_at": "2026-11-12T13:15:00+11:00",
+  "caption": "5 tax facts most people have backwards.\n\n1. A $1,000 deduction doesn't put $1,000 back in your pocket. It lowers your taxable income, so on the 30% rate (2026–27, $45,001–$135,000) it saves about $300, or $320 with the 2% Medicare levy.\n\n2. A higher bracket only taxes the dollars above the threshold. In 2026–27 the 37% rate starts at $135,001, so a pay rise that crosses it still leaves you better off.\n\n3. Individuals generally have 2 years to amend a return, counted from the day after your notice of assessment. Sole traders get 4 years for 2024–25 and later.\n\n4. Salary-sacrificed super is taxed at 15% in your fund, not at your marginal rate, while you stay within the $32,500 concessional cap (2026–27, includes your employer's super). The catch: it's locked away until preservation age, and if your income plus contributions tops $250,000, Division 293 tax applies.\n\n5. The working-from-home fixed rate method needs a record of the actual hours you work from home, kept as you go (timesheets, rosters, a diary). An estimate won't be accepted.\n\nWhich number did you have backwards? Tell us in the comments.\n\n#australiantax #taxreturn #taxtips #salarysacrifice #paylesslegally",
+  "figures_checked": [
+    "2026-27 resident rates: 30% on $45,001-$135,000, 37% from $135,001; Medicare levy 2% not included (ATO Tax rates - Australian residents, checked 11 Nov 2026)",
+    "$1,000 deduction x 30% = $300; x 32% with Medicare levy = $320 (arithmetic from rates above)",
+    "Individuals generally have 2 years to amend, from the day after the notice of assessment; sole traders 4 years from 2024-25 (ATO Time limits on amendments, checked 11 Nov 2026)",
+    "Salary-sacrificed super taxed at 15% in the fund; Division 293 above $250,000 (ATO Salary sacrificing super, checked 11 Nov 2026)",
+    "Concessional cap $32,500 2026-27 (ATO key super rates, checked 8 Nov 2026, figures.md)",
+    "WFH fixed rate method: record of actual hours required, estimates not accepted (ATO Fixed rate method, checked 11 Nov 2026)"
+  ],
+  "type": "carousel",
+  "pillar": "Lead pillar",
+  "images": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg",
+    "4.jpg",
+    "5.jpg"
+  ],
+  "status": "queued",
+  "format": "crayon two-panel"
+}

@@ -1,5 +1,14 @@
 # Notes: what's working (newest first)
 
+## 12 Nov 2026: restart + first crayon carousels (Daniel: "run it now", make it eye-catching)
+
+- Posting was paused 8–12 Nov at Daniel's request. Restarted today.
+- New: crayon "X. Not Y." carousels RP-14 (5 tax facts people have backwards) and RT-14 (5 things new owners get backwards), 5 two-panel slides each, plus Reel re-cuts RP-14R / RT-14R tonight 7:30 pm. Characters to keep: Return Policy = woman, brown bun, green hoodie; Retained = cafe owner, dark curly hair, beard, navy shirt, mustard apron.
+- Pipeline that works: Canva generate-image (max ~3 jobs in flight, else "quota_exceeded") → insert_fill all panels on one 2160-wide sheet page of design DAHZ2AHQfVk (pages 2 and 3) → commit → export that page → crop 1080×540 cells. `crayon.two_panel(note=...)` adds a small chip for the condition/income year.
+- Schedule: Fri 13 RT-13/RP-13, Sat 14 RT-12/RP-12, Mon 16 RT-11/RP-11 (all 7:30 pm). RP-11 and RT-13 rewritten: the 70c WFH rate isn't published for 2026–27, and "defer income" was cut.
+- Captions no longer end with the disclaimer (Daniel); end with a question to pull comments.
+- Experiment this week (both accounts): crayon carousel + re-cut vs reel_points Reels, on reach and saves+shares per 1,000.
+
 ## 8 Nov 2026: weekly run (week of 9–15 Nov)
 
 **Scorecard (last 7 days):** Retained 3 followers (+3), Return Policy 2 followers (+2). Reels dominate: RT-04 led at 105 reach, RT-06 90, RT-09 53 (1 save). Carousels: 0–1 reach. No shares or follows yet from any post. Best saves/1k: RT-05R 24.4, RT-09 18.9. Trial Reels still rejected (fallback to normal Reels). Experiment (2 Nov): RT-05 carousel vs RT-04 animated Reel — inconclusive (RT-04 Reel won on reach 105 vs 1); need more data. RP experiment: too little reach on both to call.

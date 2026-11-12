@@ -4,17 +4,17 @@
   "type": "reel",
   "series": "Pay less, legally",
   "pillar": "Lead pillar",
-  "publish_at": "2026-11-09T19:30:00+11:00",
-  "caption": "3 moves that actually lower your tax. Pick one, pick all three.\n\n1. Salary sacrifice to super. Money goes into super before PAYG tax is calculated. Taxed at 15% — not your marginal rate. If you're on 30%, that's a 15% saving on every dollar you sacrifice.\n\n2. Work from home — 70c per hour (2026–27 fixed rate). No receipts needed for individual home expenses. Just log your actual hours. Multiply by 70c. Claim it.\n\n3. Work-related tools under $300. Buy a tool, piece of equipment or other work item that costs $300 or less? Claim the full cost immediately — no depreciation schedule.\n\nAll legal. All available to employees.\n\nSave this.\n\nGeneral info only, not personal advice.\n\n#australiantax #taxreturn #salarysacrifice #workfromhome #taxdeductions",
+  "publish_at": "2026-11-16T19:30:00+11:00",
+  "caption": "3 moves that actually lower your tax.\n\n1. Salary sacrifice to super. It goes in before tax and is taxed at 15% in the fund, not your marginal rate. The catch: it's locked away until preservation age and counts toward the $32,500 concessional cap (2026–27).\n\n2. The $1,000 standard deduction. From your 2026–27 return, wage earners get up to $1,000 for work-related expenses with no receipts. Spent more than that on work? Claim your actual costs instead, with records.\n\n3. Union and professional association fees are claimed separately, on top of the standard deduction.\n\nWhich one are you using? Tell us in the comments.\n\n#australiantax #taxreturn #salarysacrifice #taxdeductions #paylesslegally",
   "video": "reel.mp4",
   "cover": "cover.jpg",
   "images": [],
   "figures_checked": [
-    "Contributions tax on concessional super: 15% (ATO standard rate)",
-    "WFH fixed rate 2026-27: 70c per hour (ATO, confirmed 3 Nov 2026)",
-    "Immediate deduction for work-related depreciating assets $300 or less (ATO mytax 2026 instructions, 8 Nov 2026)"
+    "Salary-sacrificed super taxed at 15% in the fund (ATO Salary sacrificing super, checked 11 Nov 2026)",
+    "Concessional cap $32,500 2026-27 (figures.md, 8 Nov 2026)",
+    "Standard deduction up to $1,000 from the 2026-27 return, no records needed; actual expenses can be claimed instead; union/professional fees claimed separately (ATO Standard deduction for work-related expenses, updated 2 Nov 2026, checked 11 Nov 2026)"
   ],
-  "status": "draft",
+  "status": "queued",
   "audio_id": "1588416396196262",
   "audio_note": "Echoes - trending Nov 2026",
   "trial": true,

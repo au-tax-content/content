@@ -15,12 +15,15 @@ CSS = f"""@font-face{{font-family:H;src:url('file://{HERE}/fonts/patrick-hand-la
 body{{margin:0}} .w{{width:1080px;height:1350px;background:#FBF8F2;position:relative;overflow:hidden;font-family:H}}
 .p{{position:absolute;left:40px;width:1000px;height:505px;object-fit:cover;border-radius:6px}}
 .t{{position:absolute;left:40px;right:40px;text-align:center;line-height:1.02;color:#1A1A1A;letter-spacing:.02em}}
-r{{color:#D7261E}} .n{{position:absolute;right:46px;top:52px;background:rgba(0,0,0,.55);color:#fff;font-family:sans-serif;font-size:22px;padding:6px 14px;border-radius:20px}}"""
+r{{color:#D7261E}} .k{{position:absolute;left:46px;top:493px;background:rgba(0,0,0,.6);color:#fff;font-family:sans-serif;font-size:21px;letter-spacing:.04em;padding:6px 14px;border-radius:20px}}
+.n{{position:absolute;right:46px;top:52px;background:rgba(0,0,0,.55);color:#fff;font-family:sans-serif;font-size:22px;padding:6px 14px;border-radius:20px}}"""
 
 
-def two_panel(top_img, top_text, bot_img, bot_text, n=None, of=None, top_size=76, bot_size=84):
+def two_panel(top_img, top_text, bot_img, bot_text, n=None, of=None, top_size=76, bot_size=84, note=None):
+    """note: small chip on the top panel for the condition/income year behind the figure (e.g. "30% RATE · 2026–27")."""
     def src(p): return "file://" + os.path.abspath(p)
     num = f'<div class="n">{n}/{of}</div>' if n else ""
+    if note: num += f'<div class="k">{note}</div>'
     return f"""<!doctype html><html><head><meta charset="utf-8"><style>{CSS}</style></head><body><div class="w">
 <img class="p" style="top:40px" src="{src(top_img)}">{num}
 <div class="t" style="top:565px;font-size:{top_size}px">{top_text}</div>
