@@ -1,6 +1,6 @@
 # Instagram stats
 
-Updated Thu 12 Nov 2026, 8:20 PM (Sydney). Refreshes about every 4 hours.
+Updated Fri 13 Nov 2026, 12:35 AM (Sydney). Refreshes about every 4 hours.
 
 ## Retained (@retained.au)
 
@@ -21,14 +21,14 @@ Updated Thu 12 Nov 2026, 8:20 PM (Sydney). Refreshes about every 4 hours.
 | Post | Type | Reach | Likes | Saves | Shares |
 | --- | --- | ---: | ---: | ---: | ---: |
 | [RT-04](https://www.instagram.com/reel/DfOqmDajkQk/) | Reels | 105 | 0 | 0 | 0 |
+| [RT-14R](https://www.instagram.com/reel/Dfoqe3NILfO/) | Reels | 101 | 0 | 0 | 0 |
 | [RT-06](https://www.instagram.com/reel/DfUC-pHFMT_/) | Reels | 90 | 0 | 0 | 0 |
 | [RT-09](https://www.instagram.com/reel/DfbxWA5DatC/) | Reels | 58 | 1 | 1 | 0 |
 | [RT-02R](https://www.instagram.com/reel/DfO0PmAiSVZ/) | Reels | 47 | 1 | 0 | 0 |
-| [RT-05R](https://www.instagram.com/reel/DfO0go5icaM/) | Reels | 41 | 1 | 1 | 0 |
 
 ## Return Policy (@returnpolicy.au)
 
-**Followers: 3** (+2 in the last 7 days)
+**Followers: 3** (+1 in the last 7 days)
 
 | Day | Reach | Profile visits |
 | --- | ---: | ---: |
@@ -45,8 +45,8 @@ Updated Thu 12 Nov 2026, 8:20 PM (Sydney). Refreshes about every 4 hours.
 | Post | Type | Reach | Likes | Saves | Shares |
 | --- | --- | ---: | ---: | ---: | ---: |
 | [RP-06](https://www.instagram.com/reel/DfUDIQyjIVy/) | Reels | 105 | 1 | 0 | 0 |
+| [RP-14R](https://www.instagram.com/reel/Dfoqj5dkjMC/) | Reels | 98 | 0 | 0 | 1 |
 | [RP-10](https://www.instagram.com/reel/DfeacWMExbN/) | Reels | 89 | 0 | 0 | 0 |
 | [RP-09](https://www.instagram.com/reel/DfbxedtjyE8/) | Reels | 38 | 0 | 0 | 0 |
 | [RP-03R](https://www.instagram.com/reel/DfOqquzE9Qi/) | Reels | 37 | 0 | 0 | 0 |
-| [RP-07](https://www.instagram.com/reel/DfWo1_RD4cK/) | Reels | 14 | 0 | 0 | 0 |
 
