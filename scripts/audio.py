@@ -12,7 +12,7 @@ def grab(**q):
     return [{k: a.get(k) for k in ("audio_id", "title", "display_artist", "duration_in_ms")} for a in res.get("audio", [])]
 try:
     out["trending"] = grab()
-    for q in ["lofi", "upbeat", "chill", "money", "corporate", "hip hop instrumental"]:
+    for q in ["lofi", "upbeat", "chill", "money", "corporate", "hip hop instrumental", "piano", "emotional", "inspirational", "acoustic", "motivational"]:
         try:
             out["searches"][q] = grab(search_query=q)[:10]
         except IGError as e:

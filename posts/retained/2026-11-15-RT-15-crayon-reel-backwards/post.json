@@ -1,0 +1,30 @@
+{
+  "id": "RT-15",
+  "account": "retained",
+  "type": "reel",
+  "series": "Keep more",
+  "pillar": "Lead pillar",
+  "format": "crayon reel",
+  "source_post": "RT-14",
+  "publish_at": "2026-11-15T19:30:00+11:00",
+  "caption": "5 things new business owners get backwards.\n\n1. A write-off isn't free money. Writing off an $18,000 asset saves a base rate entity company (25% rate, 2026–27) about $4,500 in tax. You still spent the $18,000.\n\n2. GST registration is based on GST turnover: your total business income, not your profit. Reach $75,000 and you have 21 days to register.\n\n3. The $20,000 instant asset write-off (permanent from 1 July 2026) applies to each asset, for businesses with aggregated turnover under $10 million. Several eligible assets can each qualify. The catch: claim only the business-use share, and the asset must be first used or installed ready for use in the year you claim.\n\n4. Once you're registered, the GST in your prices is collected for the ATO. At 10% GST, that's $1 of every $11 you take on taxable sales. Put it aside so your BAS isn't a shock.\n\n5. Employees get 12% super guarantee paid for them in 2026–27. As a sole trader, nobody pays yours. You can choose to make personal contributions and may be able to claim a deduction, within the $32,500 concessional cap (a notice of intent comes first).\n\nWhich number did you have backwards? Tell us in the comments.\n\n#smallbusinessaustralia #soletrader #gst #instantassetwriteoff #keepmore",
+  "video": "reel.mp4",
+  "cover": "cover.jpg",
+  "images": [],
+  "figures_checked": [
+    "Company tax: base rate entity 25% (turnover < $50M, passive income <= 80%), 2021-22 and future years incl. 2026-27 (ATO Changes to company tax rates, updated 4 Sep 2026, checked 11 Nov 2026)",
+    "$18,000 x 25% = $4,500 (arithmetic)",
+    "GST: register within 21 days once GST turnover (total business income, not profit) reaches $75,000 (ATO Registering for GST, checked 11 Nov 2026)",
+    "IAWO: assets costing less than $20,000, limit applies to each asset, aggregated turnover < $10M, permanent from 1 July 2026 (ATO small business newsroom, updated 4 Sep 2026, checked 11 Nov 2026)",
+    "GST 10%; registered businesses put aside GST collected to pay with BAS (ATO How GST works, checked 11 Nov 2026); $1 in $11 = GST share of a GST-inclusive taxable sale (arithmetic from 10%)",
+    "SG rate 12.00% for 1 July 2026 - 30 June 2027 (ATO Super guarantee rates, checked 11 Nov 2026); sole traders don't pay SG for themselves (ATO Super for sole traders, checked 11 Nov 2026)",
+    "Concessional cap $32,500 2026-27 (figures.md, 8 Nov 2026)",
+    "Same slides and figures as RT-14 (checked 11 Nov 2026)"
+  ],
+  "trial": true,
+  "graduation": "SS_PERFORMANCE",
+  "audio_id": "526825256283644",
+  "audio_note": "Beautiful, You Are (Instrumental) - Ruby Amanfu (soft piano/acoustic for crayon posts)",
+  "status": "queued",
+  "make": "python3 -c \"import sys;sys.path.insert(0,'brand');from crayon_reel import render;render(SRC,OUT,hook=...)\""
+}
