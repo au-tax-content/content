@@ -24,5 +24,10 @@
   "graduation": "SS_PERFORMANCE",
   "audio_id": "27850712597869154",
   "audio_note": "Main Character Energy - Afterlight (trending)",
-  "status": "queued"
+  "status": "published",
+  "trial_used": false,
+  "trial_error": "HTTP 400: Application does not have permission for this action (code 10, subcode 2207081)",
+  "media_id": "18120261809047352",
+  "published_at": "2026-11-12T08:48:38.681216+00:00",
+  "permalink": "https://www.instagram.com/reel/Dfoqj5dkjMC/"
 }
