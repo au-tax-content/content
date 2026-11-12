@@ -24,6 +24,7 @@
   "graduation": "SS_PERFORMANCE",
   "audio_id": "2477944699150252",
   "audio_note": "Peaceful Piano - Dr. Pheel (soft piano/acoustic for crayon posts)",
-  "status": "queued",
-  "make": "python3 -c \"import sys;sys.path.insert(0,'brand');from crayon_reel import render;render(SRC,OUT,hook=...)\""
+  "status": "skipped",
+  "make": "python3 -c \"import sys;sys.path.insert(0,'brand');from crayon_reel import render;render(SRC,OUT,hook=...)\"",
+  "error": "Cancelled: Daniel wants crayon posts as swipe carousels only, no video (13 Nov 2026)"
 }
