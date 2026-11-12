@@ -1,149 +1,155 @@
 {
-  "fetched_at": "2026-11-12T13:35+00:00",
+  "fetched_at": "2026-11-12T17:17+00:00",
   "trending": [
     {
-      "audio_id": "3514742455337358",
-      "title": "Up Down, I Like It, I Want It (Portuguese) (Reels Sound - Listicle)",
-      "display_artist": "GEEZ",
-      "duration_in_ms": 17480
+      "audio_id": "476230144726407",
+      "title": "Yiddish Melody",
+      "display_artist": "Apesaw",
+      "duration_in_ms": 67458
     },
     {
-      "audio_id": "699203395354309",
-      "title": "Urban Nocturne",
-      "display_artist": "Ecklectic Music",
-      "duration_in_ms": 196640
-    },
-    {
-      "audio_id": "1687838988967012",
-      "title": "Peacocks",
-      "display_artist": "Mark Rudin",
-      "duration_in_ms": 61490
-    },
-    {
-      "audio_id": "562931326897871",
-      "title": "Habibi",
-      "display_artist": "Giulio Cercato",
-      "duration_in_ms": 130160
-    },
-    {
-      "audio_id": "917472875960347",
-      "title": "Elad",
-      "display_artist": "Jay Anthony",
-      "duration_in_ms": 198355
-    },
-    {
-      "audio_id": "537423325203708",
-      "title": "Aag (Instrumental)",
-      "display_artist": "Haji Springer",
-      "duration_in_ms": 197827
-    },
-    {
-      "audio_id": "2555242627998035",
-      "title": "The After Night (feat. Will Markley)",
-      "display_artist": "TrackTribe",
-      "duration_in_ms": 193966
-    },
-    {
-      "audio_id": "768800967938630",
-      "title": "Cover To Cover (Instrumental)",
+      "audio_id": "649882113907233",
+      "title": "Beat Of My Heart (Instrumental)",
       "display_artist": "Jennah Bell",
-      "duration_in_ms": 160765
+      "duration_in_ms": 225852
     },
     {
-      "audio_id": "161270750343389",
-      "title": "What’s It Gonna Be (Instrumental)",
-      "display_artist": "Alex G",
-      "duration_in_ms": 276619
+      "audio_id": "595594926697501",
+      "title": "Till The End (Instrumental)",
+      "display_artist": "Ross Lara",
+      "duration_in_ms": 131310
     },
     {
-      "audio_id": "687555867782281",
-      "title": "Tears In The Rain",
-      "display_artist": "Bryan Todd",
-      "duration_in_ms": 172249
+      "audio_id": "1307656220836646",
+      "title": "Fim Do Mundo",
+      "display_artist": "Company Money",
+      "duration_in_ms": 206774
     },
     {
-      "audio_id": "201365069291285",
-      "title": "Dil Me Shor",
-      "display_artist": "Brinda",
-      "duration_in_ms": 106203
+      "audio_id": "1632583328209787",
+      "title": "Still Half Awake",
+      "display_artist": "cloud cover",
+      "duration_in_ms": 71070
     },
     {
-      "audio_id": "572644755811839",
-      "title": "R.I.P.",
+      "audio_id": "1330335391113126",
+      "title": "En Sport",
+      "display_artist": "Reijy",
+      "duration_in_ms": 182614
+    },
+    {
+      "audio_id": "260330426839483",
+      "title": "Good Day (Instrumental)",
+      "display_artist": "Julia Gartha",
+      "duration_in_ms": 171400
+    },
+    {
+      "audio_id": "223407616757194",
+      "title": "Aisi Toh Na Thi",
+      "display_artist": "Dhruv Goel",
+      "duration_in_ms": 165416
+    },
+    {
+      "audio_id": "497116412841351",
+      "title": "Air (Reels Sound - Before and After)",
+      "display_artist": "Ross Lara",
+      "duration_in_ms": 18720
+    },
+    {
+      "audio_id": "557366546227763",
+      "title": "Cauldron",
+      "display_artist": "Sam Marshall",
+      "duration_in_ms": 186470
+    },
+    {
+      "audio_id": "1317526356204292",
+      "title": "โหมเรา มาต่ะ มาต่ะ (Let Us Come, Come, Come) (Reels Sound - Photo Dump)",
+      "display_artist": "POTG",
+      "duration_in_ms": 17047
+    },
+    {
+      "audio_id": "957065605753860",
+      "title": "Other Skies",
+      "display_artist": "Jamie West-Oram",
+      "duration_in_ms": 173072
+    },
+    {
+      "audio_id": "1521074721996761",
+      "title": "Looking For The Heart (Instrumental)",
+      "display_artist": "Global Genius",
+      "duration_in_ms": 226690
+    },
+    {
+      "audio_id": "1010841361925017",
+      "title": "Dance Hall Happy",
+      "display_artist": "Fellow Travelers",
+      "duration_in_ms": 61947
+    },
+    {
+      "audio_id": "1052655229624289",
+      "title": "Reflection",
+      "display_artist": "Jonny Houlihan",
+      "duration_in_ms": 225650
+    },
+    {
+      "audio_id": "6325327284210024",
+      "title": "Happy Accidents",
+      "display_artist": "Ella Joy Meir",
+      "duration_in_ms": 127100
+    },
+    {
+      "audio_id": "28247491458177856",
+      "title": "I Feel Good",
+      "display_artist": "Sbvce",
+      "duration_in_ms": 61350
+    },
+    {
+      "audio_id": "708461387283477",
+      "title": "Just Kids",
+      "display_artist": "Dirty Dave",
+      "duration_in_ms": 204427
+    },
+    {
+      "audio_id": "1912599909261302",
+      "title": "Hot Summer Ready",
+      "display_artist": "Last Jerónimo",
+      "duration_in_ms": 174050
+    },
+    {
+      "audio_id": "415382470991670",
+      "title": "E Monihar Amay (Waltz Of A Jewel) (feat. Prajna)",
+      "display_artist": "Dolinman",
+      "duration_in_ms": 249780
+    },
+    {
+      "audio_id": "1468652020527222",
+      "title": "Yaar",
+      "display_artist": "Dhruv Goel",
+      "duration_in_ms": 124560
+    },
+    {
+      "audio_id": "26154816967479929",
+      "title": "Honey Honey (Instrumental)",
       "display_artist": "Alex Blue",
-      "duration_in_ms": 189650
+      "duration_in_ms": 151834
     },
     {
-      "audio_id": "2138794583345480",
-      "title": "Phases",
-      "display_artist": "LAVLO",
-      "duration_in_ms": 71265
-    },
-    {
-      "audio_id": "1172599206984386",
-      "title": "So Pretty",
+      "audio_id": "1655091092702334",
+      "title": "With U",
       "display_artist": "Giulio Cercato",
-      "duration_in_ms": 148351
+      "duration_in_ms": 54000
     },
     {
-      "audio_id": "769409556174230",
-      "title": "Diamonds (Instrumental)",
-      "display_artist": "Giulio Cercato",
-      "duration_in_ms": 161262
+      "audio_id": "7398038493554345",
+      "title": "Eagle",
+      "display_artist": "HME",
+      "duration_in_ms": 176381
     },
     {
-      "audio_id": "999292226039891",
-      "title": "Bell Of The Ball",
-      "display_artist": "Afterlight",
-      "duration_in_ms": 61132
-    },
-    {
-      "audio_id": "2227034801088396",
-      "title": "Bored",
-      "display_artist": "GEEZ",
-      "duration_in_ms": 136768
-    },
-    {
-      "audio_id": "477083807915493",
-      "title": "In Other Worlds",
-      "display_artist": "Brian Withycombe",
-      "duration_in_ms": 199180
-    },
-    {
-      "audio_id": "1201354294644445",
-      "title": "Wake Up (Next To You) (Instrumental)",
-      "display_artist": "Kolektivo",
-      "duration_in_ms": 158347
-    },
-    {
-      "audio_id": "1885824538835774",
-      "title": "Selling Upsets",
-      "display_artist": "half.cool",
-      "duration_in_ms": 159322
-    },
-    {
-      "audio_id": "1500575125206195",
-      "title": "No One Else",
-      "display_artist": "Lightbox Music",
-      "duration_in_ms": 64069
-    },
-    {
-      "audio_id": "786417529756953",
-      "title": "Ulle Ulle (feat. Prashanth Techno)",
-      "display_artist": "Shakthisree Gopalan",
-      "duration_in_ms": 241830
-    },
-    {
-      "audio_id": "1256638451637432",
-      "title": "Beautiful Life",
-      "display_artist": "CALIDAD",
-      "duration_in_ms": 170071
-    },
-    {
-      "audio_id": "1830191324809681",
-      "title": "Photographs",
-      "display_artist": "stereogully",
-      "duration_in_ms": 135001
+      "audio_id": "1361741288162708",
+      "title": "Adorable (Reels Sound - Listicle)",
+      "display_artist": "POTG",
+      "duration_in_ms": 6783
     }
   ],
   "searches": {
