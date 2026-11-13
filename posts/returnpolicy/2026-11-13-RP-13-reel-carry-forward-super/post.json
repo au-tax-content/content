@@ -14,10 +14,15 @@
     "Carry-forward eligibility: total super balance < $500K at prior 30 June (ATO, 8 Nov 2026)",
     "Carry-forward lookback: unused cap from 2021-22 onwards (5 prior years) (ATO, 8 Nov 2026)"
   ],
-  "status": "queued",
+  "status": "published",
   "audio_id": "423124700418880",
   "audio_note": "Good Vibes - Giulio Cercato",
   "trial": true,
   "graduation": "SS_PERFORMANCE",
-  "format": "motion"
+  "format": "motion",
+  "trial_used": false,
+  "trial_error": "HTTP 400: Application does not have permission for this action (code 10, subcode 2207081)",
+  "media_id": "18181264168446819",
+  "published_at": "2026-11-13T09:28:21.354141+00:00",
+  "permalink": "https://www.instagram.com/reel/DfrT9ESDojR/"
 }

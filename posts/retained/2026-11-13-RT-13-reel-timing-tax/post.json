@@ -14,10 +14,15 @@
     "IAWO: under $20,000 per asset, turnover < $10M, first used or installed ready for use in the year (ATO, checked 11 Nov 2026)",
     "Concessional cap $32,500 2026-27 (figures.md, 8 Nov 2026)"
   ],
-  "status": "queued",
+  "status": "published",
   "audio_id": "1579921342191993",
   "audio_note": "Motive (Instrumental) - Giulio Cercato",
   "trial": true,
   "graduation": "SS_PERFORMANCE",
-  "format": "motion"
+  "format": "motion",
+  "trial_used": false,
+  "trial_error": "HTTP 400: Application does not have permission for this action (code 10, subcode 2207081)",
+  "media_id": "18133151749808719",
+  "published_at": "2026-11-13T09:28:21.354141+00:00",
+  "permalink": "https://www.instagram.com/reel/DfrT0wqEqaL/"
 }
