@@ -14,10 +14,15 @@
     "Self-education: deductible if relates to current job, not to get a new one (ATO standard rule)",
     "Immediate deduction for work-related depreciating assets $300 or less (ATO mytax 2026 instructions, 8 Nov 2026)"
   ],
-  "status": "queued",
+  "status": "published",
   "audio_id": "1418611098781784",
   "audio_note": "Too Cool - Giulio Cercato",
   "trial": true,
   "graduation": "SS_PERFORMANCE",
-  "format": "motion"
+  "format": "motion",
+  "trial_used": false,
+  "trial_error": "HTTP 400: Application does not have permission for this action (code 10, subcode 2207081)",
+  "media_id": "18121804330949050",
+  "published_at": "2026-11-14T08:55:39.798855+00:00",
+  "permalink": "https://www.instagram.com/reel/Dft09UxjkhJ/"
 }
