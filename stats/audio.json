@@ -1,65 +1,119 @@
 {
-  "fetched_at": "2026-11-14T09:06+00:00",
+  "fetched_at": "2026-11-14T13:14+00:00",
   "trending": [
     {
-      "audio_id": "1160202428274682",
-      "title": "Ocean Tide",
-      "display_artist": "Lyle Workman",
-      "duration_in_ms": 192883
+      "audio_id": "1540826030450846",
+      "title": "Curious Mind",
+      "display_artist": "LAVLO",
+      "duration_in_ms": 56749
     },
     {
-      "audio_id": "801580934424796",
-      "title": "Mirror Mirror",
-      "display_artist": "Jazmine Robinson",
-      "duration_in_ms": 142839
+      "audio_id": "726553228683743",
+      "title": "Kaatril (feat. Arjun Raju)",
+      "display_artist": "Jose Franklin",
+      "duration_in_ms": 215169
     },
     {
-      "audio_id": "2067011887228849",
-      "title": "Naturally",
-      "display_artist": "cloud cover",
-      "duration_in_ms": 51478
+      "audio_id": "1779457109164103",
+      "title": "Mi Target (feat. Juli López)",
+      "display_artist": "Last Jerónimo",
+      "duration_in_ms": 213800
     },
     {
-      "audio_id": "1159616156174158",
-      "title": "Heart & Soul",
-      "display_artist": "Company Money",
-      "duration_in_ms": 153380
+      "audio_id": "1695471934283771",
+      "title": "She's Alright",
+      "display_artist": "Global Genius",
+      "duration_in_ms": 187894
     },
     {
-      "audio_id": "1024993528478551",
-      "title": "Prod Ops Security Remix (Scott Dugdale)",
-      "display_artist": "Marshall Rogalski",
-      "duration_in_ms": 308081
+      "audio_id": "3323049594692591",
+      "title": "The Time Is Now",
+      "display_artist": "E-Turn",
+      "duration_in_ms": 182651
     },
     {
-      "audio_id": "1404356770823883",
-      "title": "Forever And A Day (Instrumental)",
+      "audio_id": "238624571923276",
+      "title": "Bom Dia Brasil",
+      "display_artist": "Global Genius",
+      "duration_in_ms": 150670
+    },
+    {
+      "audio_id": "1322448698322475",
+      "title": "Sticky Feelings",
+      "display_artist": "Jazmine",
+      "duration_in_ms": 145129
+    },
+    {
+      "audio_id": "1128689388824600",
+      "title": "Beautifully Stranded (Spanish) (Reels Sound - Listicle)",
+      "display_artist": "Kensun",
+      "duration_in_ms": 27940
+    },
+    {
+      "audio_id": "1531628941380850",
+      "title": "Main Quest",
+      "display_artist": "Sam Marshall",
+      "duration_in_ms": 186963
+    },
+    {
+      "audio_id": "1026434704699972",
+      "title": "Moments In Time (feat. Dawson Gnewikow, Dawson March, Jacquire King)",
+      "display_artist": "The K Club",
+      "duration_in_ms": 154075
+    },
+    {
+      "audio_id": "1178547190562554",
+      "title": "Floating On",
+      "display_artist": "Alex Blue",
+      "duration_in_ms": 192860
+    },
+    {
+      "audio_id": "792338283263177",
+      "title": "Neon Night Frights (Reels Sound - Reveal)",
+      "display_artist": "Sam Marshall",
+      "duration_in_ms": 30181
+    },
+    {
+      "audio_id": "1408647707565655",
+      "title": "Holy (feat. Luke Lasso)",
+      "display_artist": "Bryan Todd",
+      "duration_in_ms": 189813
+    },
+    {
+      "audio_id": "976055692135587",
+      "title": "Retro Moonrise",
+      "display_artist": "Auralux",
+      "duration_in_ms": 61566
+    },
+    {
+      "audio_id": "952904122871711",
+      "title": "Brazil And Beyond",
+      "display_artist": "Global Genius",
+      "duration_in_ms": 153310
+    },
+    {
+      "audio_id": "1541902456877820",
+      "title": "Vamos A Dançar",
+      "display_artist": "Daza",
+      "duration_in_ms": 56226
+    },
+    {
+      "audio_id": "2098721020322154",
+      "title": "Steal Your Heart",
       "display_artist": "Giulio Cercato",
-      "duration_in_ms": 166879
+      "duration_in_ms": 151230
     },
     {
-      "audio_id": "738649994306572",
-      "title": "Jars On The Walls",
-      "display_artist": "Apesaw",
-      "duration_in_ms": 80426
+      "audio_id": "918463339224298",
+      "title": "Lazy Day",
+      "display_artist": "Giulio Cercato",
+      "duration_in_ms": 140332
     },
     {
-      "audio_id": "1091899891841701",
-      "title": "Waddle",
-      "display_artist": "HME",
-      "duration_in_ms": 168734
-    },
-    {
-      "audio_id": "1717677086154733",
-      "title": "Paradise Island",
-      "display_artist": "Blake Phillips",
-      "duration_in_ms": 62190
-    },
-    {
-      "audio_id": "607939075313135",
-      "title": "Sweet Girls Break Hearts",
-      "display_artist": "Shuba",
-      "duration_in_ms": 217240
+      "audio_id": "860500260477094",
+      "title": "Memories",
+      "display_artist": "NINI",
+      "duration_in_ms": 69969
     },
     {
       "audio_id": "1508891487055373",
@@ -68,88 +122,34 @@
       "duration_in_ms": 179066
     },
     {
-      "audio_id": "1760751558294997",
-      "title": "Energy",
-      "display_artist": "Jordan Olmos",
-      "duration_in_ms": 69660
+      "audio_id": "1514661513276726",
+      "title": "Chip Boy Chip Girl",
+      "display_artist": "bbox",
+      "duration_in_ms": 178334
     },
     {
-      "audio_id": "275753324788458",
-      "title": "If Clouds Saw Us",
-      "display_artist": "Folk Physics",
-      "duration_in_ms": 192170
+      "audio_id": "1149822736399711",
+      "title": "What Are You Gon' Do (feat. Dellfire)",
+      "display_artist": "Afro Sound Machine",
+      "duration_in_ms": 128660
     },
     {
-      "audio_id": "1825824648173890",
-      "title": "Spheres (Instrumental)",
-      "display_artist": "Azam Ali",
-      "duration_in_ms": 175870
+      "audio_id": "1140511277192286",
+      "title": "Excited Day (Reels Sound - Reveal)",
+      "display_artist": "bbox",
+      "duration_in_ms": 18530
     },
     {
-      "audio_id": "8487430394631523",
-      "title": "Sons Of Time",
-      "display_artist": "Lance Taber",
-      "duration_in_ms": 277550
+      "audio_id": "891822356111399",
+      "title": "Real Love",
+      "display_artist": "Company Money",
+      "duration_in_ms": 193630
     },
     {
-      "audio_id": "819984569319987",
-      "title": "Chaco",
-      "display_artist": "Gunnar Olsen",
-      "duration_in_ms": 206632
-    },
-    {
-      "audio_id": "910532495431823",
-      "title": "All Day",
-      "display_artist": "Bloom",
-      "duration_in_ms": 62133
-    },
-    {
-      "audio_id": "874231490617544",
-      "title": "Chase In The Bazaar",
-      "display_artist": "Symphonic Planet",
-      "duration_in_ms": 203307
-    },
-    {
-      "audio_id": "979336867091858",
-      "title": "Price Of War",
-      "display_artist": "Jumbo",
-      "duration_in_ms": 191020
-    },
-    {
-      "audio_id": "1580237926946177",
-      "title": "Don't Stop",
-      "display_artist": "Summer Islands",
-      "duration_in_ms": 67273
-    },
-    {
-      "audio_id": "190770967134586",
-      "title": "Date Night",
-      "display_artist": "Lady Jazmon",
-      "duration_in_ms": 150413
-    },
-    {
-      "audio_id": "613623548046932",
-      "title": "Daylight",
-      "display_artist": "Jordan Olmos, The Red Collective",
-      "duration_in_ms": 96024
-    },
-    {
-      "audio_id": "1769350283977205",
-      "title": "I Wouldn't Go There (Instrumental)",
-      "display_artist": "Ruby Amanfu",
-      "duration_in_ms": 177384
-    },
-    {
-      "audio_id": "850075462973559",
-      "title": "Parachutes",
-      "display_artist": "Jamie West-Oram",
-      "duration_in_ms": 198750
-    },
-    {
-      "audio_id": "775270427138044",
-      "title": "Honest Mistake",
-      "display_artist": "Alex Blue",
-      "duration_in_ms": 96657
+      "audio_id": "1000330821021020",
+      "title": "Stay For A Little While (Instrumental)",
+      "display_artist": "Dylan Kidd",
+      "duration_in_ms": 180753
     }
   ],
   "searches": {
