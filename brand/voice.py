@@ -30,16 +30,24 @@ def synth_lines(lines, out_dir, voice="af_heart", speed=1.08):
     return wavs, durs
 
 
-def split_by_silence(audio, n, out_dir):
-    """Split one narration file into n parts at the n-1 longest pauses."""
-    r = subprocess.run(["ffmpeg", "-i", audio, "-af", "silencedetect=n=-35dB:d=0.25", "-f", "null", "-"],
+def split_by_silence(audio, n, out_dir, lines=None):
+    """Split one narration file into n parts at pauses. With lines given, each cut goes to the pause nearest
+    where that line should end (by share of characters); otherwise the n-1 longest pauses are used."""
+    r = subprocess.run(["ffmpeg", "-i", audio, "-af", "silencedetect=n=-35dB:d=0.18", "-f", "null", "-"],
                        capture_output=True, text=True).stderr
     starts = [float(l.split("silence_start: ")[1]) for l in r.splitlines() if "silence_start" in l]
     ends = [float(l.split("silence_end: ")[1].split()[0]) for l in r.splitlines() if "silence_end" in l]
-    gaps = sorted(zip(starts, ends), key=lambda g: g[0] - g[1])[: n - 1]
-    cuts = sorted((s + e) / 2 for s, e in gaps)
+    gaps = list(zip(starts, ends))
     total = float(subprocess.run(["ffprobe", "-v", "error", "-show_entries", "format=duration", "-of", "csv=p=0", audio],
                                  capture_output=True, text=True).stdout)
+    if lines:
+        chars = [len(x) for x in lines]; cum = 0; cuts = []
+        for c in chars[:-1]:
+            cum += c; target = total * cum / sum(chars)
+            s0, e0 = min((g for g in gaps if not cuts or (g[0] + g[1]) / 2 > cuts[-1]), key=lambda g: abs((g[0] + g[1]) / 2 - target))
+            cuts.append((s0 + e0) / 2)
+    else:
+        cuts = sorted((a + b) / 2 for a, b in sorted(gaps, key=lambda g: g[0] - g[1])[: n - 1])
     bounds = [0.0] + cuts + [total]
     os.makedirs(out_dir, exist_ok=True)
     wavs, durs = [], []
