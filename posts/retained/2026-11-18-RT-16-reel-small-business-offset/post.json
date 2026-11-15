@@ -1,0 +1,20 @@
+{
+  "id": "RT-16",
+  "account": "retained",
+  "type": "reel",
+  "series": "Keep more",
+  "pillar": "Lead pillar",
+  "publish_at": "2026-11-18T19:30:00+11:00",
+  "caption": "The government gives sole traders money back. Most don't claim it.\n\nThe small business income tax offset is 16% of the tax on your net small business income, capped at $1,000 — and it's available to sole traders and partners in a small business entity with aggregated turnover under $5 million (2026–27).\n\nWhat it's not: a refund, a deduction, or something you apply for separately. It's calculated in your individual tax return and reduces the tax you owe. If your accountant lodges for you, they handle it — but it's worth knowing it exists.\n\nWhat you need: to actually be carrying on a small business as a sole trader or partner. A loss counts as zero — you can't claim the offset if the business made a loss.\n\nOne thousand dollars you weren't expecting is still one thousand dollars.\n\nWhich part of the tax return confuses you most? Drop it below.\n\n#smallbusiness #soletrader #keepmore #australiantax #businesstax",
+  "video": "reel.mp4",
+  "cover": "cover.jpg",
+  "images": [],
+  "figures_checked": [
+    "Small business income tax offset: 16%, capped at $1,000, aggregated turnover < $5M, applies to sole traders and partners, 2021-22 and onwards including 2026-27 (ATO Small business income tax offset, checked 15 Nov 2026)"
+  ],
+  "trial": true,
+  "graduation": "SS_PERFORMANCE",
+  "audio_id": "3624769914495535",
+  "audio_note": "Dollar (Instrumental) - Tony Dark Eyes (upbeat, money-move Reel)",
+  "status": "queued"
+}

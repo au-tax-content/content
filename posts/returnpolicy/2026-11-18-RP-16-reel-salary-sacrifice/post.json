@@ -1,0 +1,25 @@
+{
+  "id": "RP-16",
+  "account": "returnpolicy",
+  "type": "reel",
+  "series": "Pay less, legally",
+  "pillar": "Lead pillar",
+  "publish_at": "2026-11-18T19:30:00+11:00",
+  "caption": "Salary sacrifice saves more than most people realise. Here's the actual maths.\n\n30% marginal rate (2026–27, $45,001–$135,000) minus 15% contributions tax in your fund = 15 cents saved per dollar you sacrifice. The bigger the gap between your rate and 15%, the bigger the saving.\n\nThe cap: $32,500 concessional for 2026–27 — but this includes your employer's 12% super guarantee. So if you earn $80K, your employer contributes roughly $9,600, leaving around $22,900 you could add yourself.\n\nThe two catches:\n1. Super is locked until preservation age (around 60 for most people). This isn't a short-term move.\n2. If your income plus concessional contributions exceeds $250,000 in 2026–27, Division 293 tax applies — that's an extra 15% on some of your contributions, halving the saving.\n\nIs it right for you? Depends on your rate, your age, your cash flow, and whether you can lock the money away. Worth running past a registered financial adviser before making changes.\n\nWhat's stopping you from using salary sacrifice? Tell us below.\n\n#salarysacrifice #superannuation #paylesslegally #australiantax #moneyadvice",
+  "video": "reel.mp4",
+  "cover": "cover.jpg",
+  "images": [],
+  "figures_checked": [
+    "30% marginal rate on $45,001-$135,000, 2026-27 (ATO Tax rates - Australian residents, checked 11 Nov 2026, figures.md)",
+    "Contributions tax 15% in fund (ATO Salary sacrificing super, checked 11 Nov 2026, figures.md)",
+    "Division 293 above $250,000 (ATO Salary sacrificing super, checked 11 Nov 2026, figures.md)",
+    "Concessional cap $32,500, 2026-27 (ATO key super rates, checked 8 Nov 2026, figures.md)",
+    "Super guarantee rate 12%, 2026-27 (ATO Super guarantee rates, checked 11 Nov 2026, figures.md)",
+    "$80K x 12% SG = $9,600 employer contribution; $32,500 - $9,600 = $22,900 available to sacrifice (arithmetic)"
+  ],
+  "trial": true,
+  "graduation": "SS_PERFORMANCE",
+  "audio_id": "326419273084628",
+  "audio_note": "Revival - Austin Cannon (upbeat, motivational)",
+  "status": "queued"
+}

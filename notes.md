@@ -1,5 +1,13 @@
 # Notes: what's working (newest first)
 
+## 15 Nov 2026: weekly run (week of 16–22 Nov)
+
+**Scorecard (9–15 Nov):** Retained 4 followers (+1 from last week), Return Policy 3 (unchanged). Best reach: RT-14R (crayon re-cut) 101, RP-14R (crayon re-cut) 99 with 1 share (10.1 s+s/1k). RP-13 (carry-forward super) 46 reach. RT-13 (timing) 24 reach. Carousels RT-14/RP-14 near-zero reach (2 and 0). RT-15/RP-15 skipped correctly — crayon reels cancelled per Daniel's 13 Nov rule. Crayon re-cuts still the best Reel format; motion Reels trail. No saves this week.
+
+**Plan 16–22 Nov:** Mon RT-11 (3 legal moves) + RP-11 (3 moves employees miss) already queued. Wed RT-16 (small business offset, $1K back) + RP-16 (salary sacrifice maths). Fri RT-17 (sole trader vs company) + RP-17 (lodge late costs, timely post-31 Oct). All 7:30 pm AEDT. Figures verified 15 Nov (SBITO 16% capped $1K re-confirmed; FTL penalty $364/period from 1 Jul 2026 new).
+
+**Experiment (continuing):** crayon re-cuts vs motion Reels on reach — RT-14R and RP-14R both ≈100 reach, outperforming all motion Reels. Next data point this week from motion Reels on new topics.
+
 ## 12 Nov 2026: restart + first crayon carousels (Daniel: "run it now", make it eye-catching)
 
 - Posting was paused 8–12 Nov at Daniel's request. Restarted today.
