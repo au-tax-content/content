@@ -1,0 +1,27 @@
+{
+  "id": "RT-30",
+  "account": "retained",
+  "type": "reel",
+  "series": "Keep more",
+  "pillar": "Lead pillar",
+  "publish_at": "2026-11-28T19:30:00+11:00",
+  "caption": "Same $150,000 profit. $9,250 less tax. Here's the difference (sole traders, 2026–27).\n\nOwner A does nothing: income tax plus Medicare levy on $150,000, less the $1,000 small business offset = $38,570.\n\nOwner B makes two moves before 30 June:\n- Puts $20,000 into their own super and claims the deduction.\n- Buys a $15,000 machine the business needed and uses the instant asset write-off.\n\nTaxable income drops to $115,000. Personal tax and Medicare, less the offset: $26,320. Add 15% contributions tax on the $20,000 inside the fund: $3,000. Total $29,320.\n\nThe gap: $9,250.\n\nThe catch: B spent $35,000 to get it. The super is locked until retirement and the machine is only a win if the business needed it. It suits an owner who wanted both anyway, and it's the kind of plan a registered adviser should check against your numbers.\n\nWhich owner are you this year?\n\n#smallbusinessaustralia #taxplanning #keepmore #soletrader #superannuation",
+  "video": "reel.mp4",
+  "cover": "cover.jpg",
+  "images": [],
+  "figures_checked": [
+    "Resident rates 2026–27: nil to $18,200; 15c to $45,000; $4,020 + 30c to $135,000; $31,020 + 37c to $190,000; $51,370 + 45c above; Medicare levy 2% not included (ATO Tax rates – Australian residents, checked 15 Nov 2026)",
+    "Small business income tax offset: 16% of tax on net small business income, capped at $1,000, aggregated turnover under $5 million, sole traders and partners only, 2026–27 (ATO Small business income tax offset, checked 15 Nov 2026)",
+    "Concessional contributions cap $32,500 for 2026–27 (ATO Key super rates and thresholds, checked 15 Nov 2026)",
+    "Instant asset write-off: assets costing less than $20,000 each, permanent from 1 July 2026, aggregated turnover under $10 million, first used or installed ready for use in the year (ATO Small business newsroom, updated 4 Sept 2026, checked 15 Nov 2026)",
+    "Salary-sacrificed super taxed at 15% in the fund; Division 293 above $250,000 (ATO Salary sacrificing super, checked 11 Nov 2026; Div 293 threshold re-confirmed 15 Nov 2026)",
+    "Arithmetic: A = $31,020 + 37% x $15,000 = $36,570 + levy $3,000 - offset $1,000 = $38,570. B on $115,000 = $4,020 + 30% x $70,000 = $25,020 + levy $2,300 - $1,000 = $26,320; + 15% x $20,000 = $3,000; total $29,320; gap $9,250"
+  ],
+  "trial": true,
+  "graduation": "SS_PERFORMANCE",
+  "audio_id": "2662790980841451",
+  "audio_note": "Make Me - Giulio Cercato (hip-hop instrumental)",
+  "format": "motion",
+  "modelled_on": "Side-by-side comparisons ('Two businesses, same profit, completely different tax')",
+  "status": "queued"
+}

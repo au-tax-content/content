@@ -1,0 +1,22 @@
+{
+  "id": "RT-18",
+  "account": "retained",
+  "type": "reel",
+  "series": "News decoded",
+  "pillar": "Lead pillar",
+  "publish_at": "2026-11-16T12:30:00+11:00",
+  "caption": "ATO update: you can keep paying tax by credit card until 30 June 2027.\n\nThe ATO had announced it would stop accepting credit card payments after 30 November 2026. On 9 October 2026 it extended the transition period: credit card payments for tax obligations continue until 30 June 2027.\n\nWhat it means for a small business:\n- If you pay BAS or income tax by card, nothing changes this month.\n- If you're on an ATO payment plan linked to a credit card, you'll need to move it to another payment method before the cut-off, or payments will fail and the plan can default.\n- Other payment methods stay available (see \"how to pay\" on ato.gov.au).\n\nWorth a note in the calendar for mid-2027.\n\nDo you pay the ATO by card?\n\n#ato #smallbusinessaustralia #bas #soletrader #australiantax",
+  "video": "reel.mp4",
+  "cover": "cover.jpg",
+  "images": [],
+  "figures_checked": [
+    "ATO will continue accepting credit card payments for tax obligations until 30 June 2027 (media release 9 Oct 2026); original cut-off was 30 November 2026; card-linked payment plans must move to another method after the cut-off (ATO media centre; Small business newsroom 'Changes to credit card payments', updated 15 Oct 2026, checked 15 Nov 2026)"
+  ],
+  "trial": true,
+  "graduation": "SS_PERFORMANCE",
+  "audio_id": "1049988139329699",
+  "audio_note": "Today's Big News, Today - Global Genius (news-style)",
+  "format": "motion",
+  "modelled_on": "Rule-change news explainers ('Big news from the ATO': 832K views, 8.8x median)",
+  "status": "queued"
+}

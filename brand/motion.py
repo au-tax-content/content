@@ -2,7 +2,7 @@
 
 Each scene is an HTML page whose elements carry animation hints:
   <div class="a" data-a="pop" data-t="0.2" data-d="0.4">…</div>
-  data-a: pop | up | stamp | count | bar | fill | wave
+  data-a: pop | up | stamp | count | bar | fill | wave | win (visible only from data-t for data-d s) | growh (height to data-h %)
   data-t: start time within the scene (s), data-d: duration (s)
   count: data-to="20000" data-pre="$"   (counts up)
   words: wrap text with words("…", start, step) to reveal word by word
@@ -37,6 +37,8 @@ function render(t,g,total){
     else if(a==='count'){const to=+el.dataset.to;el.textContent=(el.dataset.pre||'')+Math.round(to*out3(p)).toLocaleString('en-AU')+(el.dataset.post||'');el.style.opacity=t>=s?1:0}
     else if(a==='bar'){el.style.width=(out3(p)*(+el.dataset.w||100))+'%'}
     else if(a==='fill'){const kids=[...el.children];kids.forEach((k,i)=>{const q=C((t-s-i*d/kids.length)/0.15);k.style.background=q>0.5?el.dataset.on:'transparent';k.style.transform=`scale(${0.8+0.2*back(q)})`})}
+    else if(a==='win'){const on=t>=s&&t<s+d;const q=C((t-s)/0.25);el.style.opacity=on?out3(q):0;el.style.transform=`translateY(${(1-out3(q))*30}px)`}
+    else if(a==='growh'){el.style.height=(out3(p)*(+el.dataset.h||100))+'%'}
     else if(a==='shake'){const q=C((t-s)/d);el.style.transform=`translateX(${Math.sin(q*40)*14*(1-q)}px)`}
   });
   document.querySelectorAll('.mascot').forEach(m=>{
@@ -113,8 +115,9 @@ body{{margin:0}} .a{{will-change:transform,opacity}}
 </div><script>{JS}</script></body></html>"""
 
 
-def render_motion(scenes, make_file, cover_scene=0, cover_t=None):
-    """scenes: list of (html, seconds). Writes reel.mp4 and cover.jpg next to make_file."""
+def render_motion(scenes, make_file, cover_scene=0, cover_t=None, cover_y=285):
+    """scenes: list of (html, seconds). Writes reel.mp4 and cover.jpg next to make_file.
+    cover.jpg is the 1080x1350 band starting at cover_y (reel_formats layouts start higher, so they pass 215)."""
     folder = os.path.dirname(os.path.abspath(make_file))
     tmp = tempfile.mkdtemp()
     total = sum(d for _, d in scenes)
@@ -126,7 +129,7 @@ def render_motion(scenes, make_file, cover_scene=0, cover_t=None):
             pg = await b.new_page(viewport={"width": W, "height": H})
             g0 = 0.0
             for si, (html, dur) in enumerate(scenes):
-                f = os.path.join(HERE, "_motion.html"); open(f, "w").write(html)
+                f = os.path.join(tmp, "_motion.html"); open(f, "w").write(html)
                 await pg.goto("file://" + f); await pg.evaluate("document.fonts.ready")
                 part = os.path.join(tmp, f"s{si}.part.mp4")
                 ff = subprocess.Popen(["ffmpeg", "-y", "-loglevel", "error", "-f", "image2pipe", "-framerate", str(FPS),
@@ -145,7 +148,6 @@ def render_motion(scenes, make_file, cover_scene=0, cover_t=None):
                 final = part.replace(".part.mp4", ".mp4"); os.rename(part, final); clips.append(final)
                 g0 += dur
             await b.close()
-            os.remove(os.path.join(HERE, "_motion.html"))
     asyncio.run(go())
 
     lst = os.path.join(tmp, "list.txt"); open(lst, "w").write("".join(f"file '{c}'\n" for c in clips))
@@ -157,6 +159,6 @@ def render_motion(scenes, make_file, cover_scene=0, cover_t=None):
                     "-movflags", "+faststart", out], check=True)
     os.replace(out, os.path.join(folder, "reel.mp4"))
     from PIL import Image
-    Image.open(os.path.join(tmp, "cover.png")).convert("RGB").crop((0, 285, 1080, 1635)).save(os.path.join(folder, "cover.jpg"), "JPEG", quality=92)
+    Image.open(os.path.join(tmp, "cover.png")).convert("RGB").crop((0, cover_y, 1080, cover_y + 1350)).save(os.path.join(folder, "cover.jpg"), "JPEG", quality=92)
     shutil.rmtree(tmp)
     print(f"reel.mp4 ({total:.1f}s) + cover.jpg -> {folder}")

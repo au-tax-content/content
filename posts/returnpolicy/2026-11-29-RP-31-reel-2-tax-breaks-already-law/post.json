@@ -1,0 +1,24 @@
+{
+  "id": "RP-31",
+  "account": "returnpolicy",
+  "type": "reel",
+  "series": "News decoded",
+  "pillar": "Lead pillar",
+  "publish_at": "2026-11-29T19:30:00+11:00",
+  "caption": "2 tax breaks for workers that are already law. No forms for either.\n\n1. The $1,000 standard deduction (from 2026–27). Automatic for Australian residents who earn wages, with no receipts needed. It first appears in the return you lodge after 30 June 2027.\n\n2. The working Australians tax offset (from 2027–28). A new offset of up to $250 a year for residents with income from work. It passed Parliament in June 2026.\n\nThe fine print:\n- A deduction lowers your taxable income. $1,000 saves about $300 at the 30% rate.\n- An offset comes straight off the tax itself, so $250 is worth up to $250.\n- The offset is non-refundable: it can reduce your tax to zero, not below.\n\nWhich one did you already know about?\n\n#australiantax #taxreturn #taxcuts #paylesslegally #moneytips",
+  "video": "reel.mp4",
+  "cover": "cover.jpg",
+  "images": [],
+  "figures_checked": [
+    "Standard deduction up to $1,000 from 2026–27, automatic, residents with labour income, no records; actual work claims reduce it; $300 work-expense and $150 laundry no-receipt exceptions end 1 July 2026; union fees, donations, tax agent fees, income protection premiums, personal super contributions, investment/rental deductions claimable on top (ATO Standard deduction for work-related expenses, updated 2 Nov 2026, checked 15 Nov 2026)",
+    "Working Australians tax offset: non-refundable, up to $250, residents with net labour income, from 2027–28, now law (passed 25 June 2026) (ATO new legislation page, updated 23 July 2026, checked 15 Nov 2026)",
+    "Resident rates 2026–27: nil to $18,200; 15c to $45,000; $4,020 + 30c to $135,000; $31,020 + 37c to $190,000; $51,370 + 45c above; Medicare levy 2% not included (ATO Tax rates – Australian residents, checked 15 Nov 2026)"
+  ],
+  "trial": true,
+  "graduation": "SS_PERFORMANCE",
+  "audio_id": "1140588937751449",
+  "audio_note": "New Horizons - Giulio Cercato (upbeat corporate)",
+  "format": "motion",
+  "modelled_on": "Rule-change news explainers ('Big news from the ATO': 832K views, 8.8x median)",
+  "status": "queued"
+}

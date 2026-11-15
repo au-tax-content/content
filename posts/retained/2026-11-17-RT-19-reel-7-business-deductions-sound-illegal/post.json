@@ -1,0 +1,26 @@
+{
+  "id": "RT-19",
+  "account": "retained",
+  "type": "reel",
+  "series": "Keep more",
+  "pillar": "Lead pillar",
+  "publish_at": "2026-11-17T19:30:00+11:00",
+  "caption": "7 business deductions that sound illegal (but aren't). Save this for June.\n\n1. A $19,000 machine, deducted in one year. The instant asset write-off: assets under $20,000 each, turnover under $10 million, first used or installed in the year you claim. Permanent since 1 July 2026.\n2. Next year's insurance, this year. Small businesses can deduct prepaid expenses covering up to 12 months.\n3. Your own super. Sole traders can usually claim their personal contributions, up to the $32,500 concessional cap (2026–27).\n4. A debt nobody paid you. Bad debts are a deductible operating expense.\n5. Interest on money borrowed for the business.\n6. Your accountant's, bookkeeper's and registered tax agent's fees.\n7. The business share of your phone and internet.\n\nThe catch is the same for all seven: each one is real money out the door (or income you never received). They suit a business that had the expense anyway.\n\nWhich one are you not claiming?\n\n#smallbusinessaustralia #taxdeductions #soletrader #keepmore #australiantax",
+  "video": "reel.mp4",
+  "cover": "cover.jpg",
+  "images": [],
+  "figures_checked": [
+    "Instant asset write-off: assets costing less than $20,000 each, permanent from 1 July 2026, aggregated turnover under $10 million, first used or installed ready for use in the year (ATO Small business newsroom, updated 4 Sept 2026, checked 15 Nov 2026)",
+    "Prepaid expenses 12-month rule for small business: service period 12 months or less, ending by the end of the next income year (ATO Deductions for prepaid expenses 2026, checked 12 Nov 2026)",
+    "Sole traders and partners can't pay themselves a salary or wage: any nominal payment is a distribution of profit; a sole trader can usually claim a deduction for their own super contributions (ATO Deductions for salaries, wages and super contributions, checked 15 Nov 2026)",
+    "Concessional contributions cap $32,500 for 2026–27 (ATO Key super rates and thresholds, checked 15 Nov 2026)",
+    "Business operating expenses generally deductible: bad debts, bank fees and interest on business borrowings, registered tax agent/accountant/bookkeeper fees, insurance premiums, business portion of phone and internet (ATO Deductions for other operating expenses, checked 15 Nov 2026)"
+  ],
+  "trial": true,
+  "graduation": "SS_PERFORMANCE",
+  "audio_id": "1296207915590828",
+  "audio_note": "Look At Me Now (Instrumental) - ill Think in ink (hip-hop instrumental)",
+  "format": "list loop",
+  "modelled_on": "Faceless looping list Reels ('7 deductions that sound illegal (but aren't)': 960K and 661K views, 5x–190x the creators' medians)",
+  "status": "queued"
+}

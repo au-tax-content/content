@@ -1,0 +1,22 @@
+{
+  "id": "RP-22",
+  "account": "returnpolicy",
+  "type": "reel",
+  "series": "Myths and ATO letters",
+  "pillar": "Practical",
+  "publish_at": "2026-11-20T12:30:00+11:00",
+  "caption": "5 signs that \"ATO\" message is a scam. Send this to someone who'd click.\n\nThe ATO says it will never:\n1. Send an unsolicited SMS with a link in it.\n2. Ask for your TFN, bank details or myGov login by email.\n3. Threaten you with arrest or demand you stay on the line.\n4. Ask for payment by gift cards, crypto or cash delivery.\n5. Ask you to pay a fee to receive your refund.\n\nNot sure if a message or call is real? Don't reply. Call the ATO on 1800 008 540 (check the number on ato.gov.au first), or log in to myGov yourself by typing the address, never through a link.\n\nScam messages spike around tax time and refund season.\n\nHave you had one of these this year?\n\n#scamalert #ato #mygov #taxreturn #australia",
+  "video": "reel.mp4",
+  "cover": "cover.jpg",
+  "images": [],
+  "figures_checked": [
+    "ATO will never: send an unsolicited SMS with a hyperlink; ask for TFN, bank details or myGov login by email; threaten arrest or demand you stay on the line; ask for payment by gift cards or crypto; ask for a fee to release a refund. Verify on 1800 008 540 (ATO Verify or report an ATO scam, checked 15 Nov 2026)"
+  ],
+  "trial": true,
+  "graduation": "SS_PERFORMANCE",
+  "audio_id": "311790831524696",
+  "audio_note": "Cyber Hacking - Ross Lara (tense, fits a scam warning)",
+  "format": "list loop",
+  "modelled_on": "Faceless looping list Reels ('7 deductions that sound illegal (but aren't)': 960K and 661K views, 5x–190x the creators' medians)",
+  "status": "queued"
+}

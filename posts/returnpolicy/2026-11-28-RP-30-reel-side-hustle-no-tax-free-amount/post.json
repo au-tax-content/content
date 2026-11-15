@@ -1,0 +1,23 @@
+{
+  "id": "RP-30",
+  "account": "returnpolicy",
+  "type": "reel",
+  "series": "Myths and ATO letters",
+  "pillar": "Practical",
+  "publish_at": "2026-11-28T19:30:00+11:00",
+  "caption": "Side hustle this summer? There's no tax-free amount for it.\n\nThree things people get wrong:\n\n1. The $18,200 tax-free threshold is per person, not per income stream. If your main job already uses it, your side income is taxed from the first dollar, at your marginal rate.\n\n2. There's no minimum. If you're doing it to make money, the ATO says the income goes in your tax return. (A genuine hobby is different, but there's no dollar limit that decides it.)\n\n3. The ATO can see it. Under the sharing economy reporting regime, platforms report what they pay sellers, drivers and hosts, and it's matched against returns.\n\nThe upside: real costs of earning that income can be deductible, with records.\n\nNo tax is withheld from side income, so the bill arrives after you lodge.\n\nWhat's your summer side hustle?\n\n#sidehustle #australiantax #taxreturn #gigeconomy #moneytips",
+  "video": "reel.mp4",
+  "cover": "cover.jpg",
+  "images": [],
+  "figures_checked": [
+    "Tax-free threshold $18,200, claimed from one payer only; all income including side-hustle income must be declared, no minimum; platforms report seller income to the ATO under the Sharing Economy Reporting Regime (ATO Paying tax on multiple sources of income; Joined the bustle of a side hustle, checked 15 Nov 2026)",
+    "Business vs hobby: no dollar threshold; ATO looks at intention, profit motive and prospect, size and scale, repetition, and businesslike operation (records, advertising, plan, ABN) (ATO Are you in business?, checked 15 Nov 2026)"
+  ],
+  "trial": true,
+  "graduation": "SS_PERFORMANCE",
+  "audio_id": "1332748742337307",
+  "audio_note": "Summer Bummer - Summer Islands (light, summery)",
+  "format": "motion",
+  "modelled_on": "Myth-bust / 'stop doing this' hooks with one number per card",
+  "status": "queued"
+}

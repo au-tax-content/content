@@ -1,0 +1,22 @@
+{
+  "id": "RP-18",
+  "account": "returnpolicy",
+  "type": "reel",
+  "series": "News decoded",
+  "pillar": "Lead pillar",
+  "publish_at": "2026-11-16T12:30:00+11:00",
+  "caption": "The $300 no-receipt rule is gone.\n\nFor years you could claim up to $300 of work expenses without receipts. From 1 July 2026 that exception no longer applies, and neither does the $150 laundry one.\n\nWhat replaced it: a standard deduction of up to $1,000 for work-related expenses, starting with the 2026–27 return. It's automatic for Australian residents who earn wages and it needs no receipts.\n\nThe catch: if you claim your actual expenses instead, each dollar reduces the $1,000 and the claims need records. So itemising only pays off when your real work costs add up to more than $1,000.\n\nUnion fees, donations and your tax agent's fee sit on top either way.\n\nDid you know the $300 rule had ended?\n\n#taxreturn #australiantax #taxdeductions #paylesslegally #ato",
+  "video": "reel.mp4",
+  "cover": "cover.jpg",
+  "images": [],
+  "figures_checked": [
+    "Standard deduction up to $1,000 from 2026–27, automatic, residents with labour income, no records; actual work claims reduce it; $300 work-expense and $150 laundry no-receipt exceptions end 1 July 2026; union fees, donations, tax agent fees, income protection premiums, personal super contributions, investment/rental deductions claimable on top (ATO Standard deduction for work-related expenses, updated 2 Nov 2026, checked 15 Nov 2026)"
+  ],
+  "trial": true,
+  "graduation": "SS_PERFORMANCE",
+  "audio_id": "182724984831178",
+  "audio_note": "Click (Instrumental) - Giulio Cercato (upbeat instrumental)",
+  "format": "motion",
+  "modelled_on": "Rule-change news explainers ('Big news from the ATO': 832K views, 8.8x median)",
+  "status": "queued"
+}

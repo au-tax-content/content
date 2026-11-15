@@ -1,0 +1,23 @@
+{
+  "id": "RP-26",
+  "account": "returnpolicy",
+  "type": "reel",
+  "series": "News decoded",
+  "pillar": "Practical",
+  "publish_at": "2026-11-24T19:30:00+11:00",
+  "caption": "HELP debt? Here's what comes out in 2026–27.\n\nThe first $69,528 of repayment income is repayment-free. Above that, the compulsory repayment is 15c for every dollar over $69,528 (up to $129,717, where the rate steps up).\n\nExamples:\n- $80,000 → about $1,571\n- $100,000 → about $4,571\n- $120,000 → about $7,571\n\nIt's calculated only on the income above the threshold, not on your whole income.\n\nThe catch: the extra your employer withholds isn't taken off your loan each payday. The ATO applies it in one lump after you lodge your tax return. If payroll doesn't know about your loan, nothing extra is withheld and the repayment lands as a bill.\n\nIs your HELP debt ticked on your tax file declaration?\n\n#helpdebt #hecs #australiantax #taxreturn #moneytips",
+  "video": "reel.mp4",
+  "cover": "cover.jpg",
+  "images": [],
+  "figures_checked": [
+    "Study loan repayments 2026–27: nil to $69,528; 15c per $1 over $69,528 up to $129,717; calculated only on income above the threshold; employer withholding is applied to the loan as a lump sum after the return is lodged (ATO Study and training loan repayment thresholds and rates; Compulsory repayments, checked 15 Nov 2026)",
+    "Arithmetic: 15% x ($80,000 - $69,528) = $1,570.80; x ($100,000 - $69,528) = $4,570.80; x ($120,000 - $69,528) = $7,570.80"
+  ],
+  "trial": true,
+  "graduation": "SS_PERFORMANCE",
+  "audio_id": "235065218897660",
+  "audio_note": "Spontaneous (Instrumental) - Alex Blue (lofi)",
+  "format": "motion",
+  "modelled_on": "Money-milestone and number-reveal hooks (Humphrey Yang's '$100K changes everything' series; '$X a year' reveals)",
+  "status": "queued"
+}

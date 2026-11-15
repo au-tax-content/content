@@ -1,0 +1,24 @@
+{
+  "id": "RP-25",
+  "account": "returnpolicy",
+  "type": "reel",
+  "series": "Pay less, legally",
+  "pillar": "Lead pillar",
+  "publish_at": "2026-11-23T19:30:00+11:00",
+  "caption": "Stop buying things \"for the tax deduction\". Do this maths first.\n\nA deduction is not a refund. It lowers your taxable income, so what you get back is your tax rate on the amount. On the 30% rate ($45,001 to $135,000 in 2026–27) that's 30c per dollar, plus the 2% Medicare levy.\n\nSo a $1,000 laptop for work:\n- You spend $1,000.\n- Your tax drops by about $320.\n- You're still $680 out of pocket.\n\nAnd a work item that costs more than $300 is generally claimed over its effective life, not all in one year.\n\nWhen is it worth it? When you needed the thing for work anyway. Then the deduction is a discount on something you were buying. It's never free.\n\nWho told you \"just claim it on tax\"?\n\n#taxdeductions #taxreturn #australiantax #paylesslegally #moneytips",
+  "video": "reel.mp4",
+  "cover": "cover.jpg",
+  "images": [],
+  "figures_checked": [
+    "Resident rates 2026–27: nil to $18,200; 15c to $45,000; $4,020 + 30c to $135,000; $31,020 + 37c to $190,000; $51,370 + 45c above; Medicare levy 2% not included (ATO Tax rates – Australian residents, checked 15 Nov 2026)",
+    "Work items costing $300 or less can be claimed immediately; over $300 claimed as decline in value over the effective life (ATO Fixed rate method page, 'what you can claim separately', checked 15 Nov 2026)",
+    "Arithmetic: $1,000 x (30% + 2%) = $320"
+  ],
+  "trial": true,
+  "graduation": "SS_PERFORMANCE",
+  "audio_id": "1403284444689007",
+  "audio_note": "Good Time (Instrumental) - Company Money (hip-hop instrumental)",
+  "format": "motion",
+  "modelled_on": "Myth-bust / 'stop doing this' hooks with one number per card",
+  "status": "queued"
+}

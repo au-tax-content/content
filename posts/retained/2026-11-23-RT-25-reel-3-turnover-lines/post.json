@@ -1,0 +1,26 @@
+{
+  "id": "RT-25",
+  "account": "retained",
+  "type": "reel",
+  "series": "Keep more",
+  "pillar": "Lead pillar",
+  "publish_at": "2026-11-23T19:30:00+11:00",
+  "caption": "3 turnover lines that change your tax (2026–27). Turnover means sales, not profit.\n\n$75,000: GST switches on. Once your GST turnover reaches $75,000 you have 21 days to register. From then you add 10% to your prices, claim GST credits on business costs and lodge a BAS.\n\nUnder $5 million: the small business income tax offset. Sole traders and partners get 16% of the tax on their business income taken off, capped at $1,000. It's worked out automatically in your return.\n\nUnder $10 million: the small business write-offs. The $20,000 instant asset write-off and the 12-month prepayment rule both sit behind this line.\n\nOne more for companies: under $50 million (and mostly active income), the company tax rate is 25%.\n\nMost new businesses only ever meet the first one, and usually by surprise.\n\nHow close are you to $75K?\n\n#smallbusinessaustralia #gst #soletrader #keepmore #australiantax",
+  "video": "reel.mp4",
+  "cover": "cover.jpg",
+  "images": [],
+  "figures_checked": [
+    "GST: register within 21 days of GST turnover reaching $75,000; ride-sourcing and taxi drivers must register regardless of turnover (ATO Registering for GST, checked 11 Nov 2026)",
+    "Small business income tax offset: 16% of tax on net small business income, capped at $1,000, aggregated turnover under $5 million, sole traders and partners only, 2026–27 (ATO Small business income tax offset, checked 15 Nov 2026)",
+    "Instant asset write-off: assets costing less than $20,000 each, permanent from 1 July 2026, aggregated turnover under $10 million, first used or installed ready for use in the year (ATO Small business newsroom, updated 4 Sept 2026, checked 15 Nov 2026)",
+    "Prepaid expenses 12-month rule for small business: service period 12 months or less, ending by the end of the next income year (ATO Deductions for prepaid expenses 2026, checked 12 Nov 2026)",
+    "Company tax: base rate entity 25% (turnover under $50 million, passive income 80% or less), 2026–27 (ATO Company tax rate changes, checked 11 Nov 2026)"
+  ],
+  "trial": true,
+  "graduation": "SS_PERFORMANCE",
+  "audio_id": "497518643975940",
+  "audio_note": "We Fly High - Giulio Cercato (upbeat corporate)",
+  "format": "motion",
+  "modelled_on": "Money-milestone and number-reveal hooks (Humphrey Yang's '$100K changes everything' series; '$X a year' reveals)",
+  "status": "queued"
+}

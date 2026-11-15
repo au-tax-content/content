@@ -1,0 +1,23 @@
+{
+  "id": "RP-27",
+  "account": "returnpolicy",
+  "type": "reel",
+  "series": "Pay less, legally",
+  "pillar": "Lead pillar",
+  "publish_at": "2026-11-25T19:30:00+11:00",
+  "caption": "6 claims that sit on top of the $1,000 standard deduction. Save this for your 2026–27 return.\n\nThe new standard deduction covers work-related expenses like uniforms, laundry, working from home and work car costs. These are separate, and they don't reduce it:\n\n1. Union fees and professional association memberships.\n2. Donations of $2 or more to a registered charity (a DGR).\n3. Your registered tax agent's fee.\n4. Income protection insurance premiums you pay yourself.\n5. Personal super contributions you claim as a deduction (conditions apply).\n6. Investment and rental property deductions.\n\nSo someone with $400 of union fees and a $250 tax agent fee still gets the full $1,000 as well.\n\nThe catch: unlike the standard deduction, each of these needs a record.\n\nWhich of these do you already claim?\n\n#taxdeductions #taxreturn #australiantax #paylesslegally #standarddeduction",
+  "video": "reel.mp4",
+  "cover": "cover.jpg",
+  "images": [],
+  "figures_checked": [
+    "Standard deduction up to $1,000 from 2026–27, automatic, residents with labour income, no records; actual work claims reduce it; $300 work-expense and $150 laundry no-receipt exceptions end 1 July 2026; union fees, donations, tax agent fees, income protection premiums, personal super contributions, investment/rental deductions claimable on top (ATO Standard deduction for work-related expenses, updated 2 Nov 2026, checked 15 Nov 2026)",
+    "Registered tax agent fee deductible as cost of managing tax affairs; donations of $2 or more to a DGR with no benefit in return (ATO Deductions for donations, investments and managing your tax affairs, checked 15 Nov 2026)"
+  ],
+  "trial": true,
+  "graduation": "SS_PERFORMANCE",
+  "audio_id": "3285338251672713",
+  "audio_note": "Step Up (Instrumental) - Shanice (upbeat instrumental)",
+  "format": "list loop",
+  "modelled_on": "Faceless looping list Reels ('7 deductions that sound illegal (but aren't)': 960K and 661K views, 5x–190x the creators' medians)",
+  "status": "queued"
+}

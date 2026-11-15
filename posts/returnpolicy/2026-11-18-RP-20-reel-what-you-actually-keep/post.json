@@ -1,0 +1,24 @@
+{
+  "id": "RP-20",
+  "account": "returnpolicy",
+  "type": "reel",
+  "series": "Pay less, legally",
+  "pillar": "Lead pillar",
+  "publish_at": "2026-11-18T12:30:00+11:00",
+  "caption": "What you actually keep on your salary in 2026–27.\n\n$75,000 → $60,480 (about $1,163 a week)\n$100,000 → $77,480 (about $1,490 a week)\n$125,000 → $94,480 (about $1,817 a week)\n$150,000 → $110,430 (about $2,124 a week)\n$200,000 → $140,130 (about $2,695 a week)\n\nThat's income tax at 2026–27 resident rates plus the 2% Medicare levy, on salary before super. It leaves out HELP repayments, tax offsets and the Medicare levy surcharge (which can apply over $105,000 for singles without private hospital cover), so your own number will differ.\n\nThe gap between the two columns is what deductions, super and offsets work on.\n\nWhich line is closest to you?\n\n#salary #australiantax #takehomepay #paylesslegally #moneytips",
+  "video": "reel.mp4",
+  "cover": "cover.jpg",
+  "images": [],
+  "figures_checked": [
+    "Resident rates 2026–27: nil to $18,200; 15c to $45,000; $4,020 + 30c to $135,000; $31,020 + 37c to $190,000; $51,370 + 45c above; Medicare levy 2% not included (ATO Tax rates – Australian residents, checked 15 Nov 2026)",
+    "Arithmetic: $75K tax $13,020 + levy $1,500; $100K $20,520 + $2,000; $125K $28,020 + $2,500; $150K $36,570 + $3,000; $200K $55,870 + $4,000",
+    "Medicare levy surcharge 2026–27: singles over $105,000, families over $210,000; 1% / 1.25% / 1.5% tiers (ATO Medicare levy surcharge income, thresholds and rates, checked 15 Nov 2026)"
+  ],
+  "trial": true,
+  "graduation": "SS_PERFORMANCE",
+  "audio_id": "498296863292261",
+  "audio_note": "All Star (Instrumental) - Company Money (hip-hop instrumental)",
+  "format": "ladder",
+  "modelled_on": "Money-milestone and number-reveal hooks (Humphrey Yang's '$100K changes everything' series; '$X a year' reveals)",
+  "status": "queued"
+}

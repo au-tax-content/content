@@ -1,0 +1,22 @@
+{
+  "id": "RP-24",
+  "account": "returnpolicy",
+  "type": "reel",
+  "series": "Pay less, legally",
+  "pillar": "Lead pillar",
+  "publish_at": "2026-11-22T19:30:00+11:00",
+  "caption": "$21 billion in lost super. Is some of it yours?\n\nThe ATO says more than $21 billion in lost and ATO-held super is waiting to be claimed. About 4 million people held two or more super accounts at 30 June 2026, and accounts from old jobs are the ones that go missing.\n\nHow to check (free, about 2 minutes):\n1. Log in to myGov.\n2. Open ATO online services.\n3. Go to Super.\n\nYou'll see every account in your name, including any super the ATO is holding for you, and you can combine them there.\n\nOne catch: an old fund may include insurance. Check before you close it.\n\nHave you ever found a super account you'd forgotten about?\n\n#lostsuper #superannuation #mygov #moneytips #australia",
+  "video": "reel.mp4",
+  "cover": "cover.jpg",
+  "images": [],
+  "figures_checked": [
+    "Over $21 billion in lost and ATO-held super; about 4 million people held 2 or more super accounts at 30 June 2026 (ATO media release '$21 billion in lost super: find yours', 18 Aug 2026, checked 15 Nov 2026)"
+  ],
+  "trial": true,
+  "graduation": "SS_PERFORMANCE",
+  "audio_id": "2263439694405407",
+  "audio_note": "Golden Ascent - Afterlight (uplifting)",
+  "format": "motion",
+  "modelled_on": "'Money waiting to be claimed' headlines ('500,000+ Aussies eligible for $249M': 1M views, 11x median)",
+  "status": "queued"
+}

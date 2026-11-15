@@ -1,0 +1,22 @@
+{
+  "id": "RT-26",
+  "account": "retained",
+  "type": "reel",
+  "series": "News decoded",
+  "pillar": "Practical",
+  "publish_at": "2026-11-24T19:30:00+11:00",
+  "caption": "Have staff? Super is now due every payday.\n\nPayday Super started on 1 July 2026. Instead of paying super guarantee once a quarter, employers pay it for each payday.\n\nThe deadline: contributions must reach the employee's super fund within 7 business days of payday (there are some exceptions, such as for new employees). The rate is still 12%.\n\nIf it's late: the ATO now assesses the super guarantee charge itself. It's worked out on qualifying earnings and includes interest that compounds daily plus an administrative uplift.\n\nFor a small employer the practical change is cash flow: super leaves the account every pay run, not in four lumps a year.\n\nHas your payroll software been switched over?\n\n#paydaysuper #smallbusinessaustralia #employers #superannuation #payroll",
+  "video": "reel.mp4",
+  "cover": "cover.jpg",
+  "images": [],
+  "figures_checked": [
+    "Payday Super from 1 July 2026: super guarantee paid for each payday, contributions to reach the fund within 7 business days of payday, rate 12%; super guarantee charge assessed by the ATO on qualifying earnings with daily compounding interest and an administrative uplift (ATO About Payday Super, checked 15 Nov 2026)"
+  ],
+  "trial": true,
+  "graduation": "SS_PERFORMANCE",
+  "audio_id": "735839672867594",
+  "audio_note": "Astral Plane (Instrumental) - bbox (corporate)",
+  "format": "motion",
+  "modelled_on": "Rule-change news explainers ('Big news from the ATO': 832K views, 8.8x median)",
+  "status": "queued"
+}

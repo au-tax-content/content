@@ -23,3 +23,17 @@
 3. **End with a question** ("Which one do you use? Agree or disagree?") on non-keyword posts to pull comments; keyword (ABN/CLAIM) only when a lead magnet is the CTA.
 4. **Carousels are not dead** once there are followers (Karlton's feed beats his Reels), so keep making them, but cut every one into a Reel while follower count is near zero.
 5. Ideas needing ATO verification before use: car limit and dual-cab ute treatment, paying family members in a business (must be reasonable for work actually done), the 2026–27 taxable-income list.
+
+## 15 Nov 2026: what gets outlier views (vidIQ outlier search, Instagram + TikTok, last 30–130 days)
+
+Outlier = views vs that creator's own median. Faceless or near-faceless winners first, because that's what we can make.
+- **Short looping lists.** "7 tax deductions that sound illegal (but aren't)": 960K views on a 37K account and 661K on a 6K account (190x median). One static screen, a numbered list, music only, loops so people re-read. An Australian 17K account got 182K (103x) with a 7-item list over a beach clip. Cheapest format, biggest multiple.
+- **Tier lists / rankings.** A tax tier list: 6.2M views (1,300x median). "Ranking the best cities to get rich in": 1.3M (51x).
+- **Bracket explainers.** "Tax brackets, explained with buckets": 1.5M (1,300x). Opens with the wrong belief as a question.
+- **Rule-change news.** "Big news from the ATO: credit card payments end 30/11/26": 832K (8.8x) on an Australian tax account. Fast, plain, one change, what to do.
+- **Money waiting to be claimed / "nobody told us this existed".** 1M and 542K views.
+- **Milestones and number reveals** (Humphrey Yang's "$100K changes everything" series; "$100K is the new poverty line": 510K).
+- Also big but not for us: on-camera rants about the ATO, skits (2.5M), street interviews, political commentary.
+
+What we did with it: `brand/reel_formats.py` (list loop, tier, ladder, buckets, colour hook covers, news strap) and 28 Reels for 16–29 Nov. Hooks are ours, facts are Australian and checked on ato.gov.au; no creator's post, caption or design was copied. We say "sound illegal / made up (but are legal)", never "hack", "loophole" or "the ATO won't tell you" (the Australian list that did 182K used both: don't).
+Next ideas from the same data: an animated two-character skit (Penny vs "the paperwork"), "what $X buys you" comparisons, a reply-to-a-headline news format.

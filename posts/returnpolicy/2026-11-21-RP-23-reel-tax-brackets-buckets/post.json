@@ -1,0 +1,23 @@
+{
+  "id": "RP-23",
+  "account": "returnpolicy",
+  "type": "reel",
+  "series": "Myths and ATO letters",
+  "pillar": "Lead pillar",
+  "publish_at": "2026-11-21T19:30:00+11:00",
+  "caption": "Earn $100,000 and you're \"in the 30% bracket\". Do you pay $30,000?\n\nNo. Tax works like buckets (2026–27 resident rates):\n- The first $18,200: 0%.\n- The next $26,800 (to $45,000): 15% = $4,020.\n- The next $55,000 (to $100,000): 30% = $16,500.\n\nTotal: $20,520, plus the 2% Medicare levy. About 20.5% of your income, not 30%.\n\nThat's also why a pay rise can never leave you with less. Cross $135,000 and only the dollars above $135,000 are taxed at 37%. The rest is taxed exactly as before.\n\nDid anyone ever teach you this at school?\n\n#taxbrackets #australiantax #moneytips #payrise #paylesslegally",
+  "video": "reel.mp4",
+  "cover": "cover.jpg",
+  "images": [],
+  "figures_checked": [
+    "Resident rates 2026–27: nil to $18,200; 15c to $45,000; $4,020 + 30c to $135,000; $31,020 + 37c to $190,000; $51,370 + 45c above; Medicare levy 2% not included (ATO Tax rates – Australian residents, checked 15 Nov 2026)",
+    "Arithmetic: 15% x $26,800 = $4,020; 30% x $55,000 = $16,500; total $20,520"
+  ],
+  "trial": true,
+  "graduation": "SS_PERFORMANCE",
+  "audio_id": "544713431841568",
+  "audio_note": "Lofi Street - bbox (lofi, explainer)",
+  "format": "buckets",
+  "modelled_on": "Tax brackets explained with buckets (1.5M views, 1,300x median)",
+  "status": "queued"
+}

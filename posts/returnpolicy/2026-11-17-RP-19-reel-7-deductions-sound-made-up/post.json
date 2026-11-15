@@ -1,0 +1,25 @@
+{
+  "id": "RP-19",
+  "account": "returnpolicy",
+  "type": "reel",
+  "series": "Pay less, legally",
+  "pillar": "Lead pillar",
+  "publish_at": "2026-11-17T19:30:00+11:00",
+  "caption": "7 deductions that sound made up (but are legal). Save this for tax time.\n\n1. Sunscreen: if your job has you outdoors for long periods.\n2. Sunglasses and a hat: same condition. Used privately too? Only the work share.\n3. Your tax agent's fee: the cost of managing your tax affairs, claimed in the following year's return.\n4. Washing your uniform: the ATO accepts $1 a load (50c if it's mixed with other clothes). It has to be a real uniform, occupation-specific or protective clothing. Plain black pants and suits don't count.\n5. Union and professional membership fees.\n6. Income protection insurance premiums you pay yourself.\n7. Donations of $2 or more to a registered charity (a DGR), when you get nothing in return. Raffle tickets don't count.\n\nNumbers 3, 5, 6 and 7 sit on top of the new $1,000 standard deduction (2026–27). Work costs like 1, 2 and 4 count against it. Keep records for all of them.\n\nWhich one did you not know about?\n\n#taxdeductions #taxreturn #australiantax #paylesslegally #moneytips",
+  "video": "reel.mp4",
+  "cover": "cover.jpg",
+  "images": [],
+  "figures_checked": [
+    "Sunscreen, sunhats and sunglasses claimable if required to work outdoors for prolonged periods; apportion private use (ATO Protective items, equipment and products, checked 15 Nov 2026)",
+    "Laundry reasonable basis $1 per load work clothes only, 50c mixed; conventional clothing not claimable; occupation-specific, protective, compulsory or registered uniforms only (ATO Clothing, laundry and dry-cleaning expenses, checked 15 Nov 2026)",
+    "Registered tax agent fee deductible as cost of managing tax affairs; donations of $2 or more to a DGR with no benefit in return (ATO Deductions for donations, investments and managing your tax affairs, checked 15 Nov 2026)",
+    "Standard deduction up to $1,000 from 2026–27, automatic, residents with labour income, no records; actual work claims reduce it; $300 work-expense and $150 laundry no-receipt exceptions end 1 July 2026; union fees, donations, tax agent fees, income protection premiums, personal super contributions, investment/rental deductions claimable on top (ATO Standard deduction for work-related expenses, updated 2 Nov 2026, checked 15 Nov 2026)"
+  ],
+  "trial": true,
+  "graduation": "SS_PERFORMANCE",
+  "audio_id": "1222029395603696",
+  "audio_note": "Glowsticks In The Dark (Reels Sound - Listicle) - Ecklectic Music",
+  "format": "list loop",
+  "modelled_on": "Faceless looping list Reels ('7 deductions that sound illegal (but aren't)': 960K and 661K views, 5x–190x the creators' medians)",
+  "status": "queued"
+}

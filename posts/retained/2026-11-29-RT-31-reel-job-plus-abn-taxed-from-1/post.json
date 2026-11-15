@@ -1,0 +1,25 @@
+{
+  "id": "RT-31",
+  "account": "retained",
+  "type": "reel",
+  "series": "First-year ABN",
+  "pillar": "Lead pillar",
+  "publish_at": "2026-11-29T19:30:00+11:00",
+  "caption": "Job + ABN? Your side income is taxed from the first dollar.\n\nA new ABN doesn't come with a new tax-free threshold. The $18,200 applies once, across all your income, and a salary usually uses it up.\n\nSo the business profit stacks on top:\n- Salary: $80,000\n- ABN profit: $20,000\n- Tax on that $20,000: about $6,400 (30% plus the 2% Medicare levy, 2026–27)\n\nAnd nobody withholds it. It arrives as a bill after you lodge.\n\nWhat helps:\n- Claiming the real costs of running the business, which come off the profit before it's taxed.\n- Knowing your rate: at this income about 32c of each extra dollar goes to tax.\n- The small business tax offset, up to $1,000, worked out automatically for sole traders.\n\nIs your ABN a side hustle or the main thing?\n\n#abn #sidehustle #soletrader #smallbusinessaustralia #australiantax",
+  "video": "reel.mp4",
+  "cover": "cover.jpg",
+  "images": [],
+  "figures_checked": [
+    "Tax-free threshold $18,200, claimed from one payer only; all income including side-hustle income must be declared, no minimum; platforms report seller income to the ATO under the Sharing Economy Reporting Regime (ATO Paying tax on multiple sources of income; Joined the bustle of a side hustle, checked 15 Nov 2026)",
+    "Resident rates 2026–27: nil to $18,200; 15c to $45,000; $4,020 + 30c to $135,000; $31,020 + 37c to $190,000; $51,370 + 45c above; Medicare levy 2% not included (ATO Tax rates – Australian residents, checked 15 Nov 2026)",
+    "Small business income tax offset: 16% of tax on net small business income, capped at $1,000, aggregated turnover under $5 million, sole traders and partners only, 2026–27 (ATO Small business income tax offset, checked 15 Nov 2026)",
+    "Arithmetic: $20,000 x (30% + 2%) = $6,400"
+  ],
+  "trial": true,
+  "graduation": "SS_PERFORMANCE",
+  "audio_id": "4209504865938640",
+  "audio_note": "Enjoy Yourself - LAVLO (hip-hop instrumental)",
+  "format": "motion",
+  "modelled_on": "Myth-bust / 'stop doing this' hooks with one number per card",
+  "status": "queued"
+}

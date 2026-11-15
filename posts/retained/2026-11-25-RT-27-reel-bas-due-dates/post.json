@@ -1,0 +1,23 @@
+{
+  "id": "RT-27",
+  "account": "retained",
+  "type": "reel",
+  "series": "First-year ABN",
+  "pillar": "Practical",
+  "publish_at": "2026-11-25T19:30:00+11:00",
+  "caption": "Quarterly BAS due dates. Screenshot this.\n\nJuly – September → 28 October\nOctober – December → 28 February\nJanuary – March → 28 April\nApril – June → 28 July\n\nThe October – December one is the next to land: 28 February. It already has an extra month built in, so there's no further extension for it.\n\nFor the other quarters, lodging online or through a registered tax or BAS agent can give you extra time.\n\nLodge late and a failure-to-lodge penalty can apply: one penalty unit ($364 since 1 July 2026) for each 28 days or part, up to five, for small entities. Interest also runs on anything unpaid.\n\nCan't pay on time? Lodging on time anyway stops the lodgment penalty from building.\n\nDo you lodge your own BAS or use an agent?\n\n#bas #smallbusinessaustralia #soletrader #gst #australiantax",
+  "video": "reel.mp4",
+  "cover": "cover.jpg",
+  "images": [],
+  "figures_checked": [
+    "Quarterly BAS due dates: Jul–Sep 28 October; Oct–Dec 28 February; Jan–Mar 28 April; Apr–Jun 28 July; lodging online or through a registered agent may give extra time, not for the Oct–Dec quarter (ATO Due dates for lodging and paying your BAS, checked 15 Nov 2026)",
+    "Failure to lodge penalty: one penalty unit ($364 from 1 July 2026) per 28 days or part, up to 5 periods, small entities (figures.md, checked 15 Nov 2026)"
+  ],
+  "trial": true,
+  "graduation": "SS_PERFORMANCE",
+  "audio_id": "1117685540117809",
+  "audio_note": "Shoreline (Instrumental) - Giulio Cercato (calm corporate)",
+  "format": "list loop",
+  "modelled_on": "Faceless looping list Reels ('7 deductions that sound illegal (but aren't)': 960K and 661K views, 5x–190x the creators' medians)",
+  "status": "queued"
+}

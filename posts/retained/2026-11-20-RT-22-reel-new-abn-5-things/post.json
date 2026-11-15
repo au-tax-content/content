@@ -1,0 +1,25 @@
+{
+  "id": "RT-22",
+  "account": "retained",
+  "type": "reel",
+  "series": "First-year ABN",
+  "pillar": "Practical",
+  "publish_at": "2026-11-20T12:30:00+11:00",
+  "caption": "New ABN? 5 things nobody tells you in year one.\n\n1. Nobody withholds your tax. An employer takes tax out of every pay. As a sole trader the whole bill arrives after you lodge, so the money has to be set aside along the way.\n\n2. You can't pay yourself a wage. The ATO treats a sole trader's \"wage\" as a distribution of profit. You're taxed on profit (income minus expenses) whether you take it out or not.\n\n3. GST starts at $75,000 of turnover, not profit. You have 21 days to register once you reach it.\n\n4. Nobody pays your super. The 12% super guarantee is for employees. Sole traders make their own contributions (and can usually claim a deduction).\n\n5. Year 2 brings PAYG instalments. Once your first return shows enough business income and tax, the ATO starts collecting the next year's tax as you go.\n\nWhich one caught you out?\n\n#abn #soletrader #smallbusinessaustralia #firstyearinbusiness #australiantax",
+  "video": "reel.mp4",
+  "cover": "cover.jpg",
+  "images": [],
+  "figures_checked": [
+    "Sole traders and partners can't pay themselves a salary or wage: any nominal payment is a distribution of profit; a sole trader can usually claim a deduction for their own super contributions (ATO Deductions for salaries, wages and super contributions, checked 15 Nov 2026)",
+    "GST: register within 21 days of GST turnover reaching $75,000; ride-sourcing and taxi drivers must register regardless of turnover (ATO Registering for GST, checked 11 Nov 2026)",
+    "Payday Super from 1 July 2026: super guarantee paid for each payday, contributions to reach the fund within 7 business days of payday, rate 12%; super guarantee charge assessed by the ATO on qualifying earnings with daily compounding interest and an administrative uplift (ATO About Payday Super, checked 15 Nov 2026)",
+    "PAYG instalments entry for individuals incl. sole traders: instalment income of $4,000 or more on the latest return, tax payable of $1,000 or more on the latest assessment, and estimated (notional) tax of $500 or more; ATO notifies via myGov, online services or letter (ATO Starting PAYG instalments, checked 15 Nov 2026)"
+  ],
+  "trial": true,
+  "graduation": "SS_PERFORMANCE",
+  "audio_id": "1540755600953104",
+  "audio_note": "Stardust (Instrumental) - Giulio Cercato (upbeat corporate)",
+  "format": "list loop",
+  "modelled_on": "Faceless looping list Reels ('7 deductions that sound illegal (but aren't)': 960K and 661K views, 5x–190x the creators' medians)",
+  "status": "queued"
+}

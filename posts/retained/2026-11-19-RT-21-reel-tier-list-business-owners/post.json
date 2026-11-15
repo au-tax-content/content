@@ -1,0 +1,28 @@
+{
+  "id": "RT-21",
+  "account": "retained",
+  "type": "reel",
+  "series": "Keep more",
+  "pillar": "Lead pillar",
+  "publish_at": "2026-11-19T19:30:00+11:00",
+  "caption": "I ranked 6 tax moves for business owners, legally. General info, 2026–27 rules.\n\nS: Your own super. Up to $32,500 a year in concessional contributions, taxed at 15% in the fund instead of your marginal rate. The catch: it's locked away until you retire.\n\nA: The $20,000 instant asset write-off. Deduct an asset in full in the year you first use it (turnover under $10 million). The catch: you still pay for the asset.\n\nA: The right structure. A base rate entity company pays 25%; a sole trader's top rate is 45%. The catch: getting money out, Division 7A and extra compliance. Worth paying a registered adviser to set up properly.\n\nB: The small business tax offset. Up to $1,000 off for sole traders and partners, automatically.\n\nC: Prepaying. Up to 12 months of expenses early. It moves a deduction forward; it doesn't create one.\n\nD: Buying things to claim them. A dollar spent to save about 30 cents.\n\nIt's a general view of how much each can move the bill. Your order depends on profit, cash flow and plans.\n\nWould you rank them differently?\n\n#smallbusinessaustralia #taxplanning #keepmore #soletrader #australiantax",
+  "video": "reel.mp4",
+  "cover": "cover.jpg",
+  "images": [],
+  "figures_checked": [
+    "Concessional contributions cap $32,500 for 2026–27 (ATO Key super rates and thresholds, checked 15 Nov 2026)",
+    "Sole traders and partners can't pay themselves a salary or wage: any nominal payment is a distribution of profit; a sole trader can usually claim a deduction for their own super contributions (ATO Deductions for salaries, wages and super contributions, checked 15 Nov 2026)",
+    "Instant asset write-off: assets costing less than $20,000 each, permanent from 1 July 2026, aggregated turnover under $10 million, first used or installed ready for use in the year (ATO Small business newsroom, updated 4 Sept 2026, checked 15 Nov 2026)",
+    "Company tax: base rate entity 25% (turnover under $50 million, passive income 80% or less), 2026–27 (ATO Company tax rate changes, checked 11 Nov 2026)",
+    "Resident rates 2026–27: nil to $18,200; 15c to $45,000; $4,020 + 30c to $135,000; $31,020 + 37c to $190,000; $51,370 + 45c above; Medicare levy 2% not included (ATO Tax rates – Australian residents, checked 15 Nov 2026)",
+    "Small business income tax offset: 16% of tax on net small business income, capped at $1,000, aggregated turnover under $5 million, sole traders and partners only, 2026–27 (ATO Small business income tax offset, checked 15 Nov 2026)",
+    "Prepaid expenses 12-month rule for small business: service period 12 months or less, ending by the end of the next income year (ATO Deductions for prepaid expenses 2026, checked 12 Nov 2026)"
+  ],
+  "trial": true,
+  "graduation": "SS_PERFORMANCE",
+  "audio_id": "1108285910189784",
+  "audio_note": "Knockout - Adam Griffith (driving, motivational)",
+  "format": "tier list",
+  "modelled_on": "Tier-list ranking Reels (6.2M and 1.3M views, 50x–1,300x median)",
+  "status": "queued"
+}

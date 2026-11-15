@@ -1,0 +1,24 @@
+{
+  "id": "RP-28",
+  "account": "returnpolicy",
+  "type": "reel",
+  "series": "Pay less, legally",
+  "pillar": "Lead pillar",
+  "publish_at": "2026-11-26T19:30:00+11:00",
+  "caption": "3 income lines that quietly change your tax in 2026–27.\n\n$105,000 (singles; $210,000 for families): without private hospital cover, the Medicare levy surcharge applies. It's 1%, 1.25% or 1.5% of your income depending on the tier, on top of the 2% Medicare levy.\n\n$135,000: the 37% rate starts. Only the dollars above $135,000 are taxed at 37%. Everything below is taxed as before.\n\n$250,000: Division 293. If your income plus concessional super contributions go over this, some of those contributions are taxed an extra 15%.\n\nNone of these is a reason to earn less. They're the points where it's worth understanding what changes, and where a registered adviser can earn their fee.\n\nWhich line are you closest to?\n\n#australiantax #taxbrackets #medicarelevy #paylesslegally #moneytips",
+  "video": "reel.mp4",
+  "cover": "cover.jpg",
+  "images": [],
+  "figures_checked": [
+    "Medicare levy surcharge 2026–27: singles over $105,000, families over $210,000; 1% / 1.25% / 1.5% tiers (ATO Medicare levy surcharge income, thresholds and rates, checked 15 Nov 2026)",
+    "Resident rates 2026–27: nil to $18,200; 15c to $45,000; $4,020 + 30c to $135,000; $31,020 + 37c to $190,000; $51,370 + 45c above; Medicare levy 2% not included (ATO Tax rates – Australian residents, checked 15 Nov 2026)",
+    "Salary-sacrificed super taxed at 15% in the fund; Division 293 above $250,000 (ATO Salary sacrificing super, checked 11 Nov 2026; Div 293 threshold re-confirmed 15 Nov 2026)"
+  ],
+  "trial": true,
+  "graduation": "SS_PERFORMANCE",
+  "audio_id": "1852688158814799",
+  "audio_note": "Hypnotized (Instrumental) - Company Money (hip-hop instrumental)",
+  "format": "motion",
+  "modelled_on": "Money-milestone and number-reveal hooks (Humphrey Yang's '$100K changes everything' series; '$X a year' reveals)",
+  "status": "queued"
+}

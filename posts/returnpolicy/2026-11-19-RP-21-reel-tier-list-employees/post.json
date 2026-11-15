@@ -1,0 +1,27 @@
+{
+  "id": "RP-21",
+  "account": "returnpolicy",
+  "type": "reel",
+  "series": "Pay less, legally",
+  "pillar": "Lead pillar",
+  "publish_at": "2026-11-19T19:30:00+11:00",
+  "caption": "I ranked 6 ways employees pay less tax, legally. General info, 2026–27 rules.\n\nS: Salary sacrifice into super. Contributions are taxed at 15% in the fund instead of your marginal rate. The catch: the $32,500 cap includes your employer's super, and the money is locked away until you retire.\n\nA: Carry-forward contributions. Unused cap from up to 5 previous years, if your total super balance was under $500,000 at 30 June last year.\n\nA: Itemising. If your real work costs are more than $1,000, claim them with records.\n\nB: The $1,000 standard deduction. Automatic and receipt-free, but it's the floor, not a strategy.\n\nC: Private hospital cover. Singles over $105,000 without it pay a Medicare levy surcharge of 1% to 1.5%. Whether cover costs less than the surcharge depends on you.\n\nD: Buying things \"for the deduction\". You spend a dollar to get about 30 cents back.\n\nThe ranking is a general view of how much each can move a typical employee's bill. Yours depends on your income, age and cash flow.\n\nAgree with the order?\n\n#paylesslegally #australiantax #salarysacrifice #superannuation #taxtips",
+  "video": "reel.mp4",
+  "cover": "cover.jpg",
+  "images": [],
+  "figures_checked": [
+    "Salary-sacrificed super taxed at 15% in the fund; Division 293 above $250,000 (ATO Salary sacrificing super, checked 11 Nov 2026; Div 293 threshold re-confirmed 15 Nov 2026)",
+    "Concessional contributions cap $32,500 for 2026–27 (ATO Key super rates and thresholds, checked 15 Nov 2026)",
+    "Carry-forward concessional contributions: total super balance under $500,000 at 30 June of the previous year, unused cap from up to 5 previous years (ATO Caps, limits and tax on super contributions, checked 15 Nov 2026)",
+    "Standard deduction up to $1,000 from 2026–27, automatic, residents with labour income, no records; actual work claims reduce it; $300 work-expense and $150 laundry no-receipt exceptions end 1 July 2026; union fees, donations, tax agent fees, income protection premiums, personal super contributions, investment/rental deductions claimable on top (ATO Standard deduction for work-related expenses, updated 2 Nov 2026, checked 15 Nov 2026)",
+    "Medicare levy surcharge 2026–27: singles over $105,000, families over $210,000; 1% / 1.25% / 1.5% tiers (ATO Medicare levy surcharge income, thresholds and rates, checked 15 Nov 2026)",
+    "Resident rates 2026–27: nil to $18,200; 15c to $45,000; $4,020 + 30c to $135,000; $31,020 + 37c to $190,000; $51,370 + 45c above; Medicare levy 2% not included (ATO Tax rates – Australian residents, checked 15 Nov 2026)"
+  ],
+  "trial": true,
+  "graduation": "SS_PERFORMANCE",
+  "audio_id": "523966117385305",
+  "audio_note": "Big Leagues (Instrumental) - Mike Floss (hip-hop instrumental)",
+  "format": "tier list",
+  "modelled_on": "Tier-list ranking Reels (6.2M and 1.3M views, 50x–1,300x median)",
+  "status": "queued"
+}

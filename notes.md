@@ -1,5 +1,15 @@
 # Notes: what's working (newest first)
 
+## 15 Nov 2026 (evening): content push on the stronger model (Daniel: "generate as much content as you can", model it on what gets views)
+
+- Benchmark study (vidIQ outliers + `stats/benchmarks.json`): faceless winners are short looping lists ("7 deductions that sound illegal (but aren't)", up to 190x a creator's median), tier lists (6.2M), bracket explainers (1.5M), rule-change news (832K on an Australian tax account), "money waiting for you" and milestone reveals. Details in `refs/benchmark-notes.md`.
+- New kit `brand/reel_formats.py`: list loop (receipt / ledger page), tier board, number ladder, bracket buckets, full-colour hook covers, news strap. motion.py now renders safely 4 at a time.
+- Queued 28 new Reels (RP-18…31, RT-18…31): every day 16–29 Nov at 7:30 pm, plus 12:30 pm on Mon 16, Wed 18, Fri 20. With RT/RP-11, 16, 17 that's 17 Reels per account over two weeks. Every figure checked on ato.gov.au today (figures.md).
+- New facts worth reusing: $300 no-receipt rule ended 1 July 2026; ATO credit cards extended to 30 June 2027; MLS $105K/$210K; HELP threshold $69,528; co-contribution $49,293/$64,293; $250 working Australians offset from 2027–28; Payday Super; $21B lost super.
+- Experiment (both accounts, judge 23 Nov): list loops and tier lists vs 5-card motion Reels on reach and saves+shares per 1,000.
+- Unsplash is blocked until Daniel confirms his email with Unsplash, so no photo backgrounds yet; covers use colour grounds instead.
+- Next Sunday (22 Nov): score this week by format; the week of 23–29 Nov is already full, so plan 30 Nov onward and double down on whichever format wins.
+
 ## 15 Nov 2026: weekly run (week of 16–22 Nov)
 
 **Scorecard (9–15 Nov):** Retained 4 followers (+1 from last week), Return Policy 3 (unchanged). Best reach: RT-14R (crayon re-cut) 101, RP-14R (crayon re-cut) 99 with 1 share (10.1 s+s/1k). RP-13 (carry-forward super) 46 reach. RT-13 (timing) 24 reach. Carousels RT-14/RP-14 near-zero reach (2 and 0). RT-15/RP-15 skipped correctly — crayon reels cancelled per Daniel's 13 Nov rule. Crayon re-cuts still the best Reel format; motion Reels trail. No saves this week.

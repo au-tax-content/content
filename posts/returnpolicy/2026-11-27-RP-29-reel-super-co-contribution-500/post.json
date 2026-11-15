@@ -1,0 +1,22 @@
+{
+  "id": "RP-29",
+  "account": "returnpolicy",
+  "type": "reel",
+  "series": "Pay less, legally",
+  "pillar": "Lead pillar",
+  "publish_at": "2026-11-27T19:30:00+11:00",
+  "caption": "The government might add $500 to your super. Most people who qualify never trigger it.\n\nIt's called the super co-contribution. Put your own after-tax money into super and the government can add up to 50c for every dollar, to a maximum of $500 a year. So $1,000 in can mean $500 added.\n\nWho gets it (2026–27):\n- Total income of $49,293 or less: the full amount.\n- It fades out and stops at $64,293.\n- At least 10% of your income comes from a job or business.\n- Under 71, not on a temporary visa, and you lodge a tax return.\n\nThe catch: it only applies to contributions you don't claim as a tax deduction, and the money is locked in super until you retire.\n\nThere's no form. The ATO works it out when you lodge and pays it to your fund.\n\nKnow someone working part-time who should see this?\n\n#superannuation #cocontribution #australiantax #paylesslegally #moneytips",
+  "video": "reel.mp4",
+  "cover": "cover.jpg",
+  "images": [],
+  "figures_checked": [
+    "Super co-contribution 2026–27: maximum $500, lower threshold $49,293, higher threshold $64,293; personal after-tax contribution not claimed as a deduction; 10% eligible income test; under 71; not a temporary visa holder; return lodged; no application needed (ATO Key super rates – Government contributions; Super co-contribution, checked 15 Nov 2026)"
+  ],
+  "trial": true,
+  "graduation": "SS_PERFORMANCE",
+  "audio_id": "2371659366443335",
+  "audio_note": "Good Day - COACH (upbeat)",
+  "format": "motion",
+  "modelled_on": "'Nobody told us this existed' benefit reveals (542K views, 115x median)",
+  "status": "queued"
+}

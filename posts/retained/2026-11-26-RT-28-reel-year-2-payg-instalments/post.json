@@ -1,0 +1,22 @@
+{
+  "id": "RT-28",
+  "account": "retained",
+  "type": "reel",
+  "series": "First-year ABN",
+  "pillar": "Lead pillar",
+  "publish_at": "2026-11-26T19:30:00+11:00",
+  "caption": "Year 2 in business comes with a surprise bill: PAYG instalments.\n\nWhat triggers it. After you lodge a return showing all three of these, the ATO enters you automatically:\n- $4,000 or more of instalment income (business and investment income),\n- $1,000 or more of tax payable on your latest assessment,\n- $500 or more of estimated tax.\n\nWhat it is. You pay the current year's tax as you go, usually each quarter, instead of one lump after you lodge.\n\nWhy it stings. In the same few months you pay last year's whole bill and start paying this year's in instalments. Nothing extra is owed overall, but the cash leaves much earlier than year one taught you to expect.\n\nThe ATO tells you through myGov, online services or a letter: when to pay, how often and how much.\n\nDid year 2 catch you out?\n\n#paygi #soletrader #smallbusinessaustralia #abn #taxplanning",
+  "video": "reel.mp4",
+  "cover": "cover.jpg",
+  "images": [],
+  "figures_checked": [
+    "PAYG instalments entry for individuals incl. sole traders: instalment income of $4,000 or more on the latest return, tax payable of $1,000 or more on the latest assessment, and estimated (notional) tax of $500 or more; ATO notifies via myGov, online services or letter (ATO Starting PAYG instalments, checked 15 Nov 2026)"
+  ],
+  "trial": true,
+  "graduation": "SS_PERFORMANCE",
+  "audio_id": "1039931648209750",
+  "audio_note": "Walk (Instrumental) - Tony Dark Eyes (steady instrumental)",
+  "format": "motion",
+  "modelled_on": "Money-milestone and number-reveal hooks (Humphrey Yang's '$100K changes everything' series; '$X a year' reveals)",
+  "status": "queued"
+}

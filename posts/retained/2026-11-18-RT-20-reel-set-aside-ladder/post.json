@@ -1,0 +1,24 @@
+{
+  "id": "RT-20",
+  "account": "retained",
+  "type": "reel",
+  "series": "Set-aside",
+  "pillar": "Lead pillar",
+  "publish_at": "2026-11-18T12:30:00+11:00",
+  "caption": "How much tax to set aside from every invoice, by yearly profit (sole traders, 2026–27).\n\n$75,000 profit → about 20% (roughly $14,520 in tax and Medicare)\n$100,000 → about 23% ($22,520)\n$125,000 → about 25% ($30,520)\n$150,000 → about 27% ($39,570)\n$200,000 → about 30% ($59,870)\n\nThat's income tax at 2026–27 resident rates plus the 2% Medicare levy, worked out on profit (income minus expenses) and rounded up a little. The small business tax offset can take up to $1,000 off.\n\nTwo things it doesn't include:\n- GST. If you're registered, the GST you collect was never yours. Park it separately.\n- Other income. A salary on top pushes the ABN income into higher brackets.\n\nNobody withholds tax for a sole trader, so the set-aside is the plan.\n\nDo you move tax into a separate account?\n\n#soletrader #smallbusinessaustralia #taxplanning #keepmore #abn",
+  "video": "reel.mp4",
+  "cover": "cover.jpg",
+  "images": [],
+  "figures_checked": [
+    "Resident rates 2026–27: nil to $18,200; 15c to $45,000; $4,020 + 30c to $135,000; $31,020 + 37c to $190,000; $51,370 + 45c above; Medicare levy 2% not included (ATO Tax rates – Australian residents, checked 15 Nov 2026)",
+    "Arithmetic (tax + 2% levy / profit): $14,520 / $75K = 19.4%; $22,520 / $100K = 22.5%; $30,520 / $125K = 24.4%; $39,570 / $150K = 26.4%; $59,870 / $200K = 29.9%; rounded up",
+    "Small business income tax offset: 16% of tax on net small business income, capped at $1,000, aggregated turnover under $5 million, sole traders and partners only, 2026–27 (ATO Small business income tax offset, checked 15 Nov 2026)"
+  ],
+  "trial": true,
+  "graduation": "SS_PERFORMANCE",
+  "audio_id": "9121939431256694",
+  "audio_note": "Heart & Soul (Instrumental) - Company Money (hip-hop instrumental)",
+  "format": "ladder",
+  "modelled_on": "Money-milestone and number-reveal hooks (Humphrey Yang's '$100K changes everything' series; '$X a year' reveals)",
+  "status": "queued"
+}
