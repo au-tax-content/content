@@ -5,7 +5,7 @@
   "series": "Pay less, legally",
   "pillar": "Lead pillar",
   "publish_at": "2026-11-23T19:30:00+11:00",
-  "caption": "Stop buying things \"for the tax deduction\". Do this maths first.\n\nA deduction is not a refund. It lowers your taxable income, so what you get back is your tax rate on the amount. On the 30% rate ($45,001 to $135,000 in 2026–27) that's 30c per dollar, plus the 2% Medicare levy.\n\nSo a $1,000 laptop for work:\n- You spend $1,000.\n- Your tax drops by about $320.\n- You're still $680 out of pocket.\n\nAnd a work item that costs more than $300 is generally claimed over its effective life, not all in one year.\n\nWhen is it worth it? When you needed the thing for work anyway. Then the deduction is a discount on something you were buying. It's never free.\n\nWho told you \"just claim it on tax\"?\n\n#taxdeductions #taxreturn #australiantax #paylesslegally #moneytips",
+  "caption": "Stop buying things \"for the tax deduction\". Do this maths first.\n\nA deduction is not a refund. It lowers your taxable income, so what you get back is your tax rate on the amount. On the 30% rate ($45,001 to $135,000 in 2026–27) that's 30c per dollar, plus the 2% Medicare levy.\n\nSo a $1,000 laptop for work:\n- You spend $1,000.\n- Your tax drops by about $320.\n- You're still $680 out of pocket.\n\nAnd a work item that costs more than $300 is generally claimed over its effective life, not all in one year.\n\nWhen is it worth it? When you needed the thing for work anyway. Then the deduction is a discount on something you were buying. It's never free.\n\nWho told you \"just claim it on tax\"?\n\nNarrated by an AI voice.\n\n#taxdeductions #taxreturn #australiantax #paylesslegally #moneytips",
   "video": "reel.mp4",
   "cover": "cover.jpg",
   "images": [],
@@ -18,7 +18,9 @@
   "graduation": "SS_PERFORMANCE",
   "audio_id": "1403284444689007",
   "audio_note": "Good Time (Instrumental) - Company Money (hip-hop instrumental)",
-  "format": "motion",
+  "format": "motion + voiceover",
   "modelled_on": "Myth-bust / 'stop doing this' hooks with one number per card",
-  "status": "queued"
+  "status": "queued",
+  "voiceover": true,
+  "voice": "Charlie (Australian male, ElevenLabs via vidIQ); script lines in vo/ match the on-screen cards"
 }

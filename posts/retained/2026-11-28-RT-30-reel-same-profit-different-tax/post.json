@@ -5,7 +5,7 @@
   "series": "Keep more",
   "pillar": "Lead pillar",
   "publish_at": "2026-11-28T19:30:00+11:00",
-  "caption": "Same $150,000 profit. $9,250 less tax. Here's the difference (sole traders, 2026–27).\n\nOwner A does nothing: income tax plus Medicare levy on $150,000, less the $1,000 small business offset = $38,570.\n\nOwner B makes two moves before 30 June:\n- Puts $20,000 into their own super and claims the deduction.\n- Buys a $15,000 machine the business needed and uses the instant asset write-off.\n\nTaxable income drops to $115,000. Personal tax and Medicare, less the offset: $26,320. Add 15% contributions tax on the $20,000 inside the fund: $3,000. Total $29,320.\n\nThe gap: $9,250.\n\nThe catch: B spent $35,000 to get it. The super is locked until retirement and the machine is only a win if the business needed it. It suits an owner who wanted both anyway, and it's the kind of plan a registered adviser should check against your numbers.\n\nWhich owner are you this year?\n\n#smallbusinessaustralia #taxplanning #keepmore #soletrader #superannuation",
+  "caption": "Same $150,000 profit. $9,250 less tax. Here's the difference (sole traders, 2026–27).\n\nOwner A does nothing: income tax plus Medicare levy on $150,000, less the $1,000 small business offset = $38,570.\n\nOwner B makes two moves before 30 June:\n- Puts $20,000 into their own super and claims the deduction.\n- Buys a $15,000 machine the business needed and uses the instant asset write-off.\n\nTaxable income drops to $115,000. Personal tax and Medicare, less the offset: $26,320. Add 15% contributions tax on the $20,000 inside the fund: $3,000. Total $29,320.\n\nThe gap: $9,250.\n\nThe catch: B spent $35,000 to get it. The super is locked until retirement and the machine is only a win if the business needed it. It suits an owner who wanted both anyway, and it's the kind of plan a registered adviser should check against your numbers.\n\nWhich owner are you this year?\n\nNarrated by an AI voice.\n\n#smallbusinessaustralia #taxplanning #keepmore #soletrader #superannuation",
   "video": "reel.mp4",
   "cover": "cover.jpg",
   "images": [],
@@ -21,7 +21,9 @@
   "graduation": "SS_PERFORMANCE",
   "audio_id": "2662790980841451",
   "audio_note": "Make Me - Giulio Cercato (hip-hop instrumental)",
-  "format": "motion",
+  "format": "motion + voiceover",
   "modelled_on": "Side-by-side comparisons ('Two businesses, same profit, completely different tax')",
-  "status": "queued"
+  "status": "queued",
+  "voiceover": true,
+  "voice": "Charlie (Australian male, ElevenLabs via vidIQ); script lines in vo/ match the on-screen cards"
 }

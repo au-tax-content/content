@@ -5,7 +5,7 @@
   "series": "First-year ABN",
   "pillar": "Lead pillar",
   "publish_at": "2026-11-22T19:30:00+11:00",
-  "caption": "Sole trader? You can't pay yourself a wage.\n\nYou and the business are one taxpayer. The ATO treats any \"wage\" a sole trader pays themselves as a distribution of profit. It isn't a deduction, and there's no payslip, PAYG withholding or super guarantee on it.\n\nWhat you're actually taxed on is profit: income minus expenses. Take out $500 a week or leave it all in the account, the tax is the same.\n\nWhat is deductible: your own super contributions. Sole traders can usually claim them in their personal return, up to the $32,500 concessional cap (2026–27), where they're taxed at 15% in the fund. The catch: the money is locked away until you retire.\n\nPaying yourself a real wage is something a company structure does, with its own costs and rules. Worth paying a registered adviser to set up properly if you get to that point.\n\nDid you think your drawings were a business expense?\n\n#soletrader #abn #smallbusinessaustralia #keepmore #australiantax",
+  "caption": "Sole trader? You can't pay yourself a wage.\n\nYou and the business are one taxpayer. The ATO treats any \"wage\" a sole trader pays themselves as a distribution of profit. It isn't a deduction, and there's no payslip, PAYG withholding or super guarantee on it.\n\nWhat you're actually taxed on is profit: income minus expenses. Take out $500 a week or leave it all in the account, the tax is the same.\n\nWhat is deductible: your own super contributions. Sole traders can usually claim them in their personal return, up to the $32,500 concessional cap (2026–27), where they're taxed at 15% in the fund. The catch: the money is locked away until you retire.\n\nPaying yourself a real wage is something a company structure does, with its own costs and rules. Worth paying a registered adviser to set up properly if you get to that point.\n\nDid you think your drawings were a business expense?\n\nNarrated by an AI voice.\n\n#soletrader #abn #smallbusinessaustralia #keepmore #australiantax",
   "video": "reel.mp4",
   "cover": "cover.jpg",
   "images": [],
@@ -18,7 +18,9 @@
   "graduation": "SS_PERFORMANCE",
   "audio_id": "1834841137494500",
   "audio_note": "Cool - LAVLO (hip-hop instrumental)",
-  "format": "motion",
+  "format": "motion + voiceover",
   "modelled_on": "Myth-bust / 'stop doing this' hooks with one number per card",
-  "status": "queued"
+  "status": "queued",
+  "voiceover": true,
+  "voice": "Charlie (Australian male, ElevenLabs via vidIQ); script lines in vo/ match the on-screen cards"
 }

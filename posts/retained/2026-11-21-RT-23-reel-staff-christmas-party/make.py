@@ -1,4 +1,4 @@
-"""RT-23 Reel: Your staff Christmas party probably isn't deductible. Run: python3 make.py"""
+"""RT-23 Reel: Your staff Christmas party probably isn't deductible. Narrated (vo/). Run: python3 make.py"""
 import os, sys
 sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "..", "..", "brand"))
 from reel_formats import hook_c, card, listloop, tier, tier_len, ladder, buckets, point, end, big, stamp_el, steps, render_motion
@@ -17,4 +17,5 @@ scenes = [
  (end(b, "Under $300: no tax, no claim. [[Simple.]]", "SEND TO THE BOSS"), 3.2),
 ]
 if __name__ == "__main__":
-    render_motion(scenes, __file__, cover_scene=0, cover_y=215)
+    from voice import voiced_render
+    voiced_render(scenes, __file__, cover_scene=0, cover_y=215)

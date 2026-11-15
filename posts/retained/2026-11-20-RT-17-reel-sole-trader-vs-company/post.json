@@ -5,7 +5,7 @@
   "series": "Keep more",
   "pillar": "Lead pillar",
   "publish_at": "2026-11-20T19:30:00+11:00",
-  "caption": "Same business. Different structure. The tax gap can hit 5 figures.\n\nSole trader: every dollar of profit is taxed at your marginal rate. Above $190,000 in 2026–27 that's 45% plus 2% Medicare levy. Simple to run, no corporate admin, but no rate cap.\n\nBase rate entity company: 25% flat rate on taxable income (turnover under $50M, passive income 80% or less, 2026–27). Lower rate — but profit taxed in the company isn't the same as money in your pocket. To get it out, you pay dividends (franking credits offset personal tax). And Division 7A is a real risk if you use company money personally without the right structure.\n\nWhen the switch makes financial sense:\n- Your effective marginal rate significantly exceeds 25%\n- Profits genuinely stay in the business (reinvestment, retained earnings)\n- The gap covers the costs of set-up, an annual accountant, and company compliance\n\nThe structure also affects asset protection, succession, and how you pay yourself — there's no one right answer. Worth paying a registered adviser to model it for your numbers.\n\nAre you a sole trader thinking about structuring? What's the question you can't get a straight answer to?\n\n#smallbusiness #businessstructure #companyvssoletrade #keepmore #australiantax",
+  "caption": "Same business. Different structure. The tax gap can hit 5 figures.\n\nSole trader: every dollar of profit is taxed at your marginal rate. Above $190,000 in 2026–27 that's 45% plus 2% Medicare levy. Simple to run, no corporate admin, but no rate cap.\n\nBase rate entity company: 25% flat rate on taxable income (turnover under $50M, passive income 80% or less, 2026–27). Lower rate — but profit taxed in the company isn't the same as money in your pocket. To get it out, you pay dividends (franking credits offset personal tax). And Division 7A is a real risk if you use company money personally without the right structure.\n\nWhen the switch makes financial sense:\n- Your effective marginal rate significantly exceeds 25%\n- Profits genuinely stay in the business (reinvestment, retained earnings)\n- The gap covers the costs of set-up, an annual accountant, and company compliance\n\nThe structure also affects asset protection, succession, and how you pay yourself — there's no one right answer. Worth paying a registered adviser to model it for your numbers.\n\nAre you a sole trader thinking about structuring? What's the question you can't get a straight answer to?\n\nNarrated by an AI voice.\n\n#smallbusiness #businessstructure #companyvssoletrade #keepmore #australiantax",
   "video": "reel.mp4",
   "cover": "cover.jpg",
   "images": [],
@@ -17,5 +17,8 @@
   "graduation": "SS_PERFORMANCE",
   "audio_id": "4737387709882314",
   "audio_note": "Back Room Business - Fellow Travelers (business-themed, upbeat)",
-  "status": "queued"
+  "status": "queued",
+  "voiceover": true,
+  "voice": "Charlie (Australian male, ElevenLabs via vidIQ); script lines in vo/ match the on-screen cards",
+  "format": "motion + voiceover"
 }

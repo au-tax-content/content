@@ -43,6 +43,13 @@ def wait_ready(cid, token, label, tries=30):
     raise IGError(f"Container {label} not ready after 2 minutes")
 
 
+def audio_mix(post):
+    """Music only for silent Reels; for narrated Reels ("voiceover": true) keep the voice and lay the music quietly under it."""
+    if post.get("voiceover"):
+        return {"audio_id": post["audio_id"], "audio_volume": 15, "video_volume": 100}
+    return {"audio_id": post["audio_id"], "audio_volume": 100, "video_volume": 0}
+
+
 def publish(post, folder, token):
     rel = os.path.relpath(folder, ROOT).replace(os.sep, "/")
     kind = post["type"]
@@ -61,7 +68,7 @@ def publish(post, folder, token):
             trial.pop("share_to_feed", None)
             try:
                 probe = ig_post("me/media", token, **trial, **({"audio_configuration": json.dumps(
-                    {"audio_id": post["audio_id"], "audio_volume": 100, "video_volume": 0})} if post.get("audio_id") else {}))
+                    audio_mix(post))} if post.get("audio_id") else {}))
                 wait_ready(probe["id"], token, "trial reel", tries=90)
                 post["trial_used"] = True
                 return ig_post("me/media_publish", token, creation_id=probe["id"])
@@ -71,8 +78,7 @@ def publish(post, folder, token):
                 post["trial_error"] = str(e)[:300]
         if post.get("audio_id"):
             try:
-                parent = ig_post("me/media", token, **args, audio_configuration=json.dumps(
-                    {"audio_id": post["audio_id"], "audio_volume": 100, "video_volume": 0}))
+                parent = ig_post("me/media", token, **args, audio_configuration=json.dumps(audio_mix(post)))
             except IGError as e:
                 print(f"  audio rejected ({e}); publishing without music")
                 parent = ig_post("me/media", token, **args)

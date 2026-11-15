@@ -5,7 +5,7 @@
   "series": "Pay less, legally",
   "pillar": "Lead pillar",
   "publish_at": "2026-11-26T19:30:00+11:00",
-  "caption": "3 income lines that quietly change your tax in 2026–27.\n\n$105,000 (singles; $210,000 for families): without private hospital cover, the Medicare levy surcharge applies. It's 1%, 1.25% or 1.5% of your income depending on the tier, on top of the 2% Medicare levy.\n\n$135,000: the 37% rate starts. Only the dollars above $135,000 are taxed at 37%. Everything below is taxed as before.\n\n$250,000: Division 293. If your income plus concessional super contributions go over this, some of those contributions are taxed an extra 15%.\n\nNone of these is a reason to earn less. They're the points where it's worth understanding what changes, and where a registered adviser can earn their fee.\n\nWhich line are you closest to?\n\n#australiantax #taxbrackets #medicarelevy #paylesslegally #moneytips",
+  "caption": "3 income lines that quietly change your tax in 2026–27.\n\n$105,000 (singles; $210,000 for families): without private hospital cover, the Medicare levy surcharge applies. It's 1%, 1.25% or 1.5% of your income depending on the tier, on top of the 2% Medicare levy.\n\n$135,000: the 37% rate starts. Only the dollars above $135,000 are taxed at 37%. Everything below is taxed as before.\n\n$250,000: Division 293. If your income plus concessional super contributions go over this, some of those contributions are taxed an extra 15%.\n\nNone of these is a reason to earn less. They're the points where it's worth understanding what changes, and where a registered adviser can earn their fee.\n\nWhich line are you closest to?\n\nNarrated by an AI voice.\n\n#australiantax #taxbrackets #medicarelevy #paylesslegally #moneytips",
   "video": "reel.mp4",
   "cover": "cover.jpg",
   "images": [],
@@ -18,7 +18,9 @@
   "graduation": "SS_PERFORMANCE",
   "audio_id": "1852688158814799",
   "audio_note": "Hypnotized (Instrumental) - Company Money (hip-hop instrumental)",
-  "format": "motion",
+  "format": "motion + voiceover",
   "modelled_on": "Money-milestone and number-reveal hooks (Humphrey Yang's '$100K changes everything' series; '$X a year' reveals)",
-  "status": "queued"
+  "status": "queued",
+  "voiceover": true,
+  "voice": "Charlie (Australian male, ElevenLabs via vidIQ); script lines in vo/ match the on-screen cards"
 }

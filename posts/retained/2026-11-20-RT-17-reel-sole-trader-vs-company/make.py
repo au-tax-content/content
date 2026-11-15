@@ -1,10 +1,10 @@
-"""RT-17 Reel: Sole trader vs company — when does the maths change? Run: python3 make.py"""
+"""RT-17 Reel: Sole trader vs company — when does the maths change? Narrated (vo/). Run: python3 make.py"""
 import os, sys
 sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "..", "..", "brand"))
-from reel_points import hook, point, end, big, stamp_el, steps, render_motion
+from reel_formats import hook_c, point, end, big, stamp_el, steps, render_motion
 b = "rt"
 scenes = [
- (hook(b, "[[Same business.]] Different structure. The tax gap can hit [[5 figures.]]", "SAVE THIS"), 3.0),
+ (hook_c(b, "Same business. Different structure. The tax gap can hit [[5]] [[figures.]]", "SAVE THIS", "green", size=118), 3.0),
  (point(b, 1, "[[Sole trader:]] you pay at your rate",
         big(b, "45%", "TOP RATE · 2026–27", size=190),
         "Above $190,000 you pay 45% plus 2% Medicare levy. Every dollar of profit is taxed at your marginal rate."), 4.5),
@@ -17,4 +17,5 @@ scenes = [
  (end(b, "Worth paying a registered adviser to [[set up properly.]]", "SAVE THIS"), 3.2),
 ]
 if __name__ == "__main__":
-    render_motion(scenes, __file__, cover_scene=0)
+    from voice import voiced_render
+    voiced_render(scenes, __file__, cover_scene=0, cover_y=215)

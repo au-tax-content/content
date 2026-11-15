@@ -5,7 +5,7 @@
   "series": "Write it off?",
   "pillar": "Lead pillar",
   "publish_at": "2026-11-21T19:30:00+11:00",
-  "caption": "Your staff Christmas party probably isn't tax deductible. Here's why that's fine.\n\nThe $300 line: if the party (or a gift) costs less than $300 per person and it's occasional, it can be an exempt minor benefit, so no fringe benefits tax.\n\nThe trade-off: for entertainment like a party, the ATO's rule is that if it isn't subject to FBT, you can't claim an income tax deduction or GST credits for it.\n\nOn your premises, on a working day, current employees only? No FBT on the food and drink. Same trade-off.\n\nSo for most small businesses a modest Christmas party is simply a cost: no FBT to pay, nothing to claim. Go over $300 a head and FBT comes into it, which is where a registered tax or BAS agent is worth a call.\n\nWhat's your team doing this year?\n\n#smallbusinessaustralia #christmasparty #fbt #taxdeductions #keepmore",
+  "caption": "Your staff Christmas party probably isn't tax deductible. Here's why that's fine.\n\nThe $300 line: if the party (or a gift) costs less than $300 per person and it's occasional, it can be an exempt minor benefit, so no fringe benefits tax.\n\nThe trade-off: for entertainment like a party, the ATO's rule is that if it isn't subject to FBT, you can't claim an income tax deduction or GST credits for it.\n\nOn your premises, on a working day, current employees only? No FBT on the food and drink. Same trade-off.\n\nSo for most small businesses a modest Christmas party is simply a cost: no FBT to pay, nothing to claim. Go over $300 a head and FBT comes into it, which is where a registered tax or BAS agent is worth a call.\n\nWhat's your team doing this year?\n\nNarrated by an AI voice.\n\n#smallbusinessaustralia #christmasparty #fbt #taxdeductions #keepmore",
   "video": "reel.mp4",
   "cover": "cover.jpg",
   "images": [],
@@ -16,7 +16,9 @@
   "graduation": "SS_PERFORMANCE",
   "audio_id": "1388161098514399",
   "audio_note": "Happy Days - Giulio Cercato (light, festive)",
-  "format": "motion",
+  "format": "motion + voiceover",
   "modelled_on": "Curiosity hooks about everyday business spending ('Why do so many business owners drive big SUVs?')",
-  "status": "queued"
+  "status": "queued",
+  "voiceover": true,
+  "voice": "Charlie (Australian male, ElevenLabs via vidIQ); script lines in vo/ match the on-screen cards"
 }

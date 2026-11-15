@@ -1,4 +1,4 @@
-"""RP-25 Reel: Stop buying things 'for the tax deduction'. Run: python3 make.py"""
+"""RP-25 Reel: Stop buying things 'for the tax deduction'. Narrated (vo/). Run: python3 make.py"""
 import os, sys
 sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "..", "..", "brand"))
 from reel_formats import hook_c, card, listloop, tier, tier_len, ladder, buckets, point, end, big, stamp_el, steps, render_motion
@@ -17,4 +17,5 @@ scenes = [
  (end(b, "A deduction is a [[discount.]] Not free money.", "SEND TO THAT FRIEND"), 3.2),
 ]
 if __name__ == "__main__":
-    render_motion(scenes, __file__, cover_scene=0, cover_y=215)
+    from voice import voiced_render
+    voiced_render(scenes, __file__, cover_scene=0, cover_y=215)

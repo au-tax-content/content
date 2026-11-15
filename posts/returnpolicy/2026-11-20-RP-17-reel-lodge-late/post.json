@@ -5,7 +5,7 @@
   "series": "Pay less, legally",
   "pillar": "Lead pillar",
   "publish_at": "2026-11-20T19:30:00+11:00",
-  "caption": "Lodge late? Here's what the ATO actually charges.\n\nThe 31 October deadline just passed. If you haven't lodged yet, here's the actual maths.\n\nFailure to lodge (FTL) penalty: $364 per 28-day period (or part of one) your return is outstanding — capped at 5 periods, so a maximum of $1,820. The penalty unit rose from $330 to $364 on 1 July 2026, so this is higher than it was last year.\n\nGeneral Interest Charge (GIC): if you owe tax and don't pay by the due date, interest compounds daily on the outstanding amount. The longer you leave it, the more it grows.\n\nIf you're already late, the most important thing is to lodge — even if you can't pay the bill yet. The FTL penalty stops accumulating once you've lodged. The ATO penalises not lodging more heavily than not paying on time. Payment plans are available through the ATO's website.\n\nA registered tax agent can apply for a lodgment extension on your behalf, and sometimes arrange remission of penalties — but they need to be on your behalf before you're penalised, not after.\n\nHave you ever lodged late? What stopped you from lodging on time?\n\n#taxreturn #australiantax #latelodgment #paylesslegally #atotips",
+  "caption": "Lodge late? Here's what the ATO actually charges.\n\nThe 31 October deadline just passed. If you haven't lodged yet, here's the actual maths.\n\nFailure to lodge (FTL) penalty: $364 per 28-day period (or part of one) your return is outstanding — capped at 5 periods, so a maximum of $1,820. The penalty unit rose from $330 to $364 on 1 July 2026, so this is higher than it was last year.\n\nGeneral Interest Charge (GIC): if you owe tax and don't pay by the due date, interest compounds daily on the outstanding amount. The longer you leave it, the more it grows.\n\nIf you're already late, the most important thing is to lodge — even if you can't pay the bill yet. The FTL penalty stops accumulating once you've lodged. The ATO penalises not lodging more heavily than not paying on time. Payment plans are available through the ATO's website.\n\nA registered tax agent can apply for a lodgment extension on your behalf, and sometimes arrange remission of penalties — but they need to be on your behalf before you're penalised, not after.\n\nHave you ever lodged late? What stopped you from lodging on time?\n\nNarrated by an AI voice.\n\n#taxreturn #australiantax #latelodgment #paylesslegally #atotips",
   "video": "reel.mp4",
   "cover": "cover.jpg",
   "images": [],
@@ -17,5 +17,8 @@
   "graduation": "SS_PERFORMANCE",
   "audio_id": "1028425365370677",
   "audio_note": "Technicolor (Instrumental) - Company Money (upbeat instrumental, business-themed)",
-  "status": "queued"
+  "status": "queued",
+  "voiceover": true,
+  "voice": "Charlie (Australian male, ElevenLabs via vidIQ); script lines in vo/ match the on-screen cards",
+  "format": "motion + voiceover"
 }

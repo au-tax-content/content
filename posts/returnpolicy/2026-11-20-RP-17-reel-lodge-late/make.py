@@ -1,4 +1,4 @@
-"""RP-17 Reel: What it costs to lodge your tax return late. Run: python3 make.py"""
+"""RP-17 Reel: What it costs to lodge your tax return late. Narrated (vo/). Run: python3 make.py"""
 import os, sys
 sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "..", "..", "brand"))
 from reel_points import hook, point, end, big, stamp_el, steps, render_motion
@@ -17,4 +17,5 @@ scenes = [
  (end(b, "Late is better than [[never.]] Lodge first.", "SAVE THIS"), 3.2),
 ]
 if __name__ == "__main__":
-    render_motion(scenes, __file__, cover_scene=0)
+    from voice import voiced_render
+    voiced_render(scenes, __file__, cover_scene=0, cover_y=285)

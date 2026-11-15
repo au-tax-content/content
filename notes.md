@@ -1,5 +1,12 @@
 # Notes: what's working (newest first)
 
+## 15 Nov 2026 (night): voiceover on 12 Reels
+
+- Daniel asked whether more posting alone will grow the accounts. Honest read: not by itself. Every Reel stalls near 100 reach, with 0 follows from posts. Agreed to test an Australian AI voice (Charlie, via vidIQ) after he rejected the free voice as too AI.
+- 12 queued Reels now narrated (6 per account, 18–29 Nov), used 140 vidIQ credits this month (all of them; resets 3 Dec). Publisher keeps the voice and plays music quietly underneath when `voiceover: true`.
+- Fixed crowded hook screens on RT-16, RP-16 and RT-17 (text ran into the tag and the mascot) from the earlier run.
+- To do: add Reel watch time to insights.py so the voice test can be judged.
+
 ## 15 Nov 2026 (evening): content push on the stronger model (Daniel: "generate as much content as you can", model it on what gets views)
 
 - Benchmark study (vidIQ outliers + `stats/benchmarks.json`): faceless winners are short looping lists ("7 deductions that sound illegal (but aren't)", up to 190x a creator's median), tier lists (6.2M), bracket explainers (1.5M), rule-change news (832K on an Australian tax account), "money waiting for you" and milestone reveals. Details in `refs/benchmark-notes.md`.

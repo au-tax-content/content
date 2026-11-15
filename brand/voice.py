@@ -41,11 +41,34 @@ def split_by_silence(audio, n, out_dir, lines=None):
     total = float(subprocess.run(["ffprobe", "-v", "error", "-show_entries", "format=duration", "-of", "csv=p=0", audio],
                                  capture_output=True, text=True).stdout)
     if lines:
-        chars = [len(x) for x in lines]; cum = 0; cuts = []
-        for c in chars[:-1]:
-            cum += c; target = total * cum / sum(chars)
-            s0, e0 = min((g for g in gaps if not cuts or (g[0] + g[1]) / 2 > cuts[-1]), key=lambda g: abs((g[0] + g[1]) / 2 - target))
-            cuts.append((s0 + e0) / 2)
+        # Pick n-1 pauses in order: close to where each line should end (share of spoken length), favouring long
+        # pauses (sentence ends). Solved exactly with a small dynamic programme.
+        w = [len(x) for x in lines]; tw = sum(w); acc = 0; targets = []
+        for c in w[:-1]:
+            acc += c; targets.append(total * acc / tw)
+        # Score each segment's LENGTH against its expected length (no drift), minus a bonus for long pauses.
+        rate = total / tw
+        pos = [(0.0, 0.0)] + [((a + b) / 2, b - a) for a, b in gaps] + [(total, 0.0)]
+        G, n_seg = len(pos), len(w)
+        INF = float("inf")
+        D = [[INF] * G for _ in range(n_seg + 1)]; B = [[-1] * G for _ in range(n_seg + 1)]
+        D[0][0] = 0.0
+        for k in range(1, n_seg + 1):
+            exp_len = w[k - 1] * rate
+            for j in range(1, G):
+                if (k < n_seg and j == G - 1) or (k == n_seg and j != G - 1):
+                    continue
+                bonus = 0.0 if j == G - 1 else 6.0 * pos[j][1]
+                for i in range(j):
+                    if D[k - 1][i] == INF:
+                        continue
+                    v = D[k - 1][i] + (pos[j][0] - pos[i][0] - exp_len) ** 2 - bonus
+                    if v < D[k][j]:
+                        D[k][j], B[k][j] = v, i
+        j, cut_idx = G - 1, []
+        for k in range(n_seg, 0, -1):
+            j = B[k][j]; cut_idx.append(j)
+        cuts = [pos[j][0] for j in reversed(cut_idx) if j > 0]
     else:
         cuts = sorted((a + b) / 2 for a, b in sorted(gaps, key=lambda g: g[0] - g[1])[: n - 1])
     bounds = [0.0] + cuts + [total]
@@ -81,3 +104,21 @@ def mux(video, wavs, scene_durs, lead=0.15):
     subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", video, "-i", tmp, "-map", "0:v", "-map", "1:a", "-c:v", "copy",
                     "-c:a", "copy", "-shortest", "-movflags", "+faststart", out], check=True)
     os.replace(out, video); os.remove(tmp)
+
+
+def _dur(p):
+    return float(subprocess.run(["ffprobe", "-v", "error", "-show_entries", "format=duration", "-of", "csv=p=0", p],
+                                capture_output=True, text=True).stdout)
+
+
+def voiced_render(scenes, make_file, cover_scene=0, cover_y=285):
+    """Render a Reel whose narration lives in <post>/vo/vo0.m4a, vo1.m4a, ... (one file per scene)."""
+    from motion import render_motion
+    folder = os.path.dirname(os.path.abspath(make_file))
+    wavs = [os.path.join(folder, "vo", f"vo{i}.m4a") for i in range(len(scenes))]
+    missing = [w for w in wavs if not os.path.exists(w)]
+    if missing:
+        raise FileNotFoundError(f"narration missing: {missing}")
+    scenes = fit_scenes(scenes, [_dur(w) for w in wavs])
+    render_motion(scenes, make_file, cover_scene=cover_scene, cover_y=cover_y)
+    mux(os.path.join(folder, "reel.mp4"), wavs, [d for _, d in scenes])

@@ -1,10 +1,10 @@
 """RP-16 Reel: How salary sacrifice actually saves you money. Run: python3 make.py"""
 import os, sys
 sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "..", "..", "brand"))
-from reel_points import hook, point, end, big, stamp_el, steps, render_motion
+from reel_formats import hook_c, point, end, big, stamp_el, steps, render_motion
 b = "rp"
 scenes = [
- (hook(b, "[[Salary sacrifice]] saves more than most people realise. Here's the actual maths.", "SAVE THIS"), 3.0),
+ (hook_c(b, "Salary sacrifice: here's the [[actual]] [[maths.]]", "SAVE THIS", "mint", size=140), 3.0),
  (point(b, 1, "The [[gap]] is your saving",
         big(b, "15c", "PER DOLLAR · 2026–27", size=190),
         "30% marginal rate minus 15% fund tax = 15 cents per dollar you keep. The bigger the gap, the bigger the win."), 4.5),
@@ -17,4 +17,4 @@ scenes = [
  (end(b, "Tax the [[gap,]] not the whole dollar.", "SAVE THIS"), 3.2),
 ]
 if __name__ == "__main__":
-    render_motion(scenes, __file__, cover_scene=0)
+    render_motion(scenes, __file__, cover_scene=0, cover_y=215)

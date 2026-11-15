@@ -5,7 +5,7 @@
   "series": "Keep more",
   "pillar": "Lead pillar",
   "publish_at": "2026-11-23T19:30:00+11:00",
-  "caption": "3 turnover lines that change your tax (2026–27). Turnover means sales, not profit.\n\n$75,000: GST switches on. Once your GST turnover reaches $75,000 you have 21 days to register. From then you add 10% to your prices, claim GST credits on business costs and lodge a BAS.\n\nUnder $5 million: the small business income tax offset. Sole traders and partners get 16% of the tax on their business income taken off, capped at $1,000. It's worked out automatically in your return.\n\nUnder $10 million: the small business write-offs. The $20,000 instant asset write-off and the 12-month prepayment rule both sit behind this line.\n\nOne more for companies: under $50 million (and mostly active income), the company tax rate is 25%.\n\nMost new businesses only ever meet the first one, and usually by surprise.\n\nHow close are you to $75K?\n\n#smallbusinessaustralia #gst #soletrader #keepmore #australiantax",
+  "caption": "3 turnover lines that change your tax (2026–27). Turnover means sales, not profit.\n\n$75,000: GST switches on. Once your GST turnover reaches $75,000 you have 21 days to register. From then you add 10% to your prices, claim GST credits on business costs and lodge a BAS.\n\nUnder $5 million: the small business income tax offset. Sole traders and partners get 16% of the tax on their business income taken off, capped at $1,000. It's worked out automatically in your return.\n\nUnder $10 million: the small business write-offs. The $20,000 instant asset write-off and the 12-month prepayment rule both sit behind this line.\n\nOne more for companies: under $50 million (and mostly active income), the company tax rate is 25%.\n\nMost new businesses only ever meet the first one, and usually by surprise.\n\nHow close are you to $75K?\n\nNarrated by an AI voice.\n\n#smallbusinessaustralia #gst #soletrader #keepmore #australiantax",
   "video": "reel.mp4",
   "cover": "cover.jpg",
   "images": [],
@@ -20,7 +20,9 @@
   "graduation": "SS_PERFORMANCE",
   "audio_id": "497518643975940",
   "audio_note": "We Fly High - Giulio Cercato (upbeat corporate)",
-  "format": "motion",
+  "format": "motion + voiceover",
   "modelled_on": "Money-milestone and number-reveal hooks (Humphrey Yang's '$100K changes everything' series; '$X a year' reveals)",
-  "status": "queued"
+  "status": "queued",
+  "voiceover": true,
+  "voice": "Charlie (Australian male, ElevenLabs via vidIQ); script lines in vo/ match the on-screen cards"
 }
