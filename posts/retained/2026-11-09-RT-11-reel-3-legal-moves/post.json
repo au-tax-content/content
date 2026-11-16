@@ -14,10 +14,15 @@
     "Instant asset write-off: <$20,000 per asset, permanent from 1 July 2026, turnover <$10M (ATO newsroom, 8 Nov 2026)",
     "Prepayment rule: 12 months ahead for small business (ATO, standard rule)"
   ],
-  "status": "queued",
+  "status": "published",
   "audio_id": "1198038750753302",
   "audio_note": "Run It Up - SugarBeats",
   "trial": true,
   "graduation": "SS_PERFORMANCE",
-  "format": "motion"
+  "format": "motion",
+  "trial_used": false,
+  "trial_error": "HTTP 400: Application does not have permission for this action (code 10, subcode 2207081)",
+  "media_id": "18133633639817518",
+  "published_at": "2026-11-16T09:58:56.238059+00:00",
+  "permalink": "https://www.instagram.com/reel/DfzF0TrHDqo/"
 }
