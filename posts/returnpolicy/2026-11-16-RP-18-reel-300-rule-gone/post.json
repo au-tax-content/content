@@ -18,5 +18,10 @@
   "audio_note": "Click (Instrumental) - Giulio Cercato (upbeat instrumental)",
   "format": "motion",
   "modelled_on": "Rule-change news explainers ('Big news from the ATO': 832K views, 8.8x median)",
-  "status": "queued"
+  "status": "published",
+  "trial_used": false,
+  "trial_error": "HTTP 400: Application does not have permission for this action (code 10, subcode 2207081)",
+  "media_id": "18097728272156579",
+  "published_at": "2026-11-16T02:05:50.787328+00:00",
+  "permalink": "https://www.instagram.com/reel/DfyPphyDqWI/"
 }
