@@ -22,5 +22,10 @@
   "audio_note": "Look At Me Now (Instrumental) - ill Think in ink (hip-hop instrumental)",
   "format": "list loop",
   "modelled_on": "Faceless looping list Reels ('7 deductions that sound illegal (but aren't)': 960K and 661K views, 5x–190x the creators' medians)",
-  "status": "queued"
+  "status": "published",
+  "trial_used": false,
+  "trial_error": "HTTP 400: Application does not have permission for this action (code 10, subcode 2207081)",
+  "media_id": "18006686094040141",
+  "published_at": "2026-11-17T08:48:20.077297+00:00",
+  "permalink": "https://www.instagram.com/reel/Df1ia8Pj0aA/"
 }
