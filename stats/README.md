@@ -1,10 +1,10 @@
 # Instagram stats
 
-Updated Wed 18 Nov 2026, 8:24 PM (Sydney). Refreshes about every 4 hours.
+Updated Thu 19 Nov 2026, 12:36 AM (Sydney). Refreshes about every 4 hours.
 
 ## Retained (@retained.au)
 
-**Followers: 4** (+1 in the last 7 days)
+**Followers: 4** (+0 in the last 7 days)
 
 | Day | Reach | Profile visits |
 | --- | ---: | ---: |
