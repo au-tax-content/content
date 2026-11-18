@@ -1,6 +1,6 @@
 # Instagram stats
 
-Updated Wed 18 Nov 2026, 8:11 AM (Sydney). Refreshes about every 4 hours.
+Updated Wed 18 Nov 2026, 12:40 PM (Sydney). Refreshes about every 4 hours.
 
 ## Retained (@retained.au)
 
@@ -8,19 +8,19 @@ Updated Wed 18 Nov 2026, 8:11 AM (Sydney). Refreshes about every 4 hours.
 
 | Day | Reach | Profile visits |
 | --- | ---: | ---: |
-| 2026-11-10 | 0 | 0 |
 | 2026-11-11 | 1 | 0 |
 | 2026-11-12 | 102 | 0 |
 | 2026-11-13 | 20 | 0 |
 | 2026-11-14 | 15 | 0 |
 | 2026-11-15 | 16 | 0 |
 | 2026-11-16 | 15 | 0 |
+| 2026-11-17 | 123 | 0 |
 
 **Top posts by reach**
 
 | Post | Type | Reach | Likes | Saves | Shares |
 | --- | --- | ---: | ---: | ---: | ---: |
-| [RT-19](https://www.instagram.com/reel/Df1ia8Pj0aA/) | Reels | 119 | 0 | 1 | 0 |
+| [RT-19](https://www.instagram.com/reel/Df1ia8Pj0aA/) | Reels | 123 | 0 | 1 | 0 |
 | [RT-04](https://www.instagram.com/reel/DfOqmDajkQk/) | Reels | 105 | 0 | 0 | 0 |
 | [RT-14R](https://www.instagram.com/reel/Dfoqe3NILfO/) | Reels | 102 | 0 | 0 | 0 |
 | [RT-06](https://www.instagram.com/reel/DfUC-pHFMT_/) | Reels | 90 | 0 | 0 | 0 |
@@ -32,13 +32,13 @@ Updated Wed 18 Nov 2026, 8:11 AM (Sydney). Refreshes about every 4 hours.
 
 | Day | Reach | Profile visits |
 | --- | ---: | ---: |
-| 2026-11-10 | 0 | 0 |
 | 2026-11-11 | 1 | 0 |
 | 2026-11-12 | 98 | 0 |
 | 2026-11-13 | 45 | 0 |
 | 2026-11-14 | 1 | 0 |
 | 2026-11-15 | 0 | 0 |
 | 2026-11-16 | 47 | 0 |
+| 2026-11-17 | 106 | 0 |
 
 **Top posts by reach**
 
