@@ -20,5 +20,10 @@
   "audio_note": "All Star (Instrumental) - Company Money (hip-hop instrumental)",
   "format": "ladder",
   "modelled_on": "Money-milestone and number-reveal hooks (Humphrey Yang's '$100K changes everything' series; '$X a year' reveals)",
-  "status": "queued"
+  "status": "published",
+  "trial_used": false,
+  "trial_error": "HTTP 400: Application does not have permission for this action (code 10, subcode 2207081)",
+  "media_id": "17982984018133864",
+  "published_at": "2026-11-18T02:29:51.671654+00:00",
+  "permalink": "https://www.instagram.com/reel/Df3cF-eCVXe/"
 }
