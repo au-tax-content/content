@@ -24,5 +24,10 @@
   "audio_note": "Knockout - Adam Griffith (driving, motivational)",
   "format": "tier list",
   "modelled_on": "Tier-list ranking Reels (6.2M and 1.3M views, 50x–1,300x median)",
-  "status": "queued"
+  "status": "published",
+  "trial_used": false,
+  "trial_error": "HTTP 400: Application does not have permission for this action (code 10, subcode 2207081)",
+  "media_id": "17874748719645320",
+  "published_at": "2026-11-19T08:55:01.488610+00:00",
+  "permalink": "https://www.instagram.com/reel/Df6syZwj7G9/"
 }
