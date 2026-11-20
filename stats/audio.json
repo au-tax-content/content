@@ -1,155 +1,155 @@
 {
-  "fetched_at": "2026-11-20T17:16+00:00",
+  "fetched_at": "2026-11-20T21:09+00:00",
   "trending": [
     {
-      "audio_id": "781734096211606",
-      "title": "Nice To Meet You",
-      "display_artist": "Giulio Cercato",
-      "duration_in_ms": 156583
+      "audio_id": "1911555566095830",
+      "title": "Sports Science",
+      "display_artist": "Cameron Rasmussen",
+      "duration_in_ms": 177221
     },
     {
-      "audio_id": "848062674135176",
-      "title": "Sanctum",
-      "display_artist": "Sam Marshall",
-      "duration_in_ms": 182550
+      "audio_id": "1678271163571128",
+      "title": "Sun Seeker (feat. Stephan Sharp)",
+      "display_artist": "The K Club",
+      "duration_in_ms": 157159
     },
     {
-      "audio_id": "441363508823396",
-      "title": "Love Receipts",
-      "display_artist": "Makana",
-      "duration_in_ms": 169430
-    },
-    {
-      "audio_id": "1185904916175083",
-      "title": "Space Cowboy",
-      "display_artist": "Sam Marshall",
-      "duration_in_ms": 180868
-    },
-    {
-      "audio_id": "814706267985508",
-      "title": "Conflict",
-      "display_artist": "Sam Marshall",
-      "duration_in_ms": 202729
-    },
-    {
-      "audio_id": "1181805310306191",
-      "title": "Side By Side",
-      "display_artist": "Giulio Cercato",
-      "duration_in_ms": 152357
-    },
-    {
-      "audio_id": "631705272356835",
-      "title": "Work It",
-      "display_artist": "Keith Thomas",
-      "duration_in_ms": 184430
-    },
-    {
-      "audio_id": "1046764240065184",
-      "title": "Wattage",
-      "display_artist": "HME",
-      "duration_in_ms": 175250
-    },
-    {
-      "audio_id": "519961333797154",
-      "title": "Oh No (Instrumental)",
-      "display_artist": "Kolektivo",
-      "duration_in_ms": 143330
-    },
-    {
-      "audio_id": "1011068365023613",
-      "title": "Snow",
-      "display_artist": "Jordan Olmos",
-      "duration_in_ms": 70053
-    },
-    {
-      "audio_id": "371145138859636",
-      "title": "Afternoon Sun",
-      "display_artist": "bbox",
-      "duration_in_ms": 178285
-    },
-    {
-      "audio_id": "780547844007135",
-      "title": "Too Good (feat. Clare Simpson)",
-      "display_artist": "Giulio Cercato",
-      "duration_in_ms": 158430
-    },
-    {
-      "audio_id": "3100149430316741",
-      "title": "Inferno",
-      "display_artist": "cloud cover",
-      "duration_in_ms": 73075
-    },
-    {
-      "audio_id": "6663298070454103",
-      "title": "LALALA (Instrumental)",
-      "display_artist": "Giulio Cercato",
-      "duration_in_ms": 136935
-    },
-    {
-      "audio_id": "2422994201393793",
-      "title": "Power On",
-      "display_artist": "Giulio Cercato",
-      "duration_in_ms": 116549
-    },
-    {
-      "audio_id": "574248974632557",
-      "title": "Kitty Glitter",
-      "display_artist": "Global Genius",
-      "duration_in_ms": 172631
-    },
-    {
-      "audio_id": "957214950186922",
-      "title": "Long Days",
-      "display_artist": "Phury",
-      "duration_in_ms": 178214
-    },
-    {
-      "audio_id": "1180064080101779",
-      "title": "Look Into The Dark Remix (Airlands)",
+      "audio_id": "950628907061517",
+      "title": "Emerald Shores Remix (Global Genius)",
       "display_artist": "Sleeping Lion",
-      "duration_in_ms": 264354
+      "duration_in_ms": 149600
     },
     {
-      "audio_id": "500814952258050",
-      "title": "Happy New Year Baby",
-      "display_artist": "Nick Gallant",
-      "duration_in_ms": 110530
+      "audio_id": "802071009428124",
+      "title": "Sunmomi (Come Closer) (Instrumental)",
+      "display_artist": "Afro Sound Machine",
+      "duration_in_ms": 149638
     },
     {
-      "audio_id": "955003963206037",
-      "title": "Stand Again (Instrumental)",
-      "display_artist": "Ruby Amanfu",
-      "duration_in_ms": 184874
+      "audio_id": "1163585384296694",
+      "title": "Barn Dance",
+      "display_artist": "Global Genius",
+      "duration_in_ms": 164191
     },
     {
-      "audio_id": "2176372296069243",
-      "title": "Oh No",
+      "audio_id": "1706243454012332",
+      "title": "Adios Amigo",
+      "display_artist": "Lightbox Music",
+      "duration_in_ms": 66610
+    },
+    {
+      "audio_id": "1426872585950804",
+      "title": "Moonlight Superman",
+      "display_artist": "Mark Rudin",
+      "duration_in_ms": 72530
+    },
+    {
+      "audio_id": "1403130370726903",
+      "title": "The Common Place",
+      "display_artist": "Oluf Dimitri Røe",
+      "duration_in_ms": 294090
+    },
+    {
+      "audio_id": "190987136885440",
+      "title": "Cover To Cover",
+      "display_artist": "Jennah Bell",
+      "duration_in_ms": 160765
+    },
+    {
+      "audio_id": "2195944060947024",
+      "title": "Bodija",
+      "display_artist": "cloud cover",
+      "duration_in_ms": 65132
+    },
+    {
+      "audio_id": "2082990731893350",
+      "title": "La Marche des Commis Voyageurs (Vintage 78RPM)",
+      "display_artist": "Genticorum",
+      "duration_in_ms": 183013
+    },
+    {
+      "audio_id": "1105590082392156",
+      "title": "UFO Landing",
+      "display_artist": "bbox",
+      "duration_in_ms": 232383
+    },
+    {
+      "audio_id": "591018039678484",
+      "title": "Mother's Love",
+      "display_artist": "The.Wav",
+      "duration_in_ms": 140221
+    },
+    {
+      "audio_id": "1450347925774368",
+      "title": "Emotions",
+      "display_artist": "Tokay",
+      "duration_in_ms": 235430
+    },
+    {
+      "audio_id": "633715712307081",
+      "title": "Down Like Rain (feat. Kiki Muñoz)",
+      "display_artist": "Neko Fuzz",
+      "duration_in_ms": 200819
+    },
+    {
+      "audio_id": "1502700387786022",
+      "title": "Don't Make Me Choose",
+      "display_artist": "Bloom",
+      "duration_in_ms": 60511
+    },
+    {
+      "audio_id": "1380442942360850",
+      "title": "Cool",
+      "display_artist": "Chela Rivas",
+      "duration_in_ms": 152050
+    },
+    {
+      "audio_id": "958214675943083",
+      "title": "Your Stardust Kiss",
+      "display_artist": "Charlie Peacock",
+      "duration_in_ms": 308720
+    },
+    {
+      "audio_id": "1291893081946451",
+      "title": "Ghost Wave Rider (Reels Sound - Reveal)",
+      "display_artist": "Global Genius",
+      "duration_in_ms": 36388
+    },
+    {
+      "audio_id": "1864008751055592",
+      "title": "Panamá",
       "display_artist": "Kolektivo",
-      "duration_in_ms": 143330
+      "duration_in_ms": 141755
     },
     {
-      "audio_id": "444727774714793",
-      "title": "Stars In The Sky",
-      "display_artist": "Giulio Cercato",
-      "duration_in_ms": 147530
+      "audio_id": "2288723088237466",
+      "title": "NPC Overview",
+      "display_artist": "half.cool",
+      "duration_in_ms": 243716
     },
     {
-      "audio_id": "1459873868055975",
-      "title": "Chill Night",
+      "audio_id": "2260079230859994",
+      "title": "Kaalam",
+      "display_artist": "Satish Raghunathan",
+      "duration_in_ms": 176971
+    },
+    {
+      "audio_id": "1092328324809119",
+      "title": "Hawaiian Love Song",
+      "display_artist": "Brian Withycombe",
+      "duration_in_ms": 133500
+    },
+    {
+      "audio_id": "271348832344330",
+      "title": "Spatial",
       "display_artist": "Sam Marshall",
-      "duration_in_ms": 183220
+      "duration_in_ms": 171939
     },
     {
-      "audio_id": "1079161504799417",
-      "title": "Rolling Into The Daylight",
-      "display_artist": "Afterlight",
-      "duration_in_ms": 62068
-    },
-    {
-      "audio_id": "629259179669455",
-      "title": "Wilt (Reels Sound - Reveal)",
-      "display_artist": "HME",
-      "duration_in_ms": 19960
+      "audio_id": "334957249607003",
+      "title": "No Contact (Reels Sound Immersive - Listicle)",
+      "display_artist": "Trout Recording",
+      "duration_in_ms": 18980
     }
   ],
   "searches": {
