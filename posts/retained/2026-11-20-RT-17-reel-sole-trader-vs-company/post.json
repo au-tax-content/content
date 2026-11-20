@@ -17,8 +17,13 @@
   "graduation": "SS_PERFORMANCE",
   "audio_id": "4737387709882314",
   "audio_note": "Back Room Business - Fellow Travelers (business-themed, upbeat)",
-  "status": "queued",
+  "status": "published",
   "voiceover": true,
   "voice": "Charlie (Australian male, ElevenLabs via vidIQ); script lines in vo/ match the on-screen cards",
-  "format": "motion + voiceover"
+  "format": "motion + voiceover",
+  "trial_used": false,
+  "trial_error": "HTTP 400: Application does not have permission for this action (code 10, subcode 2207081)",
+  "media_id": "18059690816578215",
+  "published_at": "2026-11-20T09:10:02.340634+00:00",
+  "permalink": "https://www.instagram.com/reel/Df9TSljEirp/"
 }
