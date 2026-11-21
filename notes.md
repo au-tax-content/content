@@ -1,5 +1,13 @@
 # Notes: what's working (newest first)
 
+## 21 Nov 2026: mid-week check (for the 22 Nov Sunday run: read this first)
+
+- **The queue is full to Sun 29 Nov on both accounts. Build Mon 30 Nov – Sun 6 Dec. Don't add anything to 23–29 Nov.**
+- 16–21 Nov: all 16 posts went out, none failed; GitHub ran the publisher 18–89 min late. Followers still 4 / 3, no follows from posts.
+- Reach by format: list loops RT-19 124 (1 save) and RP-19 101; tier lists RP-21 108 (1 like, 1 save) and RT-21 68; motion and news 14–60; ladders RT-20 23 (1 save), RP-20 1. The 12:30 pm slots trail the 7:30 pm ones (1–46 reach). 5 saves this week vs 2 in the two weeks before.
+- First voiced Reels (RP-17, RT-17) went out 20 Nov; Instagram accepted the voice + quiet music mix (no "audio rejected" in the log). 25 and 22 reach after a day; judge 30 Nov.
+- vidIQ credits are 0 until 3 Dec: make the 30 Nov week silent unless credits show up.
+
 ## 15 Nov 2026 (night): voiceover on 12 Reels
 
 - Daniel asked whether more posting alone will grow the accounts. Honest read: not by itself. Every Reel stalls near 100 reach, with 0 follows from posts. Agreed to test an Australian AI voice (Charlie, via vidIQ) after he rejected the free voice as too AI.
