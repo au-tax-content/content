@@ -1,107 +1,113 @@
 {
-  "fetched_at": "2026-11-21T05:14+00:00",
+  "fetched_at": "2026-11-21T09:06+00:00",
   "trending": [
     {
-      "audio_id": "1311880379697413",
-      "title": "Something Else (Instrumental)",
-      "display_artist": "Sliders Club",
-      "duration_in_ms": 188042
+      "audio_id": "1402083272054962",
+      "title": "Love Letter",
+      "display_artist": "Bloom",
+      "duration_in_ms": 63580
     },
     {
-      "audio_id": "371894145406454",
-      "title": "Finale",
-      "display_artist": "Sam Marshall",
-      "duration_in_ms": 238358
+      "audio_id": "2286259825098614",
+      "title": "Call For The Ride",
+      "display_artist": "Trout Recording",
+      "duration_in_ms": 183459
     },
     {
-      "audio_id": "1344035713060895",
-      "title": "Dona Maria",
-      "display_artist": "Jasmine",
-      "duration_in_ms": 134821
+      "audio_id": "251045280669202",
+      "title": "Estar (To Be)",
+      "display_artist": "Munir",
+      "duration_in_ms": 225677
     },
     {
-      "audio_id": "1138197414138820",
-      "title": "Magic Karma",
-      "display_artist": "Lucid Mantra",
-      "duration_in_ms": 228532
-    },
-    {
-      "audio_id": "1215672486391891",
-      "title": "It's Not Over Till It's Over (Acoustic)",
-      "display_artist": "Tash",
-      "duration_in_ms": 199380
-    },
-    {
-      "audio_id": "1987819381388616",
-      "title": "Vaivén",
-      "display_artist": "Paula van Hissenhoven",
-      "duration_in_ms": 248780
-    },
-    {
-      "audio_id": "5067527913473007",
-      "title": "Showcase (Instrumental)",
-      "display_artist": "Shanice",
-      "duration_in_ms": 124680
-    },
-    {
-      "audio_id": "1943781602969561",
-      "title": "Paper Planets",
-      "display_artist": "Sequels",
-      "duration_in_ms": 61290
-    },
-    {
-      "audio_id": "836931227734515",
-      "title": "Fawn's Nocturne",
-      "display_artist": "Sam Marshall",
-      "duration_in_ms": 189991
-    },
-    {
-      "audio_id": "671218792154861",
-      "title": "Thai EDM (Reels Sound - Before And After)",
-      "display_artist": "POTG",
-      "duration_in_ms": 21255
-    },
-    {
-      "audio_id": "419889804412662",
-      "title": "Fireball (feat. Cullman Avenue)",
-      "display_artist": "Bryan Todd",
-      "duration_in_ms": 160040
-    },
-    {
-      "audio_id": "669605605330383",
-      "title": "Rain River",
-      "display_artist": "Jayme Stone",
-      "duration_in_ms": 207425
-    },
-    {
-      "audio_id": "679362953889797",
-      "title": "Summer Paradise Remix (Tony Dark Eyes)",
-      "display_artist": "SooK",
-      "duration_in_ms": 175649
-    },
-    {
-      "audio_id": "1823691608002236",
-      "title": "Happier",
-      "display_artist": "Bryan Todd",
-      "duration_in_ms": 194680
-    },
-    {
-      "audio_id": "2910840972428393",
-      "title": "Take Me To Love (Instrumental)",
+      "audio_id": "1383585928993058",
+      "title": "My Fantasy",
       "display_artist": "Alex Blue",
-      "duration_in_ms": 190343
+      "duration_in_ms": 170710
     },
     {
-      "audio_id": "1781038949533240",
-      "title": "Way Up",
-      "display_artist": "Jordan Olmos",
-      "duration_in_ms": 62032
+      "audio_id": "3943961589209715",
+      "title": "American Beauty (Instrumental)",
+      "display_artist": "Swell Sound",
+      "duration_in_ms": 147280
     },
     {
-      "audio_id": "954458112571004",
-      "title": "Friends 30s",
-      "display_artist": "Giulio Cercato",
-      "duration_in_ms": 29580
+      "audio_id": "695844039558832",
+      "title": "I Might Fall (Instrumental)",
+      "display_artist": "half.cool",
+      "duration_in_ms": 135724
+    },
+    {
+      "audio_id": "1248016873662502",
+      "title": "Bright Pop Brass (Reels Sound - Before And After)",
+      "display_artist": "POTG",
+      "duration_in_ms": 20980
+    },
+    {
+      "audio_id": "265264712990802",
+      "title": "Continues To Reign",
+      "display_artist": "Trout Recording",
+      "duration_in_ms": 194587
+    },
+    {
+      "audio_id": "922357910329994",
+      "title": "Spy-Fi Swing",
+      "display_artist": "Daria Novo",
+      "duration_in_ms": 156150
+    },
+    {
+      "audio_id": "1182825363379130",
+      "title": "Modern Funk (Reels Sound - Before And After)",
+      "display_artist": "POTG",
+      "duration_in_ms": 15090
+    },
+    {
+      "audio_id": "234353719598000",
+      "title": "Como O Meu Coraçao (Instrumental)",
+      "display_artist": "Kolektivo",
+      "duration_in_ms": 183428
+    },
+    {
+      "audio_id": "1481187407382142",
+      "title": "Lurking",
+      "display_artist": "Vestevent",
+      "duration_in_ms": 61670
+    },
+    {
+      "audio_id": "989325213083867",
+      "title": "Foguette Solto (Instrumental)",
+      "display_artist": "Company Money",
+      "duration_in_ms": 143130
+    },
+    {
+      "audio_id": "968870937779589",
+      "title": "Showdown",
+      "display_artist": "Dhruv Goel",
+      "duration_in_ms": 97600
+    },
+    {
+      "audio_id": "226616820131239",
+      "title": "Espoir Congo (Hope Of Congo) (feat. Rogatien Milord)",
+      "display_artist": "Afro Sound Machine",
+      "duration_in_ms": 219160
+    },
+    {
+      "audio_id": "683617687081103",
+      "title": "It's Over (Instrumental)",
+      "display_artist": "Sleeping Lion",
+      "duration_in_ms": 174050
+    },
+    {
+      "audio_id": "1243343791232580",
+      "title": "Flight Risk",
+      "display_artist": "Magnetic Sirens",
+      "duration_in_ms": 61711
+    },
+    {
+      "audio_id": "1056366892604167",
+      "title": "Motivation Remix (Ruby Amanfu) (Instrumental)",
+      "display_artist": "Sleeping Lion",
+      "duration_in_ms": 170410
     },
     {
       "audio_id": "493547095922584",
@@ -110,46 +116,40 @@
       "duration_in_ms": 218666
     },
     {
-      "audio_id": "781490713807191",
-      "title": "Texas Blues Bender",
-      "display_artist": "TrackTribe",
-      "duration_in_ms": 146810
+      "audio_id": "3450255101925800",
+      "title": "Investigating",
+      "display_artist": "Mike Block",
+      "duration_in_ms": 154271
     },
     {
-      "audio_id": "1064208625974825",
-      "title": "Coffee Addict",
-      "display_artist": "Magnetic Sirens",
-      "duration_in_ms": 61632
+      "audio_id": "933425858445208",
+      "title": "Delara",
+      "display_artist": "Azam Ali",
+      "duration_in_ms": 177520
     },
     {
-      "audio_id": "1211400761153090",
-      "title": "Morning Waves",
-      "display_artist": "cloud cover",
-      "duration_in_ms": 65095
+      "audio_id": "2833449003479053",
+      "title": "Piano ASMR (Reels Sound - Listicle)",
+      "display_artist": "POTG",
+      "duration_in_ms": 21010
     },
     {
-      "audio_id": "424013680504844",
-      "title": "Lost Without You",
-      "display_artist": "Ross Lara",
-      "duration_in_ms": 234940
+      "audio_id": "691604280331187",
+      "title": "Kalipp",
+      "display_artist": "Tony Jo",
+      "duration_in_ms": 165589
     },
     {
-      "audio_id": "826217965460867",
-      "title": "Atlantis",
-      "display_artist": "Ella Joy Meir",
-      "duration_in_ms": 174545
+      "audio_id": "556549580196820",
+      "title": "Ocean Love",
+      "display_artist": "Giulio Cercato",
+      "duration_in_ms": 142310
     },
     {
-      "audio_id": "703012768533951",
-      "title": "Obrigada Meu Amor (Instrumental)",
-      "display_artist": "Global Genius",
-      "duration_in_ms": 138987
-    },
-    {
-      "audio_id": "770661621150752",
-      "title": "Born Ancient (Instrumental)",
-      "display_artist": "Adam Selzer",
-      "duration_in_ms": 165911
+      "audio_id": "1190788152489335",
+      "title": "Drip (Reels Sound - Before And After)",
+      "display_artist": "POTG",
+      "duration_in_ms": 14300
     }
   ],
   "searches": {
