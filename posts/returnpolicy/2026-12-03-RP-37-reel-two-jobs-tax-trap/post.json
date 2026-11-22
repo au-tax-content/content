@@ -1,0 +1,21 @@
+{
+  "id": "RP-37",
+  "account": "returnpolicy",
+  "type": "reel",
+  "series": "Pay less, legally",
+  "pillar": "explainer",
+  "publish_at": "2026-12-03T19:30:00+11:00",
+  "caption": "2 jobs? Here's exactly how your tax works.\n\nThe second job tax trap surprises thousands of Australians every July. It's not the ATO's fault \u2014 it's just how the system works. But knowing this in December means you can fix it before you owe anything.\n\nSave this and tag someone with a side job.\n\n#ReturnPolicyAU #SecondJob #SideHustle #TaxTips #Employee",
+  "images": [],
+  "figures_checked": [
+    "tax-free threshold $18,200 from one payer only (ato.gov.au 15 Nov 2026)"
+  ],
+  "status": "queued",
+  "trial": true,
+  "graduation": "SS_PERFORMANCE",
+  "audio_id": "1360982774680648",
+  "audio_note": "Love Roulette - MontLee",
+  "format": "motion reel",
+  "video": "reel.mp4",
+  "cover": "cover.jpg"
+}

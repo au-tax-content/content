@@ -1,0 +1,22 @@
+{
+  "id": "RT-40",
+  "account": "retained",
+  "type": "reel",
+  "series": "First-year ABN",
+  "pillar": "deductions",
+  "publish_at": "2026-12-05T19:30:00+11:00",
+  "caption": "3 deductions that surprise most first-year ABN holders.\n\nNobody tells you these at registration. You find out when you file your first return \u2014 either because you claimed them, or because you didn't and wish you had.\n\nSave this. Share it with anyone who just went out on their own.\n\n#RetainedAU #NewABN #SoleTrader #TaxDeductions #SmallBusiness",
+  "images": [],
+  "figures_checked": [
+    "concessional cap $32,500 2026-27 (ato.gov.au 15 Nov 2026)",
+    "super taxed at 15% (ato.gov.au 11 Nov 2026)"
+  ],
+  "status": "queued",
+  "trial": true,
+  "graduation": "SS_PERFORMANCE",
+  "audio_id": "1193669708500085",
+  "audio_note": "The Sweetest - half.cool",
+  "format": "motion reel",
+  "video": "reel.mp4",
+  "cover": "cover.jpg"
+}

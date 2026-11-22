@@ -1,0 +1,23 @@
+{
+  "id": "RP-34",
+  "account": "returnpolicy",
+  "type": "reel",
+  "series": "Pay less, legally",
+  "pillar": "lead",
+  "publish_at": "2026-12-01T19:30:00+11:00",
+  "caption": "I ranked every way employees pay less tax \u2014 S to D tier.\n\nSome of these will surprise you. Some might make you rethink what you filed last year.\n\nSave this. Which tier are you in?\n\n#ReturnPolicyAU #TaxTips #Employee #TaxStrategy #PayLessLegally",
+  "images": [],
+  "figures_checked": [
+    "standard deduction $1,000 from 2026-27 (ato.gov.au 15 Nov 2026)",
+    "carry-forward super: balance under $500K at prior 30 June (ato.gov.au 15 Nov 2026)",
+    "concessional cap $32,500 2026-27 (ato.gov.au 15 Nov 2026)"
+  ],
+  "status": "queued",
+  "trial": true,
+  "graduation": "SS_PERFORMANCE",
+  "audio_id": "183646644341732",
+  "audio_note": "Turbulence - Sleeping Lion",
+  "format": "motion reel",
+  "video": "reel.mp4",
+  "cover": "cover.jpg"
+}

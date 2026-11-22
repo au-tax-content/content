@@ -1,0 +1,24 @@
+{
+  "id": "RP-41",
+  "account": "returnpolicy",
+  "type": "reel",
+  "series": "Pay less, legally",
+  "pillar": "strategy",
+  "publish_at": "2026-12-06T19:30:00+11:00",
+  "caption": "On $100K+? Here are 3 things you can still claim.\n\nLITO phases out by $66,667. The standard work deduction still applies. But at this income, the lever that moves the needle most is super \u2014 and most people on $100K are nowhere near the cap.\n\nSave this and check how much room you have left.\n\n#ReturnPolicyAU #HighIncome #TaxTips #SalarySacrifice #PayLessLegally",
+  "images": [],
+  "figures_checked": [
+    "resident rates 30% at $45,001-$135,000 (ato.gov.au 15 Nov 2026)",
+    "LITO phases out at $66,667 (ato.gov.au 15 Nov 2026)",
+    "concessional cap $32,500 2026-27 (ato.gov.au 15 Nov 2026)",
+    "income protection outside super deductible (ato.gov.au 15 Nov 2026)"
+  ],
+  "status": "queued",
+  "trial": true,
+  "graduation": "SS_PERFORMANCE",
+  "audio_id": "1175643387436804",
+  "audio_note": "Our Story - Giulio Cercato",
+  "format": "motion reel",
+  "video": "reel.mp4",
+  "cover": "cover.jpg"
+}

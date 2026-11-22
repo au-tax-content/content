@@ -1,0 +1,23 @@
+{
+  "id": "RT-32",
+  "account": "retained",
+  "type": "reel",
+  "series": "Keep more",
+  "pillar": "lead",
+  "publish_at": "2026-11-30T12:30:00+11:00",
+  "caption": "5 things to do before 31 December to cut this year's tax.\n\nMost business owners wait until June. The ones who act in December get the deductions that actually land in this financial year.\n\nSave this \u2014 come back to it before the end of the month.\n\n#RetainedAU #SmallBusiness #TaxPlanning #ABN #BusinessTax",
+  "images": [],
+  "figures_checked": [
+    "concessional cap $32,500 2026-27 (ato.gov.au 15 Nov 2026)",
+    "prepaid expenses 12-month rule (ato.gov.au 12 Nov 2026)",
+    "instant asset write-off $20,000 2026-27 (ato.gov.au 15 Nov 2026)"
+  ],
+  "status": "queued",
+  "trial": true,
+  "graduation": "SS_PERFORMANCE",
+  "audio_id": "1361915537947793",
+  "audio_note": "Smooth Like Silk - Brian Withycombe",
+  "format": "motion reel",
+  "video": "reel.mp4",
+  "cover": "cover.jpg"
+}

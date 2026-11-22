@@ -1,0 +1,22 @@
+{
+  "id": "RT-37",
+  "account": "retained",
+  "type": "reel",
+  "series": "Keep more",
+  "pillar": "strategy",
+  "publish_at": "2026-12-03T19:30:00+11:00",
+  "caption": "What a registered tax agent actually does for small businesses.\n\nIt's not just lodging your return. The agents who earn their fee find the things you didn't know applied \u2014 before the ATO finds the things you got wrong.\n\nSave this for anyone who thinks a tax agent is optional.\n\n#RetainedAU #SmallBusiness #TaxAgent #ABN #BusinessTax",
+  "images": [],
+  "figures_checked": [
+    "small business tax offset 16% capped $1,000 (ato.gov.au 15 Nov 2026)",
+    "failure to lodge penalty $364/28 days from July 2026 (ato.gov.au 15 Nov 2026)"
+  ],
+  "status": "queued",
+  "trial": true,
+  "graduation": "SS_PERFORMANCE",
+  "audio_id": "960890649162903",
+  "audio_note": "The Healing - Lyle Workman",
+  "format": "motion reel",
+  "video": "reel.mp4",
+  "cover": "cover.jpg"
+}

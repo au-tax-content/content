@@ -1,5 +1,13 @@
 # Notes: what's working (newest first)
 
+## 22 Nov 2026: weekly run (week of 30 Nov–6 Dec)
+
+**Scorecard (15–21 Nov):** Retained 4 followers (unchanged). Return Policy 3 (unchanged). Best by reach: RT-19 list loop 124 (1 save, 8.1 ss/1k), RP-21 tier list 108 (1 save, 9.3 ss/1k), RP-19 list loop 101, RT-21 tier list 68. Best ss/1k: RT-20 ladder 43.5 (1 save, 23 reach), RP-22 list loop 31.2 (1 save, 32 reach). Experiment result: list loops and tier lists outperform 5-card motion on both reach and ss/1k — these are the new default for high-volume slots. Voiced Reels (RT/RP-17) published Fri; too early to judge. 12:30 pm looping slots earn strong saves despite lower reach.
+
+**Decisions:** Double down on list loops and tier lists. 7:30 pm Reels: at least 2 list/tier per account per week. 12:30 pm slots: looping list every time. No voiceover this week (vidIQ credits reset 3 Dec; use from 7 Dec run). No new carousels or stories.
+
+**Built this run:** RT-32–RT-41 and RP-32–RP-41 (Mon 30 Nov–Sun 6 Dec). Format mix per account: 3 looping lists (12:30 pm Mon/Wed/Fri), 1 tier list, 1 ladder, 5 motion Reels with full-colour hook covers. All figures from figures.md (checked 15 Nov) or new checks noted below.
+
 ## 21 Nov 2026: mid-week check (for the 22 Nov Sunday run: read this first)
 
 - **The queue is full to Sun 29 Nov on both accounts. Build Mon 30 Nov – Sun 6 Dec. Don't add anything to 23–29 Nov.**

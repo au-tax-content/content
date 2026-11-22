@@ -1,0 +1,24 @@
+{
+  "id": "RT-41",
+  "account": "retained",
+  "type": "reel",
+  "series": "Keep more",
+  "pillar": "lead",
+  "publish_at": "2026-12-06T19:30:00+11:00",
+  "caption": "Why your tax rate rises faster than your income.\n\nIt's not a glitch in the system. It's how marginal rates and phase-outs work together. Once you understand the mechanism, the planning moves become obvious.\n\nSave this for anyone who thought their tax bill seemed too high.\n\n#RetainedAU #TaxRates #SmallBusiness #MarginalRate #ABN",
+  "images": [],
+  "figures_checked": [
+    "resident rates 15%/30%/37%/45% at $18,200/$45,000/$135,000/$190,000 (ato.gov.au 15 Nov 2026)",
+    "Medicare levy 2% (ato.gov.au 15 Nov 2026)",
+    "LITO $700 to $37,500 phases to $0 at $66,667 (ato.gov.au 15 Nov 2026)",
+    "Division 293 threshold $250,000 (ato.gov.au 15 Nov 2026)"
+  ],
+  "status": "queued",
+  "trial": true,
+  "graduation": "SS_PERFORMANCE",
+  "audio_id": "1079804733181849",
+  "audio_note": "Above Them All - Cameron Rasmussen",
+  "format": "motion reel",
+  "video": "reel.mp4",
+  "cover": "cover.jpg"
+}

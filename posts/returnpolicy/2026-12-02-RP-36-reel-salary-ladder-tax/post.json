@@ -1,0 +1,23 @@
+{
+  "id": "RP-36",
+  "account": "returnpolicy",
+  "type": "reel",
+  "series": "Pay less, legally",
+  "pillar": "explainer",
+  "publish_at": "2026-12-02T19:30:00+11:00",
+  "caption": "Exact tax on your salary in 2026-27 \u2014 $60K, $80K, $100K, $120K.\n\nMost people have no idea what they actually paid. If you do know yours, you're already ahead.\n\nSave this. Share it with someone who keeps asking why their refund was so small.\n\n#ReturnPolicyAU #TaxRates #Salary #TaxReturn #PayLessLegally",
+  "images": [],
+  "figures_checked": [
+    "resident rates 15%/30%/37%/45% at $18,200/$45,000/$135,000/$190,000 (ato.gov.au 15 Nov 2026)",
+    "LITO $700 to $37,500 phases to $0 at $66,667 (ato.gov.au 15 Nov 2026)",
+    "Medicare levy 2% (ato.gov.au 15 Nov 2026)"
+  ],
+  "status": "queued",
+  "trial": true,
+  "graduation": "SS_PERFORMANCE",
+  "audio_id": "937887510965305",
+  "audio_note": "Hand Made - Jumbo",
+  "format": "motion reel",
+  "video": "reel.mp4",
+  "cover": "cover.jpg"
+}

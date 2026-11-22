@@ -1,0 +1,25 @@
+{
+  "id": "RT-34",
+  "account": "retained",
+  "type": "reel",
+  "series": "Keep more",
+  "pillar": "lead",
+  "publish_at": "2026-12-01T19:30:00+11:00",
+  "caption": "I ranked 7 tax moves for small business owners \u2014 S to D tier.\n\nSome of these feel like they should be S tier. Scroll through before you decide.\n\nSave this. Which tier are you playing in?\n\n#RetainedAU #SmallBusiness #TaxStrategy #ABN #BusinessOwner",
+  "images": [],
+  "figures_checked": [
+    "concessional cap $32,500 2026-27 (ato.gov.au 15 Nov 2026)",
+    "small business tax offset 16% capped $1,000 (ato.gov.au 15 Nov 2026)",
+    "instant asset write-off $20,000 2026-27 (ato.gov.au 15 Nov 2026)",
+    "prepaid expenses 12-month rule (ato.gov.au 12 Nov 2026)",
+    "company tax rate 25% (ato.gov.au 11 Nov 2026)"
+  ],
+  "status": "queued",
+  "trial": true,
+  "graduation": "SS_PERFORMANCE",
+  "audio_id": "2022652068369715",
+  "audio_note": "With Me (Instrumental) - Giulio Cercato",
+  "format": "motion reel",
+  "video": "reel.mp4",
+  "cover": "cover.jpg"
+}

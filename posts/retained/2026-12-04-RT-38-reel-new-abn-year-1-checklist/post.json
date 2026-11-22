@@ -1,0 +1,22 @@
+{
+  "id": "RT-38",
+  "account": "retained",
+  "type": "reel",
+  "series": "First-year ABN",
+  "pillar": "habits",
+  "publish_at": "2026-12-04T12:30:00+11:00",
+  "caption": "New ABN? Set these 5 things up in year one.\n\nMost first-year ABN holders get the registration right. The ones who build a tax-efficient business from day one do these 5 things before their first full financial year is done.\n\nSave this for anyone who just got their ABN.\n\n#RetainedAU #NewABN #SmallBusiness #SoleTrader #TaxTips",
+  "images": [],
+  "figures_checked": [
+    "GST threshold $75,000 register within 21 days (ato.gov.au 3 Nov 2026)",
+    "concessional cap $32,500 2026-27 (ato.gov.au 15 Nov 2026)"
+  ],
+  "status": "queued",
+  "trial": true,
+  "graduation": "SS_PERFORMANCE",
+  "audio_id": "1586718512974456",
+  "audio_note": "Space Dance - Fellow Travelers",
+  "format": "motion reel",
+  "video": "reel.mp4",
+  "cover": "cover.jpg"
+}

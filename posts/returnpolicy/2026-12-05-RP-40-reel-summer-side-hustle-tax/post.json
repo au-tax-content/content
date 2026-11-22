@@ -1,0 +1,23 @@
+{
+  "id": "RP-40",
+  "account": "returnpolicy",
+  "type": "reel",
+  "series": "Pay less, legally",
+  "pillar": "explainer",
+  "publish_at": "2026-12-05T19:30:00+11:00",
+  "caption": "Starting a summer side hustle? Read this before you spend a dollar.\n\nThe sharing economy platforms report to the ATO. That Airbnb income, that Airtasker gig \u2014 it's all going on your record. Setting up right from the first payment is so much easier than explaining it later.\n\nSave this and tag a friend who's starting a side hustle this summer.\n\n#ReturnPolicyAU #SideHustle #TaxTips #ABN #SummerIncome",
+  "images": [],
+  "figures_checked": [
+    "Sharing Economy Reporting Regime (ato.gov.au 15 Nov 2026)",
+    "no minimum threshold for side hustle income (ato.gov.au 15 Nov 2026)",
+    "business vs hobby no dollar threshold (ato.gov.au 15 Nov 2026)"
+  ],
+  "status": "queued",
+  "trial": true,
+  "graduation": "SS_PERFORMANCE",
+  "audio_id": "25895215883408738",
+  "audio_note": "Nowhere Fast - Bryan Todd",
+  "format": "motion reel",
+  "video": "reel.mp4",
+  "cover": "cover.jpg"
+}

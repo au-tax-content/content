@@ -1,0 +1,23 @@
+{
+  "id": "RP-35",
+  "account": "returnpolicy",
+  "type": "reel",
+  "series": "What can a [job] claim?",
+  "pillar": "deductions",
+  "publish_at": "2026-12-02T12:30:00+11:00",
+  "caption": "10 work claims employees miss every year.\n\nSave this \u2014 it's the list to run through every July when you're doing your return. If you can say yes to even 3 of these, you'll recover more than you expected.\n\n#ReturnPolicyAU #TaxDeductions #TaxReturn #Employee #WorkExpenses",
+  "images": [],
+  "figures_checked": [
+    "tools under $300 immediate deduction (ato.gov.au 8 Nov 2026)",
+    "income protection outside super deductible (ato.gov.au 15 Nov 2026)",
+    "concessional cap $32,500 2026-27 (ato.gov.au 15 Nov 2026)"
+  ],
+  "status": "queued",
+  "trial": true,
+  "graduation": "SS_PERFORMANCE",
+  "audio_id": "544745587104090",
+  "audio_note": "Clack - Chela Rivas",
+  "format": "motion reel",
+  "video": "reel.mp4",
+  "cover": "cover.jpg"
+}
