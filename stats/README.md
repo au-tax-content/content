@@ -1,6 +1,6 @@
 # Instagram stats
 
-Updated Mon 23 Nov 2026, 4:36 PM (Sydney). Refreshes about every 4 hours.
+Updated Mon 23 Nov 2026, 8:42 PM (Sydney). Refreshes about every 4 hours.
 
 ## Retained (@retained.au)
 
@@ -24,7 +24,7 @@ Updated Mon 23 Nov 2026, 4:36 PM (Sydney). Refreshes about every 4 hours.
 | [RT-04](https://www.instagram.com/reel/DfOqmDajkQk/) | Reels | 105 | 0 | 0 | 0 |
 | [RT-14R](https://www.instagram.com/reel/Dfoqe3NILfO/) | Reels | 102 | 0 | 0 | 0 |
 | [RT-06](https://www.instagram.com/reel/DfUC-pHFMT_/) | Reels | 90 | 0 | 0 | 0 |
-| [RT-24](https://www.instagram.com/reel/DgCZhOFoBZu/) | Reels | 86 | 0 | 0 | 0 |
+| [RT-24](https://www.instagram.com/reel/DgCZhOFoBZu/) | Reels | 90 | 0 | 0 | 0 |
 
 ## Return Policy (@returnpolicy.au)
 
