@@ -18,5 +18,10 @@
   "audio_note": "Astral Plane (Instrumental) - bbox (corporate)",
   "format": "motion",
   "modelled_on": "Rule-change news explainers ('Big news from the ATO': 832K views, 8.8x median)",
-  "status": "queued"
+  "status": "published",
+  "trial_used": false,
+  "trial_error": "HTTP 400: Application does not have permission for this action (code 10, subcode 2207081)",
+  "media_id": "17891438502688469",
+  "published_at": "2026-11-24T09:14:13.037998+00:00",
+  "permalink": "https://www.instagram.com/reel/DgHm8srk8Lm/"
 }
