@@ -1,155 +1,155 @@
 {
-  "fetched_at": "2026-11-24T09:30+00:00",
+  "fetched_at": "2026-11-24T13:39+00:00",
   "trending": [
     {
-      "audio_id": "278801881367484",
-      "title": "I'm Still Here",
-      "display_artist": "Cy Curnin",
-      "duration_in_ms": 193110
-    },
-    {
-      "audio_id": "266450649332080",
-      "title": "Together Forever",
-      "display_artist": "Loga Ramin Torkian",
-      "duration_in_ms": 173257
-    },
-    {
-      "audio_id": "2623141041391037",
-      "title": "Running",
-      "display_artist": "Julia Gartha",
-      "duration_in_ms": 128407
-    },
-    {
-      "audio_id": "1372278221656819",
-      "title": "Face It",
-      "display_artist": "cloud cover",
-      "duration_in_ms": 78975
-    },
-    {
-      "audio_id": "386854910476874",
-      "title": "Tangled Up (feat. Cullman Avenue)",
-      "display_artist": "Bryan Todd",
-      "duration_in_ms": 171650
-    },
-    {
-      "audio_id": "1530388128384986",
-      "title": "Holiday Season",
-      "display_artist": "Julia Gartha",
-      "duration_in_ms": 146252
-    },
-    {
-      "audio_id": "774563274525776",
-      "title": "Le Groove (feat. Brooklyn Basics)",
-      "display_artist": "Trout Recording",
-      "duration_in_ms": 126580
-    },
-    {
-      "audio_id": "1311177383290196",
-      "title": "Decisions (Reels Sound - Listicle)",
-      "display_artist": "POTG",
-      "duration_in_ms": 15000
-    },
-    {
-      "audio_id": "2606124386262441",
-      "title": "Giddy Up Remix (Joanna Janét)",
-      "display_artist": "Sleeping Lion",
-      "duration_in_ms": 193540
-    },
-    {
-      "audio_id": "709218654262818",
-      "title": "On The Move",
-      "display_artist": "Otis McDonald",
-      "duration_in_ms": 60750
-    },
-    {
-      "audio_id": "1079804733181849",
-      "title": "Above Them All",
-      "display_artist": "Cameron Rasmussen",
-      "duration_in_ms": 149545
-    },
-    {
-      "audio_id": "1089410413517052",
-      "title": "Pretty Chill",
-      "display_artist": "Max Holm",
-      "duration_in_ms": 67570
-    },
-    {
-      "audio_id": "1035406911807939",
-      "title": "Summer (Reels Sound - Listicle)",
-      "display_artist": "POTG",
-      "duration_in_ms": 12228
-    },
-    {
-      "audio_id": "2883948241955792",
-      "title": "Jerm Perm",
-      "display_artist": "Summer Islands",
-      "duration_in_ms": 63110
-    },
-    {
-      "audio_id": "2760958077637231",
-      "title": "Kitty Purry",
-      "display_artist": "anonymous audio",
-      "duration_in_ms": 66660
-    },
-    {
-      "audio_id": "3397573643706676",
-      "title": "Clear From Here",
-      "display_artist": "Global Genius",
-      "duration_in_ms": 238123
-    },
-    {
-      "audio_id": "2043719425813778",
-      "title": "Mamayo",
-      "display_artist": "Ecklectic Music",
-      "duration_in_ms": 198190
-    },
-    {
-      "audio_id": "608334931793444",
-      "title": "Rose Petal Love (Instrumental)",
-      "display_artist": "Shuba",
-      "duration_in_ms": 173980
-    },
-    {
-      "audio_id": "1368174622072131",
-      "title": "Fairytales Age Too",
-      "display_artist": "cloud cover",
-      "duration_in_ms": 52812
-    },
-    {
-      "audio_id": "3349412415308746",
-      "title": "3D Love (Instrumental)",
-      "display_artist": "Global Genius",
-      "duration_in_ms": 190929
-    },
-    {
-      "audio_id": "381756107787780",
-      "title": "Star Signs",
+      "audio_id": "996668239952736",
+      "title": "Chopped Out",
       "display_artist": "Company Money",
-      "duration_in_ms": 143860
+      "duration_in_ms": 79587
     },
     {
-      "audio_id": "607939075313135",
-      "title": "Sweet Girls Break Hearts",
-      "display_artist": "Shuba",
-      "duration_in_ms": 217240
+      "audio_id": "1864143637650774",
+      "title": "Work (feat. Augustus Banks)",
+      "display_artist": "half.cool",
+      "duration_in_ms": 128384
     },
     {
-      "audio_id": "1899119408160179",
-      "title": "Mango",
+      "audio_id": "650914256368487",
+      "title": "Heavy Rain",
+      "display_artist": "Mike Block",
+      "duration_in_ms": 159623
+    },
+    {
+      "audio_id": "1043658100820040",
+      "title": "Vertige",
+      "display_artist": "Ross Lara",
+      "duration_in_ms": 234340
+    },
+    {
+      "audio_id": "491065306109702",
+      "title": "Slide (prod. by d.higgs)",
+      "display_artist": "Alan Avry",
+      "duration_in_ms": 144550
+    },
+    {
+      "audio_id": "1018075555840406",
+      "title": "Kire Bhujli (Instrumental)",
+      "display_artist": "Cizzy",
+      "duration_in_ms": 176928
+    },
+    {
+      "audio_id": "794157527012177",
+      "title": "Perfect (Instrumental)",
+      "display_artist": "Giulio Cercato",
+      "duration_in_ms": 137276
+    },
+    {
+      "audio_id": "1845648619197463",
+      "title": "Enough Light",
+      "display_artist": "Adam Selzer",
+      "duration_in_ms": 181760
+    },
+    {
+      "audio_id": "1510167639497729",
+      "title": "Playing Past Midnight",
+      "display_artist": "The Poison Oaks",
+      "duration_in_ms": 219418
+    },
+    {
+      "audio_id": "500814952258050",
+      "title": "Happy New Year Baby",
+      "display_artist": "Nick Gallant",
+      "duration_in_ms": 110530
+    },
+    {
+      "audio_id": "1251586256746538",
+      "title": "Fast Forward",
+      "display_artist": "Otis McDonald",
+      "duration_in_ms": 176340
+    },
+    {
+      "audio_id": "678620008373999",
+      "title": "For A Better Day (feat. Daria Novo)",
+      "display_artist": "Loga Ramin Torkian",
+      "duration_in_ms": 182145
+    },
+    {
+      "audio_id": "181791001314228",
+      "title": "Grunge Town",
+      "display_artist": "Ecklectic Music",
+      "duration_in_ms": 186110
+    },
+    {
+      "audio_id": "893717629101552",
+      "title": "Flags",
+      "display_artist": "HME",
+      "duration_in_ms": 177870
+    },
+    {
+      "audio_id": "949093596477924",
+      "title": "Boots",
+      "display_artist": "Sam Marshall",
+      "duration_in_ms": 174556
+    },
+    {
+      "audio_id": "1509206829551527",
+      "title": "Chali Re (feat. Prashanth Techno)",
+      "display_artist": "Amira Gill",
+      "duration_in_ms": 217114
+    },
+    {
+      "audio_id": "1056366892604167",
+      "title": "Motivation Remix (Ruby Amanfu) (Instrumental)",
+      "display_artist": "Sleeping Lion",
+      "duration_in_ms": 170410
+    },
+    {
+      "audio_id": "1079025940956010",
+      "title": "Take Me Home (Loop)",
+      "display_artist": "Giulio Cercato",
+      "duration_in_ms": 31219
+    },
+    {
+      "audio_id": "292840203670848",
+      "title": "Overtone",
+      "display_artist": "half.cool",
+      "duration_in_ms": 261170
+    },
+    {
+      "audio_id": "1462789732204127",
+      "title": "Bi Lingual",
       "display_artist": "cloud cover",
-      "duration_in_ms": 48050
+      "duration_in_ms": 65142
     },
     {
-      "audio_id": "1066809627784180",
-      "title": "Laser Disco",
-      "display_artist": "Marshall Watson",
-      "duration_in_ms": 221530
+      "audio_id": "1160592496112686",
+      "title": "Fairyland",
+      "display_artist": "Daria Novo",
+      "duration_in_ms": 164149
     },
     {
-      "audio_id": "24162202526751741",
-      "title": "Mbele (Loop)",
-      "display_artist": "Afro Sound Machine",
-      "duration_in_ms": 48000
+      "audio_id": "1456977456409916",
+      "title": "Holding On Instead",
+      "display_artist": "Rachael Fuller",
+      "duration_in_ms": 180753
+    },
+    {
+      "audio_id": "212269278464668",
+      "title": "AI (feat. Plum Soul)",
+      "display_artist": "Jumbo",
+      "duration_in_ms": 211047
+    },
+    {
+      "audio_id": "1262167058628047",
+      "title": "Titan",
+      "display_artist": "Chela Rivas",
+      "duration_in_ms": 145212
+    },
+    {
+      "audio_id": "4012223592407002",
+      "title": "3I Atlas",
+      "display_artist": "Summer Islands",
+      "duration_in_ms": 95710
     }
   ],
   "searches": {
