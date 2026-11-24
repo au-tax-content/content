@@ -1,155 +1,155 @@
 {
-  "fetched_at": "2026-11-24T13:39+00:00",
+  "fetched_at": "2026-11-24T17:20+00:00",
   "trending": [
     {
-      "audio_id": "996668239952736",
-      "title": "Chopped Out",
+      "audio_id": "1290840325522561",
+      "title": "Foguette Solto (feat. TyR3XX & Mc Framboesa)",
       "display_artist": "Company Money",
-      "duration_in_ms": 79587
+      "duration_in_ms": 143130
     },
     {
-      "audio_id": "1864143637650774",
-      "title": "Work (feat. Augustus Banks)",
-      "display_artist": "half.cool",
-      "duration_in_ms": 128384
+      "audio_id": "1546277447294237",
+      "title": "Explore",
+      "display_artist": "Company Money",
+      "duration_in_ms": 84182
     },
     {
-      "audio_id": "650914256368487",
-      "title": "Heavy Rain",
-      "display_artist": "Mike Block",
-      "duration_in_ms": 159623
+      "audio_id": "983365126323162",
+      "title": "Green Grass In Winter",
+      "display_artist": "Trout Recording",
+      "duration_in_ms": 204356
     },
     {
-      "audio_id": "1043658100820040",
-      "title": "Vertige",
-      "display_artist": "Ross Lara",
-      "duration_in_ms": 234340
-    },
-    {
-      "audio_id": "491065306109702",
-      "title": "Slide (prod. by d.higgs)",
-      "display_artist": "Alan Avry",
-      "duration_in_ms": 144550
-    },
-    {
-      "audio_id": "1018075555840406",
-      "title": "Kire Bhujli (Instrumental)",
-      "display_artist": "Cizzy",
-      "duration_in_ms": 176928
-    },
-    {
-      "audio_id": "794157527012177",
-      "title": "Perfect (Instrumental)",
+      "audio_id": "1704551184273568",
+      "title": "Waves (Instrumental)",
       "display_artist": "Giulio Cercato",
-      "duration_in_ms": 137276
+      "duration_in_ms": 138800
     },
     {
-      "audio_id": "1845648619197463",
-      "title": "Enough Light",
-      "display_artist": "Adam Selzer",
-      "duration_in_ms": 181760
+      "audio_id": "1658999404698355",
+      "title": "To Be Free",
+      "display_artist": "Lyle Workman",
+      "duration_in_ms": 200170
     },
     {
-      "audio_id": "1510167639497729",
-      "title": "Playing Past Midnight",
-      "display_artist": "The Poison Oaks",
-      "duration_in_ms": 219418
+      "audio_id": "1393543274574299",
+      "title": "Run (feat. Bobby Brinker)",
+      "display_artist": "Bryan Todd",
+      "duration_in_ms": 216562
     },
     {
-      "audio_id": "500814952258050",
-      "title": "Happy New Year Baby",
-      "display_artist": "Nick Gallant",
-      "duration_in_ms": 110530
-    },
-    {
-      "audio_id": "1251586256746538",
-      "title": "Fast Forward",
-      "display_artist": "Otis McDonald",
-      "duration_in_ms": 176340
-    },
-    {
-      "audio_id": "678620008373999",
-      "title": "For A Better Day (feat. Daria Novo)",
-      "display_artist": "Loga Ramin Torkian",
-      "duration_in_ms": 182145
-    },
-    {
-      "audio_id": "181791001314228",
-      "title": "Grunge Town",
-      "display_artist": "Ecklectic Music",
-      "duration_in_ms": 186110
-    },
-    {
-      "audio_id": "893717629101552",
-      "title": "Flags",
-      "display_artist": "HME",
-      "duration_in_ms": 177870
-    },
-    {
-      "audio_id": "949093596477924",
-      "title": "Boots",
-      "display_artist": "Sam Marshall",
-      "duration_in_ms": 174556
-    },
-    {
-      "audio_id": "1509206829551527",
-      "title": "Chali Re (feat. Prashanth Techno)",
-      "display_artist": "Amira Gill",
-      "duration_in_ms": 217114
-    },
-    {
-      "audio_id": "1056366892604167",
-      "title": "Motivation Remix (Ruby Amanfu) (Instrumental)",
-      "display_artist": "Sleeping Lion",
-      "duration_in_ms": 170410
-    },
-    {
-      "audio_id": "1079025940956010",
-      "title": "Take Me Home (Loop)",
-      "display_artist": "Giulio Cercato",
-      "duration_in_ms": 31219
-    },
-    {
-      "audio_id": "292840203670848",
-      "title": "Overtone",
-      "display_artist": "half.cool",
-      "duration_in_ms": 261170
-    },
-    {
-      "audio_id": "1462789732204127",
-      "title": "Bi Lingual",
+      "audio_id": "2223767905145147",
+      "title": "Rewind",
       "display_artist": "cloud cover",
-      "duration_in_ms": 65142
+      "duration_in_ms": 53050
     },
     {
-      "audio_id": "1160592496112686",
-      "title": "Fairyland",
+      "audio_id": "836855297737311",
+      "title": "I’ll Come Around (Instrumental)",
+      "display_artist": "Sleeping Lion",
+      "duration_in_ms": 181141
+    },
+    {
+      "audio_id": "1059912889755085",
+      "title": "Sweet Water",
+      "display_artist": "cloud cover",
+      "duration_in_ms": 84759
+    },
+    {
+      "audio_id": "579755123812424",
+      "title": "Blue Note Tokyo",
+      "display_artist": "Ross Lara",
+      "duration_in_ms": 194208
+    },
+    {
+      "audio_id": "1312647563473838",
+      "title": "Night Walk In The Park",
+      "display_artist": "bbox",
+      "duration_in_ms": 168050
+    },
+    {
+      "audio_id": "1400260192058722",
+      "title": "Reflections",
+      "display_artist": "Jim Hustwit",
+      "duration_in_ms": 70590
+    },
+    {
+      "audio_id": "25873624668895779",
+      "title": "Coming Back (Instrumental)",
+      "display_artist": "Flow Loris",
+      "duration_in_ms": 137866
+    },
+    {
+      "audio_id": "739776548166190",
+      "title": "Tout En Toi (All In You) (Instrumental)",
+      "display_artist": "Afro Sound Machine",
+      "duration_in_ms": 172980
+    },
+    {
+      "audio_id": "222727020849020",
+      "title": "Todo En Mí (Reels Sound - Listicle)",
+      "display_artist": "Paula van Hissenhoven",
+      "duration_in_ms": 18095
+    },
+    {
+      "audio_id": "1087151795477883",
+      "title": "Ascension",
+      "display_artist": "Sam Marshall",
+      "duration_in_ms": 171359
+    },
+    {
+      "audio_id": "1531188244343039",
+      "title": "Wooden Rain",
+      "display_artist": "Symphonic Planet",
+      "duration_in_ms": 234425
+    },
+    {
+      "audio_id": "1051022286028771",
+      "title": "Lost Tribes (Instrumental)",
+      "display_artist": "Azam Ali",
+      "duration_in_ms": 198716
+    },
+    {
+      "audio_id": "280733791642527",
+      "title": "Polka The Bear",
+      "display_artist": "Global Genius",
+      "duration_in_ms": 156070
+    },
+    {
+      "audio_id": "862108925021457",
+      "title": "Close Your Eyes (feat. Scott Krippayne)",
+      "display_artist": "Bryan Todd",
+      "duration_in_ms": 192180
+    },
+    {
+      "audio_id": "1450869992652095",
+      "title": "Not So Silent Night (Reels Sound - Before & After)",
+      "display_artist": "Eveningland",
+      "duration_in_ms": 35517
+    },
+    {
+      "audio_id": "921570148849598",
+      "title": "Cave Fight",
+      "display_artist": "Apesaw",
+      "duration_in_ms": 25214
+    },
+    {
+      "audio_id": "1573595384564974",
+      "title": "Level",
+      "display_artist": "cloud cover",
+      "duration_in_ms": 65857
+    },
+    {
+      "audio_id": "2049037942594791",
+      "title": "Overtake",
+      "display_artist": "Sam Marshall",
+      "duration_in_ms": 185394
+    },
+    {
+      "audio_id": "1569611723878482",
+      "title": "Wicked Games",
       "display_artist": "Daria Novo",
-      "duration_in_ms": 164149
-    },
-    {
-      "audio_id": "1456977456409916",
-      "title": "Holding On Instead",
-      "display_artist": "Rachael Fuller",
-      "duration_in_ms": 180753
-    },
-    {
-      "audio_id": "212269278464668",
-      "title": "AI (feat. Plum Soul)",
-      "display_artist": "Jumbo",
-      "duration_in_ms": 211047
-    },
-    {
-      "audio_id": "1262167058628047",
-      "title": "Titan",
-      "display_artist": "Chela Rivas",
-      "duration_in_ms": 145212
-    },
-    {
-      "audio_id": "4012223592407002",
-      "title": "3I Atlas",
-      "display_artist": "Summer Islands",
-      "duration_in_ms": 95710
+      "duration_in_ms": 148430
     }
   ],
   "searches": {
