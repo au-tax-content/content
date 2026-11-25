@@ -1,6 +1,6 @@
 # Instagram stats
 
-Updated Wed 25 Nov 2026, 8:37 PM (Sydney). Refreshes about every 4 hours.
+Updated Thu 26 Nov 2026, 12:44 AM (Sydney). Refreshes about every 4 hours.
 
 ## Retained (@retained.au)
 

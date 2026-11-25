@@ -1,155 +1,155 @@
 {
-  "fetched_at": "2026-11-25T09:36+00:00",
+  "fetched_at": "2026-11-25T13:44+00:00",
   "trending": [
     {
-      "audio_id": "673716888310382",
-      "title": "Summer Nights",
-      "display_artist": "Dhruv Goel",
-      "duration_in_ms": 129120
+      "audio_id": "1721492795026670",
+      "title": "All I Want",
+      "display_artist": "Jennah Bell",
+      "duration_in_ms": 184667
     },
     {
-      "audio_id": "1617128989825321",
-      "title": "Midnight",
-      "display_artist": "cloud cover",
-      "duration_in_ms": 67550
+      "audio_id": "2586674541542885",
+      "title": "Click On Me (feat. Sharkie J)",
+      "display_artist": "Neko Fuzz",
+      "duration_in_ms": 203360
     },
     {
-      "audio_id": "1149249899465105",
-      "title": "Do You",
-      "display_artist": "GEEZ",
-      "duration_in_ms": 149190
-    },
-    {
-      "audio_id": "2123729644916614",
-      "title": "Deadman",
-      "display_artist": "Summer Islands",
-      "duration_in_ms": 61270
-    },
-    {
-      "audio_id": "260330426839483",
-      "title": "Good Day (Instrumental)",
-      "display_artist": "Julia Gartha",
-      "duration_in_ms": 171400
-    },
-    {
-      "audio_id": "1190369505495446",
-      "title": "No Makeup Look (Reels Sound - Before And After)",
-      "display_artist": "POTG",
-      "duration_in_ms": 17850
-    },
-    {
-      "audio_id": "1709954976398374",
-      "title": "Chiptune (Reels Sound - Photo Dump)",
-      "display_artist": "POTG",
-      "duration_in_ms": 12048
-    },
-    {
-      "audio_id": "5619169451530362",
-      "title": "Silent Night",
-      "display_artist": "Peter Collins",
-      "duration_in_ms": 152899
-    },
-    {
-      "audio_id": "889440798822198",
-      "title": "Slow Is Smooth, Smooth Is Fast",
+      "audio_id": "1486484549339804",
+      "title": "Confessions (Instrumental)",
       "display_artist": "Ross Lara",
-      "duration_in_ms": 208612
+      "duration_in_ms": 205620
     },
     {
-      "audio_id": "3272889319568968",
-      "title": "Gina",
-      "display_artist": "Company Money",
-      "duration_in_ms": 49206
+      "audio_id": "1265905401577526",
+      "title": "Come On (feat. Nikal Fieldz)",
+      "display_artist": "ill Think in ink",
+      "duration_in_ms": 174396
     },
     {
-      "audio_id": "685252647749802",
-      "title": "Candela (Instrumental)",
-      "display_artist": "Sara Jaramillo",
-      "duration_in_ms": 179274
+      "audio_id": "551961804568637",
+      "title": "Might Just Lose My Mind (Instrumental)",
+      "display_artist": "Sangarang",
+      "duration_in_ms": 166925
     },
     {
-      "audio_id": "1179923114120063",
-      "title": "Trust The Process",
-      "display_artist": "Company Money",
-      "duration_in_ms": 18090
-    },
-    {
-      "audio_id": "4277011239187041",
-      "title": "Nothing",
-      "display_artist": "Company Money",
-      "duration_in_ms": 18050
-    },
-    {
-      "audio_id": "628302717021068",
-      "title": "Want Me Too (Instrumental)",
-      "display_artist": "Julia Gartha",
-      "duration_in_ms": 166379
-    },
-    {
-      "audio_id": "737330485256927",
-      "title": "Squish It",
-      "display_artist": "PiNKSHGRFNGR",
-      "duration_in_ms": 156360
-    },
-    {
-      "audio_id": "916775574817236",
-      "title": "Oh Girl",
-      "display_artist": "LAVLO",
-      "duration_in_ms": 55105
-    },
-    {
-      "audio_id": "1630370780825187",
-      "title": "Counting The Stars (Instrumental)",
-      "display_artist": "Global Genius",
-      "duration_in_ms": 202651
-    },
-    {
-      "audio_id": "732804868643394",
-      "title": "Sweet One (Happy Birthday)",
+      "audio_id": "5910322659050214",
+      "title": "A Cautionary Tale",
       "display_artist": "Alex Blue",
-      "duration_in_ms": 167100
+      "duration_in_ms": 113340
     },
     {
-      "audio_id": "316844477553656",
-      "title": "Cloak & Dagger",
-      "display_artist": "Ecklectic Music",
-      "duration_in_ms": 205776
+      "audio_id": "773131975352850",
+      "title": "Bittersweet",
+      "display_artist": "Loga Ramin Torkian",
+      "duration_in_ms": 143811
     },
     {
-      "audio_id": "836810444487050",
-      "title": "Ring Ring",
+      "audio_id": "1326455629601919",
+      "title": "Cool Breeze",
+      "display_artist": "anonymous audio",
+      "duration_in_ms": 62000
+    },
+    {
+      "audio_id": "1321276102476498",
+      "title": "Back Back (feat. Mic Coats)",
+      "display_artist": "E.M.E",
+      "duration_in_ms": 68500
+    },
+    {
+      "audio_id": "272114135386704",
+      "title": "Guilty Rhythm",
+      "display_artist": "Cold Comfort",
+      "duration_in_ms": 216973
+    },
+    {
+      "audio_id": "1861504554690394",
+      "title": "Aggro",
+      "display_artist": "Sam Marshall",
+      "duration_in_ms": 183437
+    },
+    {
+      "audio_id": "1365915578574249",
+      "title": "Oh Christmas Tree (feat. Wildlife Moon)",
+      "display_artist": "Phury",
+      "duration_in_ms": 239644
+    },
+    {
+      "audio_id": "935454864253585",
+      "title": "Grudge (Instrumental)",
+      "display_artist": "Tash",
+      "duration_in_ms": 202734
+    },
+    {
+      "audio_id": "875210330354135",
+      "title": "Good Life",
       "display_artist": "Chela Rivas",
-      "duration_in_ms": 125663
+      "duration_in_ms": 135711
     },
     {
-      "audio_id": "1550885468717930",
-      "title": "Morning Meditation (feat. Rini)",
-      "display_artist": "Simona Smirnova",
-      "duration_in_ms": 321650
+      "audio_id": "308571168723224",
+      "title": "Veneno (Reels Sound - Listicle)",
+      "display_artist": "Chela Rivas",
+      "duration_in_ms": 15000
     },
     {
-      "audio_id": "8919309684808763",
-      "title": "Keep On Moving",
-      "display_artist": "Giulio Cercato",
-      "duration_in_ms": 120050
+      "audio_id": "1608039604333494",
+      "title": "Dewdrops",
+      "display_artist": "Jesse Robitaille",
+      "duration_in_ms": 68860
     },
     {
-      "audio_id": "1430474428921892",
-      "title": "Sequence",
-      "display_artist": "cloud cover",
-      "duration_in_ms": 66503
+      "audio_id": "2241006349983687",
+      "title": "We’ll Get There Together",
+      "display_artist": "Magnetic Sirens",
+      "duration_in_ms": 61618
     },
     {
-      "audio_id": "436553925811577",
-      "title": "Wrong Turn",
-      "display_artist": "Daria Novo",
-      "duration_in_ms": 230670
+      "audio_id": "863668535021602",
+      "title": "Good Idea",
+      "display_artist": "Sleeping Lion",
+      "duration_in_ms": 168050
     },
     {
-      "audio_id": "2136894373460506",
-      "title": "Magic",
-      "display_artist": "stereogully",
-      "duration_in_ms": 129187
+      "audio_id": "2467501950253308",
+      "title": "Make This Right (Instrumental)",
+      "display_artist": "Julia Gartha",
+      "duration_in_ms": 128323
+    },
+    {
+      "audio_id": "795932768723202",
+      "title": "You Got Away",
+      "display_artist": "Otis McDonald",
+      "duration_in_ms": 189875
+    },
+    {
+      "audio_id": "1276293710124582",
+      "title": "Landscapes (Instrumental)",
+      "display_artist": "Alex Blue",
+      "duration_in_ms": 229355
+    },
+    {
+      "audio_id": "687466346538816",
+      "title": "Origami Heart",
+      "display_artist": "Chela Rivas",
+      "duration_in_ms": 145674
+    },
+    {
+      "audio_id": "693159539859390",
+      "title": "They Wanna Flex (Instrumental)",
+      "display_artist": "Sbvce",
+      "duration_in_ms": 156457
+    },
+    {
+      "audio_id": "2296373673878428",
+      "title": "Other",
+      "display_artist": "Dirty Dave",
+      "duration_in_ms": 208470
+    },
+    {
+      "audio_id": "1126106191617465",
+      "title": "L'Amour (feat. Fusam, Tichiben)",
+      "display_artist": "Afro Sound Machine",
+      "duration_in_ms": 239239
     }
   ],
   "searches": {
