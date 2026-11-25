@@ -19,5 +19,10 @@
   "audio_note": "Shoreline (Instrumental) - Giulio Cercato (calm corporate)",
   "format": "list loop",
   "modelled_on": "Faceless looping list Reels ('7 deductions that sound illegal (but aren't)': 960K and 661K views, 5x–190x the creators' medians)",
-  "status": "queued"
+  "status": "published",
+  "trial_used": false,
+  "trial_error": "HTTP 400: Application does not have permission for this action (code 10, subcode 2207081)",
+  "media_id": "18118438709467073",
+  "published_at": "2026-11-25T09:43:57.746334+00:00",
+  "permalink": "https://www.instagram.com/reel/DgKPJSyioX_/"
 }
