@@ -1,95 +1,113 @@
 {
-  "fetched_at": "2026-11-26T13:42+00:00",
+  "fetched_at": "2026-11-26T17:26+00:00",
   "trending": [
     {
-      "audio_id": "1037270285608354",
-      "title": "Cat Jam",
+      "audio_id": "862607939632718",
+      "title": "Home For The Holidays (Reels Sound - Before & After)",
+      "display_artist": "Bryan Todd",
+      "duration_in_ms": 32703
+    },
+    {
+      "audio_id": "603204331275463",
+      "title": "Lost (feat. Poccex)",
+      "display_artist": "Jumbo",
+      "duration_in_ms": 182450
+    },
+    {
+      "audio_id": "2355708574955044",
+      "title": "Bronx",
       "display_artist": "cloud cover",
-      "duration_in_ms": 73284
+      "duration_in_ms": 69930
     },
     {
-      "audio_id": "26147594391539063",
-      "title": "Orch Amapiano (Peace Of Mind) (feat. TheRealPhoenix) (Instrumental)",
-      "display_artist": "Afro Sound Machine",
-      "duration_in_ms": 165924
+      "audio_id": "1707383173817754",
+      "title": "Ready To Pounce",
+      "display_artist": "Jim Hustwit",
+      "duration_in_ms": 63800
     },
     {
-      "audio_id": "1670070830093181",
-      "title": "Down To The River",
-      "display_artist": "Ella Joy Meir",
-      "duration_in_ms": 153857
+      "audio_id": "1663226951445801",
+      "title": "Opulent Grind",
+      "display_artist": "Fellow Travelers",
+      "duration_in_ms": 63086
     },
     {
-      "audio_id": "2726709111012588",
-      "title": "Oath Of The Fallen (Instrumental)",
-      "display_artist": "Daria Novo",
-      "duration_in_ms": 166678
-    },
-    {
-      "audio_id": "1304558693546576",
-      "title": "Don't Hate, Celebrate",
-      "display_artist": "Otis McDonald",
-      "duration_in_ms": 150093
-    },
-    {
-      "audio_id": "853514406045872",
-      "title": "Telisi Rama (feat. Rini)",
-      "display_artist": "Daniel Alba",
-      "duration_in_ms": 228520
-    },
-    {
-      "audio_id": "25721787387518556",
-      "title": "Ascend",
-      "display_artist": "LAVLO",
-      "duration_in_ms": 68056
-    },
-    {
-      "audio_id": "1801209686924519",
-      "title": "Where The Forest Will Take You",
+      "audio_id": "1020993105834965",
+      "title": "Float",
       "display_artist": "Ross Lara",
-      "duration_in_ms": 214792
+      "duration_in_ms": 184230
     },
     {
-      "audio_id": "2923548401114855",
-      "title": "Sopno (feat. Snehaalina Chakroborty)",
-      "display_artist": "Jazzy Sadhu",
-      "duration_in_ms": 206739
+      "audio_id": "376829781440535",
+      "title": "Sleigh Ride",
+      "display_artist": "Sam Marshall",
+      "duration_in_ms": 175952
     },
     {
-      "audio_id": "949754374812737",
-      "title": "Talking To The Sun",
-      "display_artist": "ill Think in ink",
-      "duration_in_ms": 63797
+      "audio_id": "683689217704789",
+      "title": "Put Your Best Face On (Pretty Up)",
+      "display_artist": "The Carnie Crew",
+      "duration_in_ms": 205689
     },
     {
-      "audio_id": "2889125044780697",
-      "title": "Sound Maze",
-      "display_artist": "Dana City",
-      "duration_in_ms": 61660
+      "audio_id": "905767703865645",
+      "title": "Workday 10s",
+      "display_artist": "Scott Dugdale",
+      "duration_in_ms": 10130
     },
     {
-      "audio_id": "1082299394231369",
-      "title": "Sunset Glitter Engine",
-      "display_artist": "Magnetic Sirens",
-      "duration_in_ms": 61800
+      "audio_id": "1558920441553516",
+      "title": "After The Fact",
+      "display_artist": "Brian Withycombe",
+      "duration_in_ms": 172080
     },
     {
-      "audio_id": "7479044568819964",
-      "title": "The Rose Of Sutter (NorCal Country)",
-      "display_artist": "Charlie Peacock",
-      "duration_in_ms": 254320
+      "audio_id": "994079269235895",
+      "title": "Is Dat Da Funk U Want",
+      "display_artist": "Sugartapes",
+      "duration_in_ms": 148050
     },
     {
-      "audio_id": "1516105745551798",
-      "title": "Lost In A Dream",
-      "display_artist": "VOLO",
-      "duration_in_ms": 128975
+      "audio_id": "1011178941789966",
+      "title": "Riverbank",
+      "display_artist": "Goldenrod",
+      "duration_in_ms": 78050
     },
     {
-      "audio_id": "1723877611365392",
-      "title": "Today Was A Good Day",
-      "display_artist": "CaroMia",
-      "duration_in_ms": 171040
+      "audio_id": "1096487744623149",
+      "title": "Let It Out, Let It Out",
+      "display_artist": "Veronica May",
+      "duration_in_ms": 188122
+    },
+    {
+      "audio_id": "270705245969284",
+      "title": "Despues De Ti",
+      "display_artist": "Sara Jaramillo",
+      "duration_in_ms": 149433
+    },
+    {
+      "audio_id": "245956005248317",
+      "title": "Looking Back",
+      "display_artist": "Elevated Mind",
+      "duration_in_ms": 204310
+    },
+    {
+      "audio_id": "1188966762056844",
+      "title": "Metaverse",
+      "display_artist": "The.Wav",
+      "duration_in_ms": 133516
+    },
+    {
+      "audio_id": "1690006438115563",
+      "title": "The Happening (feat. G7MBL3)",
+      "display_artist": "d.higgs",
+      "duration_in_ms": 180755
+    },
+    {
+      "audio_id": "1355509902409078",
+      "title": "Curse (Instrumental)",
+      "display_artist": "Company Money",
+      "duration_in_ms": 165006
     },
     {
       "audio_id": "791711906519334",
@@ -98,58 +116,40 @@
       "duration_in_ms": 125990
     },
     {
-      "audio_id": "2330448330671515",
-      "title": "Shop Shop Shop (Reels Sound - Listicle)",
-      "display_artist": "POTG",
-      "duration_in_ms": 15464
+      "audio_id": "949754374812737",
+      "title": "Talking To The Sun",
+      "display_artist": "ill Think in ink",
+      "duration_in_ms": 63797
     },
     {
-      "audio_id": "1043658100820040",
-      "title": "Vertige",
-      "display_artist": "Ross Lara",
-      "duration_in_ms": 234340
+      "audio_id": "854223943490784",
+      "title": "Art Life",
+      "display_artist": "Symphonic Planet",
+      "duration_in_ms": 221750
     },
     {
-      "audio_id": "1850572993015345",
-      "title": "While We Work",
-      "display_artist": "Magnetic Sirens",
-      "duration_in_ms": 63289
+      "audio_id": "767784445905062",
+      "title": "Timeless Remix (Duffrey)",
+      "display_artist": "SjDuB",
+      "duration_in_ms": 97920
     },
     {
-      "audio_id": "971647001178498",
-      "title": "Weak Days (feat. Gatsby)",
-      "display_artist": "Bryan Todd",
-      "duration_in_ms": 178870
+      "audio_id": "835962018179957",
+      "title": "Coelhinho (Instrumental)",
+      "display_artist": "Quincas Moreira",
+      "duration_in_ms": 171536
     },
     {
-      "audio_id": "324331030344287",
-      "title": "No Pressure",
-      "display_artist": "Jazmine",
-      "duration_in_ms": 129384
-    },
-    {
-      "audio_id": "968996058766070",
-      "title": "Mama Africa (Take Me There) (feat. Mista Yza)",
+      "audio_id": "2252341481617994",
+      "title": "Enjoy (feat. Sweech)",
       "display_artist": "Afro Sound Machine",
-      "duration_in_ms": 150346
+      "duration_in_ms": 219868
     },
     {
-      "audio_id": "1291893081946451",
-      "title": "Ghost Wave Rider (Reels Sound - Reveal)",
-      "display_artist": "Global Genius",
-      "duration_in_ms": 36388
-    },
-    {
-      "audio_id": "639014834938286",
-      "title": "Bounce Around",
-      "display_artist": "Trout Recording",
-      "duration_in_ms": 173927
-    },
-    {
-      "audio_id": "6931684223613976",
-      "title": "One More Time (feat. DOSE, Jacquire King)",
-      "display_artist": "The K Club",
-      "duration_in_ms": 156740
+      "audio_id": "223854827270315",
+      "title": "Memories",
+      "display_artist": "Giulio Cercato",
+      "duration_in_ms": 136138
     }
   ],
   "searches": {
