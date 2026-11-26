@@ -1,6 +1,6 @@
 # Instagram stats
 
-Updated Thu 26 Nov 2026, 8:17 AM (Sydney). Refreshes about every 4 hours.
+Updated Thu 26 Nov 2026, 12:43 PM (Sydney). Refreshes about every 4 hours.
 
 ## Retained (@retained.au)
 
@@ -8,13 +8,13 @@ Updated Thu 26 Nov 2026, 8:17 AM (Sydney). Refreshes about every 4 hours.
 
 | Day | Reach | Profile visits |
 | --- | ---: | ---: |
-| 2026-11-18 | 21 | 0 |
 | 2026-11-19 | 48 | 0 |
 | 2026-11-20 | 29 | 0 |
 | 2026-11-21 | 9 | 0 |
 | 2026-11-22 | 78 | 0 |
 | 2026-11-23 | 13 | 0 |
 | 2026-11-24 | 12 | 1 |
+| 2026-11-25 | 3 | 0 |
 
 **Top posts by reach**
 
@@ -32,13 +32,13 @@ Updated Thu 26 Nov 2026, 8:17 AM (Sydney). Refreshes about every 4 hours.
 
 | Day | Reach | Profile visits |
 | --- | ---: | ---: |
-| 2026-11-18 | 32 | 0 |
 | 2026-11-19 | 108 | 0 |
 | 2026-11-20 | 38 | 0 |
 | 2026-11-21 | 13 | 0 |
 | 2026-11-22 | 57 | 0 |
 | 2026-11-23 | 14 | 0 |
 | 2026-11-24 | 104 | 0 |
+| 2026-11-25 | 83 | 0 |
 
 **Top posts by reach**
 
