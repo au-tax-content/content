@@ -1,7 +1,7 @@
-retained 37 posts; 2 handles failed: ['dynamicbusiness', 'flyingsolo']
+retained 40 posts; 2 handles failed: ['dynamicbusiness', 'flyingsolo']
   first error: HTTP 400: Invalid user id (code 110, subcode 2207013)
-returnpolicy 17 posts; 10 handles failed: ['barefootinvestor', 'canstar', 'mozo_au', 'moneymagazineaus', 'moneysmartgovau', 'realestate.com.au', 'afrfinancialreview', 'theaustralian', 'news.com.au', 'upbank']
+returnpolicy 13 posts; 10 handles failed: ['barefootinvestor', 'canstar', 'mozo_au', 'moneymagazineaus', 'moneysmartgovau', 'realestate.com.au', 'afrfinancialreview', 'theaustralian', 'news.com.au', 'upbank']
   first error: HTTP 400: Invalid user id (code 110, subcode 2207013)
-karltondennis 766376 50 posts
-humphreytalks 907659 50 posts
+karltondennis 767783 50 posts
+humphreytalks 907191 50 posts
 grahamstephan failed: HTTP 400: Invalid user id (code 110, subcode 2207013)
