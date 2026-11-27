@@ -18,7 +18,12 @@
   "audio_note": "Good Day - COACH (upbeat)",
   "format": "motion + voiceover",
   "modelled_on": "'Nobody told us this existed' benefit reveals (542K views, 115x median)",
-  "status": "queued",
+  "status": "published",
   "voiceover": true,
-  "voice": "Charlie (Australian male, ElevenLabs via vidIQ); script lines in vo/ match the on-screen cards"
+  "voice": "Charlie (Australian male, ElevenLabs via vidIQ); script lines in vo/ match the on-screen cards",
+  "trial_used": false,
+  "trial_error": "HTTP 400: Application does not have permission for this action (code 10, subcode 2207081)",
+  "media_id": "18164603329503308",
+  "published_at": "2026-11-27T08:52:53.769007+00:00",
+  "permalink": "https://www.instagram.com/reel/DgPS9ksjfkO/"
 }
