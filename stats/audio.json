@@ -1,155 +1,155 @@
 {
-  "fetched_at": "2026-11-28T05:21+00:00",
+  "fetched_at": "2026-11-28T09:11+00:00",
   "trending": [
     {
-      "audio_id": "375223564840788",
-      "title": "Beautiful Way",
-      "display_artist": "Lyle Workman",
-      "duration_in_ms": 311720
-    },
-    {
-      "audio_id": "675208868309032",
-      "title": "Pineapple Pen",
-      "display_artist": "Symphonic Planet",
-      "duration_in_ms": 205991
-    },
-    {
-      "audio_id": "733300122099658",
-      "title": "Focus (Reels Sound - Listicle)",
-      "display_artist": "Jumbo",
-      "duration_in_ms": 16370
-    },
-    {
-      "audio_id": "2507060929778365",
-      "title": "Club Pluto",
-      "display_artist": "cloud cover",
-      "duration_in_ms": 67500
-    },
-    {
-      "audio_id": "1099653021002135",
-      "title": "Floating On Air (feat. DeShawn Jenkins)",
-      "display_artist": "half.cool",
-      "duration_in_ms": 180770
-    },
-    {
-      "audio_id": "1172828563714393",
-      "title": "F1 (feat. Plum Soul)",
-      "display_artist": "Jumbo",
-      "duration_in_ms": 160990
-    },
-    {
-      "audio_id": "261260519878906",
-      "title": "Casa Banga (feat. Makana)",
-      "display_artist": "Last Jerónimo",
-      "duration_in_ms": 187852
-    },
-    {
-      "audio_id": "1223153016078197",
-      "title": "Moon",
-      "display_artist": "Sam Marshall",
-      "duration_in_ms": 216000
-    },
-    {
-      "audio_id": "1343010837299740",
-      "title": "Abstract",
-      "display_artist": "Ross Lara",
-      "duration_in_ms": 214505
-    },
-    {
-      "audio_id": "1038077271963932",
-      "title": "Maybe This Time",
-      "display_artist": "Afterlight",
-      "duration_in_ms": 64849
-    },
-    {
-      "audio_id": "1112619309796713",
-      "title": "Breathe",
-      "display_artist": "Tony Dark Eyes",
-      "duration_in_ms": 135590
-    },
-    {
-      "audio_id": "530909465519782",
-      "title": "Crazy Kinda Love",
-      "display_artist": "Phillipe Bianco",
-      "duration_in_ms": 163655
-    },
-    {
-      "audio_id": "892892338342812",
-      "title": "Maybe Next Time",
-      "display_artist": "Adam Griffith",
-      "duration_in_ms": 159360
-    },
-    {
-      "audio_id": "1349518259431378",
-      "title": "Pack An Order (Reels Sound - Reaction)",
-      "display_artist": "POTG",
-      "duration_in_ms": 24761
-    },
-    {
-      "audio_id": "1238592560253841",
-      "title": "In Motion",
-      "display_artist": "Ella Joy Meir",
-      "duration_in_ms": 182656
-    },
-    {
-      "audio_id": "1255369174323736",
-      "title": "High School Drama",
-      "display_artist": "Lightbox Music",
-      "duration_in_ms": 74275
-    },
-    {
-      "audio_id": "1345895252777287",
-      "title": "Hold On",
-      "display_artist": "Tony Dark Eyes",
-      "duration_in_ms": 152325
-    },
-    {
-      "audio_id": "1178547190562554",
-      "title": "Floating On",
-      "display_artist": "Alex Blue",
-      "duration_in_ms": 192860
-    },
-    {
-      "audio_id": "890266642235598",
-      "title": "Deeper",
-      "display_artist": "David Marcus",
-      "duration_in_ms": 202610
-    },
-    {
-      "audio_id": "1079025940956010",
-      "title": "Take Me Home (Loop)",
-      "display_artist": "Giulio Cercato",
-      "duration_in_ms": 31219
-    },
-    {
-      "audio_id": "582121464748602",
-      "title": "Reset",
-      "display_artist": "Bryan Todd",
-      "duration_in_ms": 154360
-    },
-    {
-      "audio_id": "1052053203511759",
-      "title": "Só Você (Only You) (Instrumental)",
-      "display_artist": "Fernando Ébano",
-      "duration_in_ms": 184811
-    },
-    {
-      "audio_id": "1046960814054794",
-      "title": "Shoreline",
-      "display_artist": "Giulio Cercato",
-      "duration_in_ms": 159119
-    },
-    {
-      "audio_id": "4367674360124219",
-      "title": "My Everything",
+      "audio_id": "1061351469184219",
+      "title": "Ghoulish Grooves (Reels Sound - Listicle)",
       "display_artist": "Otis McDonald",
-      "duration_in_ms": 158608
+      "duration_in_ms": 33910
     },
     {
-      "audio_id": "1596264168805109",
-      "title": "Perrenke",
-      "display_artist": "Team Icon Music",
-      "duration_in_ms": 47058
+      "audio_id": "1417253966978163",
+      "title": "Quiet Down",
+      "display_artist": "Jackson Whalan",
+      "duration_in_ms": 68380
+    },
+    {
+      "audio_id": "776992364728059",
+      "title": "Magica (Instrumental)",
+      "display_artist": "half.cool",
+      "duration_in_ms": 157782
+    },
+    {
+      "audio_id": "1361915537947793",
+      "title": "Smooth Like Silk",
+      "display_artist": "Brian Withycombe",
+      "duration_in_ms": 168044
+    },
+    {
+      "audio_id": "1058192823775815",
+      "title": "Happy Techno",
+      "display_artist": "Ella Joy Meir",
+      "duration_in_ms": 128581
+    },
+    {
+      "audio_id": "284619490858224",
+      "title": "Be Happy (Instrumental)",
+      "display_artist": "J.Wire",
+      "duration_in_ms": 203731
+    },
+    {
+      "audio_id": "1096969411301220",
+      "title": "Good Love",
+      "display_artist": "Adam Griffith",
+      "duration_in_ms": 149255
+    },
+    {
+      "audio_id": "27981001488189072",
+      "title": "Starlight",
+      "display_artist": "cloud cover",
+      "duration_in_ms": 76670
+    },
+    {
+      "audio_id": "1352337306404213",
+      "title": "Redux (feat. My City Glory)",
+      "display_artist": "Ross Lara",
+      "duration_in_ms": 243803
+    },
+    {
+      "audio_id": "564171319633869",
+      "title": "Smiling",
+      "display_artist": "half.cool",
+      "duration_in_ms": 135666
+    },
+    {
+      "audio_id": "262939100157147",
+      "title": "Fofo Danba (feat. Gnawa of Hope)",
+      "display_artist": "Jayme Stone & David Travers-Smith",
+      "duration_in_ms": 227340
+    },
+    {
+      "audio_id": "1039998750519068",
+      "title": "Bling (Instrumental)",
+      "display_artist": "Sugartapes",
+      "duration_in_ms": 130730
+    },
+    {
+      "audio_id": "1283465480256117",
+      "title": "No Borders",
+      "display_artist": "Fellow Travelers",
+      "duration_in_ms": 204634
+    },
+    {
+      "audio_id": "969600794596390",
+      "title": "Sitaron Ke Pass",
+      "display_artist": "Rik Basu",
+      "duration_in_ms": 164040
+    },
+    {
+      "audio_id": "1384407049029080",
+      "title": "In The Swamp",
+      "display_artist": "Giulio Cercato",
+      "duration_in_ms": 128005
+    },
+    {
+      "audio_id": "1483304217150434",
+      "title": "Soft Oblivion",
+      "display_artist": "Sunday Scary",
+      "duration_in_ms": 81650
+    },
+    {
+      "audio_id": "1353423956484689",
+      "title": "Mejor (Better Without You)",
+      "display_artist": "Kolektivo",
+      "duration_in_ms": 145350
+    },
+    {
+      "audio_id": "986402833374088",
+      "title": "Traveling (Reels Sound - Reveal)",
+      "display_artist": "Mike Block",
+      "duration_in_ms": 15090
+    },
+    {
+      "audio_id": "1778243000276633",
+      "title": "Cruise Ship Robot",
+      "display_artist": "Fellow Travelers",
+      "duration_in_ms": 63364
+    },
+    {
+      "audio_id": "763775223134409",
+      "title": "Love Ka Funda",
+      "display_artist": "Neha Karode",
+      "duration_in_ms": 172540
+    },
+    {
+      "audio_id": "738343045653257",
+      "title": "Voice Of The Nomad (Instrumental)",
+      "display_artist": "Symphonic Planet",
+      "duration_in_ms": 222711
+    },
+    {
+      "audio_id": "1172555077735329",
+      "title": "Staring At The Sun (Instrumental)",
+      "display_artist": "Chela Rivas",
+      "duration_in_ms": 153490
+    },
+    {
+      "audio_id": "4644092079154714",
+      "title": "Sun Setting",
+      "display_artist": "cloud cover",
+      "duration_in_ms": 77920
+    },
+    {
+      "audio_id": "1103167153704657",
+      "title": "Seaside (feat. Kianna)",
+      "display_artist": "Giulio Cercato",
+      "duration_in_ms": 182732
+    },
+    {
+      "audio_id": "670370158013398",
+      "title": "First To The Finish Line",
+      "display_artist": "Trout Recording",
+      "duration_in_ms": 197360
     }
   ],
   "searches": {
