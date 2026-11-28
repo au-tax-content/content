@@ -19,5 +19,10 @@
   "audio_note": "Summer Bummer - Summer Islands (light, summery)",
   "format": "motion",
   "modelled_on": "Myth-bust / 'stop doing this' hooks with one number per card",
-  "status": "queued"
+  "status": "published",
+  "trial_used": false,
+  "trial_error": "HTTP 400: Application does not have permission for this action (code 10, subcode 2207081)",
+  "media_id": "18146941855612516",
+  "published_at": "2026-11-28T08:41:26.826506+00:00",
+  "permalink": "https://www.instagram.com/reel/DgR2eLcihif/"
 }
